@@ -6,7 +6,7 @@ Cancer broncho-pulmonaire primitif associé à une sidérose.
 
 DÉLAI DE PRISE EN CHARGE
 
-30 ans
+40 ans (sous réserve d'une durée d'exposition de 10 ans).
 
 LISTE LIMITATIVE DES TRAVAUX
 
@@ -22,9 +22,9 @@ Travaux de concassage dans les mines de fer, au fond et en surface.
 
 	  - Décret n°85-1353 1985-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-1348 du 23 décembre 1992 - art. 1 () JORF 24 décembre 1992
+	  - Décret n°2000-343 du 14 avril 2000 - art. 4 () JORF 21 avril 2000
 
 	**Liens**:
 
