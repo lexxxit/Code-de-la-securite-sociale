@@ -37,7 +37,8 @@ l'étirage, le tréfilage, le découpage, le sciage, le cisaillage, le tronçonn
 
 - les travaux de verrerie à proximité des fours, machines de fabrication, broyeurs et concasseurs ; l'embouteillage ;
 
-- le tissage sur métiers ou machines à tisser ;
+- le tissage sur métiers ou machines à tisser, les travaux sur peigneuses, machines à filer incluant le passage sur bancs à
+broches, retordeuses, moulineuses, bobineuses de fibres textiles ;
 
 - la mise au point, les essais et l'utilisation des propulseurs, réacteurs, moteurs thermiques, groupes électrogènes, groupes
 hydrauliques, installations de compression ou de détente fonctionnant à des pressions différentes de la pression
@@ -89,7 +90,7 @@ d'aéroports ;
 
 	**Modifié par**:
 
-	  - Décret n°91-877 du 3 septembre 1991 - art. 3 () JORF 7 septembre 1991
+	  - Décret n°95-52 du 12 janvier 1995 - art. 1 () JORF 18 janvier 1995
 
 	**Liens**:
 
