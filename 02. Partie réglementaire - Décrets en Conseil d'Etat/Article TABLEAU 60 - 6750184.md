@@ -1,40 +1,4 @@
-# Code de la sécurité sociale  
-Version Consolidée au 1973-03-02
-
-# Partie réglementaire - Décrets en Conseil d'Etat
-
-## Tableaux des maladies professionnelles prévus à l'article R. 461-3
-
-### 17. DERMATOSES CAUSEES PAR L'ACTION DU SESQUISULFURE DE PHOSPHORE.
-
-###### Article TABLEAU 17
-
-MALADIES ENGENDREES PAR LE SESQUISULFURE DE PHOSPHORE Dermites aiguës, chroniques ou récidivantes dues au sesquisulfure de
-phosphore (phosphorides) DELAI DE PRISE EN CHARGE : 30 jours
-
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES : 
-
-Manipulation et emploi du sesquisulfure de phosphore, notamment dans les usines fabriquant ce produit et dans les
-manufactures d'allumettes.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°61-28 1961-01-11 art. 1 JORF 12 janvier 1961
-
-	**Abrogé par**:
-
-	  - Décret n°85-630 1985-06-19 art. 11 JORF 23 juin 1985
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la sécurité sociale. - art. R461-3 (V)
-
-
-### 60. INTOXICATION PROFESSIONNELLE PAR LE PENTACHLOROPHENOL OU LE PENTACHLOROPHENATE DE SODIUM.
-
-###### Article TABLEAU 60
+# Article TABLEAU 60
 
 Maladies engendrées par le pentachlorophénol ou le pentachlorophénate de sodium    : 
 
@@ -76,5 +40,3 @@ renfermant notamment au cours des travaux ci-après :
 	**Liens**:
 
 	  - TXT_SOURCE: Code de la sécurité sociale. - art. R461-3 (V)
-
-
