@@ -59,7 +59,8 @@ Travaux de laboratoire de biologie.
 
 Travaux de laboratoire de bactériologie.
 
-Travaux effectués à l'occasion du prélèvement ou de la manipulation des produits pathologiques ou de matériel contaminé.
+Tous travaux effectués par le personnel de soins et assimilé, de laboratoire, d'entretien, de service ou des services sociaux
+mettant le personnel au contact de produits contaminés ou de malades dont les examens bactériologiques ont été positifs.
 
 **Liens relatifs à cet article**
 
@@ -67,9 +68,9 @@ Travaux effectués à l'occasion du prélèvement ou de la manipulation des prod
 
 	  - Décret n°85-1353 1985-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°85-1353 1985-12-17 art. 1 JORF 21 décembre 1985
+	  - Décret n°92-1348 du 23 décembre 1992 - art. 1 () JORF 24 décembre 1992
 
 	**Liens**:
 

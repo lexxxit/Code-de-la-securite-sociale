@@ -61,6 +61,14 @@ Préparation et mise en oeuvre de colorants réactifs, notamment à hétérocycl
 
 Préparation et utilisation de colles au cyanoacrylate.
 
+Travaux exposant à des émanations de glutaraldéhyde ;
+
+Travaux exposant aux résidus d'extraction des huiles, notamment de ricin et d'ambrette ;
+
+Travaux exposant à des émanations d'oxyde d'éthylène, notamment lors de la stérilisation ;
+
+Fabrication et conditionnement du chloramine T.
+
 DESIGNATION DES MALADIES :
 
 - B -
@@ -107,7 +115,7 @@ tétrachlorophtaliques, hexahydrophtaliques, himiques.
 
 	**Modifié par**:
 
-	  - Décret n°89-667 1989-09-13 art. 6 JORF 17 septembre 1989
+	  - Décret n°92-1348 du 23 décembre 1992 - art. 1 () JORF 24 décembre 1992
 
 	**Liens**:
 

@@ -63,6 +63,8 @@ Résines dérivées du para-tert-butylphénol et du para-tert-butylcatéchol ;
 
 Dicyclohexylcarbodiimide.
 
+Glutaraldéhyde.
+
 B. - Produits végétaux ou d'origine végétale :
 
 Produits d'extraction du pin, notamment essence de térébenthine, colophane et ses dérivés ;
@@ -90,7 +92,7 @@ Farines de céréales.
 
 	**Modifié par**:
 
-	  - Décret n°89-667 1989-09-13 art. 5 JORF 17 septembre 1989
+	  - Décret n°92-1348 du 23 décembre 1992 - art. 1 () JORF 24 décembre 1992
 
 	**Liens**:
 
