@@ -8,14 +8,13 @@ DELAI DE PRISE EN CHARGE : 3 jours
 
 DESIGNATION DES MALADIES :
 
-Dermo-épidermite irritative avec dessication de la peau récidivante après nouvelle exposition au solvant.
+Dermite irritative.
 
 DELAI DE PRISE EN CHARGE : 7 jours
 
 DESIGNATION DES MALADIES :
 
-Dermite eczématiforme récidivante après nouvelle exposition au solvant ou confirmée par un test épicutané positif au produit
-manipulé.
+Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test épicutané.
 
 DELAI DE PRISE EN CHARGE : 15 jours
 
@@ -41,9 +40,9 @@ cosmétiques.
 
 	  - Décret n°85-1353 1985-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-582 du 22 juillet 1987 - art. 8 () JORF 28 juillet 1987
+	  - Décret n°2003-110 du 11 février 2003 - art. 2 () JORF 13 février 2003
 
 	**Liens**:
 

@@ -1,49 +1,47 @@
 # Article Annexe II tableau 62
 
-Date de création : 2 mars 1973.
-
-Dernière mise à jour : 6 février 1983.
-
-DESIGNATION DES MALADIES : 
+DESIGNATION DES MALADIES :
 
 Blépharo-conjonctivite récidivante
 
-DELAI DE PRISE EN CHARGE : 3 jours 
+DELAI de prise en charge : 3 jours
 
-DESIGNATION DES MALADIES : 
+DESIGNATION DES MALADIES :
 
-Rhino-pharyngite récidivante
+Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test
 
-DELAI DE PRISE EN CHARGE : 3 jours 
+DELAI de prise en charge : 7 jours
 
-DESIGNATION DES MALADIES : 
+DESIGNATION DES MALADIES :
 
-Syndrome bronchique récidivant DELAI DE PRISE EN CHARGE : 7 jours 
+Syndrome bronchique récidivant
 
-DESIGNATION DES MALADIES : 
+DELAI de prise en charge : 7 jours
 
-Asthme ou dyspnée asthmatiforme, confirmé par tests ou par épreuves fonctionnelles, récidivant après nouvelle exposition
+DESIGNATION DES MALADIES :
 
-DELAI DE PRISE EN CHARGE : 7 jours 
+Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé
+par test
 
-DESIGNATION DES MALADIES : 
+DELAI de prise en charge : 7 jours
 
-Lésions eczématiformes récidivant après nouvelle exposition au risque ou confirmées par un test épicutané positif au produit
-manipulé 
+DESIGNATION DES MALADIES :
 
-DELAI DE PRISE EN CHARGE : 15 jours 
+Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test épicutané. 
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
+DELAI de prise en charge : 15 jours
+
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies :
 
 Travaux exposant à l'inhalation ou à la manipulation d'isocyanates organiques, notamment :
 
-Fabrication et application de vernis et laques de polyuréthanes, fabrication de fibres synthétiques ;
+- fabrication et application de vernis et laques de polyuréthanes, fabrication de fibres synthétiques ;
 
-Préparation des mousses polyuréthanes et application de ces mousses à l'état liquide ;
+- préparation des mousses polyuréthanes et application de ces mousses à l'état liquide ;
 
-Fabrication et utilisation des colles à base de polyuréthanes ;
+- fabrication et utilisation des colles à base de polyuréthanes ;
 
-Fabrication et manipulation de peintures contenant des isocyanates organiques.
+- fabrication et manipulation de peintures contenant des isocyanates organiques.
 
 **Liens relatifs à cet article**
 
@@ -51,9 +49,9 @@ Fabrication et manipulation de peintures contenant des isocyanates organiques.
 
 	  - Décret n°85-1353 1985-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°85-1353 1985-12-17 art. 1 JORF 21 décembre 1985
+	  - Décret n°2003-110 du 11 février 2003 - art. 2 () JORF 13 février 2003
 
 	**Liens**:
 
