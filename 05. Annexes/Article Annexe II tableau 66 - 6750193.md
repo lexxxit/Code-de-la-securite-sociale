@@ -48,8 +48,8 @@ Travaux exposant aux sulfites, aux bisulfites ou aux persulfates alcalins.
 Préparation, emploi, manipulation de chloroplatinates et pentoxyde de vanadium, notamment dans la fabrication des
 catalyseurs.
 
-Travaux exposant à l'inhalation d'anhydrides d'acides volatils, notamment anhydrides phtaliques, trimellitiques,
-tétrachlorophtaliques, hexahydrophtaliques, himiques.
+Travaux exposant à l'inhalation d'anhydrides d'acides volatils, notamment anhydrides maléique, phtalique, trimellitique,
+tétrachlorophtalique, hexahydrophtalique, himique.
 
 Travaux exposant à la colophane chauffée, notamment lors de la soudure en électronique.
 
@@ -69,13 +69,15 @@ Travaux exposant à des émanations d'oxyde d'éthylène, notamment lors de la s
 
 Fabrication et conditionnement du chloramine T.
 
+Manipulation de gypsophile (gypsophila paniculata).
+
 DESIGNATION DES MALADIES :
 
 - B -
 
 Syndrome respiratoire fébrile avec dyspnée, toux, expectoration, récidivant après nouvelle exposition au risque dont
-l'étiologie professionnelle est confirmée par la présence dans le sérum d'anticorps précipitants permettant d'identifier
-l'agent pathogène correspondant au produit responsable.
+l'étiologie est confirmée par la présence dans le sérum d'anticorps précipitants permettant d'identifier l'agent pathogène
+correspondant au produit responsable.
 
 DELAI DE PRISE EN CHARGE : 30 jours
 
@@ -115,7 +117,7 @@ tétrachlorophtaliques, hexahydrophtaliques, himiques.
 
 	**Modifié par**:
 
-	  - Décret n°92-1348 du 23 décembre 1992 - art. 1 () JORF 24 décembre 1992
+	  - Décret n°97-454 du 30 avril 1997 - art. 1 () JORF 8 mai 1997
 
 	**Liens**:
 

@@ -5,10 +5,9 @@ Date de création : 3 août 1945.
 Dernière mise à jour : 19 juillet 1980 DESIGNATION DES MALADIES :
 
 Silicose, pneumoconiose du houilleur, schistose, talcose, kaolinose graphitose et autres pneumoconioses provoquées par ces
-poussières ;
-
-Ces affections sont caractérisées par des signes radiographiques spécifiques, qu'ils s'accompagnent ou non de troubles
-fonctionnels
+poussières ; Ces affections sont caractérisées soit par des signes radiographiques ou, éventuellement, tomodensitométriques,
+soit par des constatations anatomopathologiques lorsqu'elles existent, que ces signes ou ces constatations s'accompagnent ou
+non de troubles fonctionnels.
 
 Complications de ces affections :
 
@@ -27,6 +26,8 @@ pneumothorax spontané ; suppuration broncho-pulmonaire subaiguë ou chronique ;
 des soins intensifs en milieu spécialisé
 
 d) Association d'une pneumoconiose avec une sclérodermie systémique progressive (syndrome d'Erasmus).
+
+e) Lésions pleuro-pneumoconiotiques à type rhumatoïde (syndrome de Caplan Colinet).
 
 DELAI DE PRISE EN CHARGE : 15 ans (sous réserve des dispositions du décret pris en application de l'article L. 461-7 du code
 de la sécurité sociale). 
@@ -79,7 +80,7 @@ d'électrodes.
 
 	**Modifié par**:
 
-	  - Décret n°95-1196 du 6 novembre 1995 - art. 1 () JORF 10 novembre 1995
+	  - Décret n°97-454 du 30 avril 1997 - art. 1 () JORF 8 mai 1997
 
 	**Cite**:
 
