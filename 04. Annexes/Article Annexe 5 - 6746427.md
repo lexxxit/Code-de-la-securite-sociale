@@ -1,78 +1,118 @@
 # Article Annexe 5
 
-III - Caisses mutuelles régionales des professions libérales 
+III. - Caisses mutuelles régionales des professions libérales
 
-Nombre de sièges de représentant des personnes affiliées au titre de l'exercice d'une profession juridique ou judiciaire
-attribué à chaque région ou groupe de régions : 
+I. Caisse mutuelle parisienne des professions libérales.
 
-a) Caisse mutuelle parisienne des professions libérales :
+a) Nombre de sièges de représentant des personnes affiliées au titre de l'exercice d'une profession juridique ou judiciaire
+attribué à chaque région ou groupe de régions :
 
-- Région parisienne : 5 sièges 
+Région Ile-de-France : 6 sièges
 
-b) Caisse mutuelle provinciale des professions libérales :
+b) Nombre de sièges de représentant des personnes affiliées au titre de l'exercice des autres professions libérales attribué
+à chaque région ou groupe de régions :
 
-- CAR Nord - CAR Picardie - CAR Champagne - CAR Lorraine - CAR Alsace : 1 siège 
+Région Ile-de-France : 19 sièges
 
-- CAR Bourgogne - CAR Franche-Comté - CAR Rhône-Alpes :
+II. Caisse mutuelle provinciale des professions libérales.
 
-1 siège 
+a) Nombre de sièges de représentant des personnes affiliées au titre de l'exercice d'une profession juridique ou judiciaire
+attribué à chaque région ou groupe de régions :
 
-- CAR Provence - Côte d'Azur - Corse - CAR Languedoc :
+Région Nord - Pas-de-Calais
 
-2 sièges 
+Région Picardie
 
-- CAR Aquitaine - CAR Midi-Pyrénées : 1 siège 
+Région Champagne-Ardenne
 
-- CAR Auvergne - CAR Limousin - CAR Poitou-Charentes - CAR centre : 1 siège 
+Région Lorraine
 
-- CAR Bretagne - CAR Pays de la Loire - CAR Haute-Normandie - CAR Basse-Normandie : 1 siège 
+Région Alsace
 
-TOTAL : 7 sièges 
+Nombre de sièges : 1
 
-Nombre de sièges de représentant des personnes affiliées au titre de l'exercice des professions libérales autres que les
-professions juridiques ou judiciaires attribué à chaque région ou groupe de régions : 
+Région Bourgogne
 
-a) Caisse mutuelle parisienne des professions libérales :
+Région Franche-Comté
 
-- Région parisienne : 14 sièges 
+Région Rhône-Alpes
 
-b) Caisse mutuelle provinciale des professions libérales :
+Nombre de sièges : 1
 
-- CAR Nord : 1 siège 
+Région Provence Alpes-Côte d'Azur
 
-- CAR Picardie : 1 siège 
+Région Corse
 
-- CAR Champagne : 1 siège 
+Région Languedoc-Roussillon
 
-- CAR Lorraine : 1 siège 
+Nombre de sièges : 2
 
-- CAR Alsace : 1 siège 
+Région Aquitaine
 
-- CAR Bourgone - CAR Franche-Comté : 1 siège 
+Région Midi-Pyrénées
 
-- CAR Rhône-Alpes : 2 sièges 
+Nombre de sièges : 1
 
-- CAR Provence - Côte d'Azur - Corse : 2 sièges 
+Région Auvergne
 
-- CAR Languedoc : 1 siège 
+Région Limousin
 
-- CAR Aquitaine : 1 siège 
+Région Poitou-Charentes
 
-- CAR Midi-Pyrénées : 1 siège 
+Région Centre
 
-- CAR Auvergne - CAR Limousin : 1 siège 
+Nombre de sièges : 1
 
-- CAR Poitou-Charentes : 1 siège 
+Région Bretagne
 
-- CAR Centre : 1 siège 
+Région Pays de la Loire
 
-- CAR Bretagne : 1 siège 
+Région Haute-Normandie
 
-- CAR Pays de la Loire : 1 siège 
+Région Basse-Normandie
 
-- CAR Haute-Normandie - CAR Basse-Normandie : 1 siège 
+Nombre de sièges : 1
 
-TOTAL : 19 sièges
+TOTAL : 7 sièges
+
+b) Nombre de sièges de représentant des personnes affiliées au titre de l'exercice des autres professions libérales attribué
+à chaque région ou groupe de régions :
+
+Région Nord - Pas-de-Calais : 1 siège
+
+Région Picardie : 1 siège
+
+Région Champagne-Ardenne : 1 siège
+
+Région Lorraine : 1 siège
+
+Région Alsace : 1 siège
+
+Région Bourgogne, Région Franche-Comté : 2 sièges
+
+Région Rhône-Alpes : 3 sièges
+
+Région Provence-Alpes-Côte d'Azur, Région Corse : 3 sièges
+
+Région Languedoc-Roussillon : 1 siège
+
+Région Aquitaine : 2 sièges
+
+Région Midi-Pyrénées : 2 sièges
+
+Région Auvergne, Région Limousin : 1 siège
+
+Région Poitou-Charentes : 1 siège
+
+Région Centre : 1 siège
+
+Région Pays de la Loire : 2 sièges
+
+Région Bretagne : 1 siège
+
+Région Haute-Normandie, Région Basse-Normandie : 2 sièges
+
+TOTAL : 26 sièges
 
 **Liens relatifs à cet article**
 
@@ -80,6 +120,11 @@ TOTAL : 19 sièges
 
 	  - Décret n°85-1353 1985-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°85-1353 1985-12-17 art. 1 JORF 21 décembre 1985
+	  - Décret n°88-934 1988-09-29 art. 1 JORF 30 septembre 1988
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la sécurité sociale. - art. R611-40 (M)
+	  - TXT_SOURCE: Code de la sécurité sociale. - art. R611-52 (M)
