@@ -758,7 +758,7 @@ Cour d'appel de Basse-Terre
 
 DEPARTEMENTS : Guadeloupe.
 
-Siège : Basse-Terre.
+Siège : Pointe-à-Pitre.
 
 Le département. 
 
@@ -794,6 +794,6 @@ Ressort : Le département.
 
 	  - Décret n°85-1353 1985-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-614 2003-07-03 annexe 1 JORF 5 juillet 2003
+	  - Décret n°2004-593 du 17 juin 2004 - art. 37 () JORF 24 juin 2004
