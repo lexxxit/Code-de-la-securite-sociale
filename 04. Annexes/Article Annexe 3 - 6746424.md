@@ -203,8 +203,8 @@ NOMBRE DE MEMBRES représentants des affiliés :
 
 CAISSES : Caisse mutuelle régionale du Rhône 
 
-CIRCONSCRIPTIONS : Départements de l'Ain, de la Loire, du Rhône et de l'Ardèche, arrondissement de Vienne et canton de La
-Verpillière (Isère) 
+CIRCONSCRIPTIONS : Départements de l'Ain, de la Loire, du Rhône et de l'Ardèche, arrondissement de Vienne et cantons de La
+Verpillière et de l'Isle- d'Abeau (Isère) 
 
 NOMBRE DE MEMBRES des conseils d'administration (toutes catégories comprises) : 26 
 
@@ -305,6 +305,6 @@ NOMBRE DE MEMBRES représentants des affiliés :
 
 	  - Décret n°85-1353 1985-12-17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°85-1353 1985-12-17 art. 1 JORF 21 décembre 1985
+	  - Décret n°88-681 1988-05-06 art. 1 JORF 8 mai 1988
