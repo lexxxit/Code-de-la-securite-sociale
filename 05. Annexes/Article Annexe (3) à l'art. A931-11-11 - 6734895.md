@@ -69,8 +69,8 @@ inscrits à leur bilan. L'état récapitulatif figure obligatoirement dans l'ann
 Lorsqu'une institution ou une union décide de ne pas le faire figurer dans l'annexe, l'état détaillé doit, dans les mêmes
 délais que les comptes annuels, être établi par l'institution ou l'union et communiqué aux commissaires aux comptes, qui en
 vérifient la sincérité et la concordance avec les comptes annuels dans les conditions définies au troisième alinéa de
-l'article L. 225-235 du code de commerce ; dans ce cas, l'état détaillé est délivré à toute personne qui en fait la demande
-et à la Commission de contrôle instituée par l'article L. 951-1 dans les conditions définies à l'article R. 931-11-8. 
+l'article L. 823-10 du code de commerce ; dans ce cas, l'état détaillé est délivré à toute personne qui en fait la demande et
+à la Commission de contrôle instituée par l'article L. 951-1 dans les conditions définies à l'article R. 931-11-8. 
 
 A. - L'état détaillé comporte : 
 
@@ -348,7 +348,7 @@ de cette différence est apprécié globalement.
 
 c) Les institutions et les unions agréées pour la branche mentionnée au 16 (a) de l'article R. 932-2-1 établissent pour ces
 opérations un état des règlements et des provisions pour sinistres à payer inscrites à leur bilan au titre de l'ensemble de
-ces opérations, présenté selon le modèle ci-après [*non reproduit*]. 
+ces opérations, présenté selon le modèle ci-après (non reproduit). 
 
 1.12. Sont également mentionnés : 
 
@@ -790,3 +790,7 @@ personnes au titre d'une garantie quelconque.
 
 	  - Arrêté 1998-03-27 annexe
 	  - Décret n°83-1020 du 29 novembre 1983 - art. 25 (Ab)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2005-1126 du 8 septembre 2005 - art. 22 (V)
