@@ -2,7 +2,7 @@
 
 **COMPTE RENDU DETAILLE ANNUEL : RENSEIGNEMENTS GENERAUX.**
 
-Les renseignements généraux du compte rendu détaillé annuel à produire à la commission de contrôle instituée par l'article L.
+Les renseignements généraux du compte rendu détaillé annuel à produire à l'Autorité de contrôle instituée par l'article L.
 951-1 par les institutions de prévoyance et les unions d'institutions de prévoyance sont les suivants :
 
 a) La dénomination sociale de l'institution ou de l'union, son adresse, la date de son agrément, les modifications apportées
@@ -56,6 +56,10 @@ excédents ainsi que le mode de répartition de celle-ci entre les participants,
 délai), et le calcul des provisions mathématiques.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
 
 	**Cite**:
 

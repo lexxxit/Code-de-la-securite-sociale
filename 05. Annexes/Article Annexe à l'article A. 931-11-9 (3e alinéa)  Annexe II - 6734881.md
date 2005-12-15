@@ -1,6 +1,6 @@
 # Article Annexe à l'article A. 931-11-9 (3e alinéa)  Annexe II
 
-**REGLES D'UTILISATION DES COMPTES.**
+**REGLES D'UTILISATION DES COMPTES. **
 
 1. Les entreprises liées à une institution de prévoyance ou une union d'institutions de prévoyance sont les entreprises
 françaises ou étrangères remplissant les conditions prévues par les articles L. 233-16 et L. 233-18 du code de commerce pour
@@ -16,7 +16,7 @@ titres représentent au moins 10 % du capital ou lorsqu'ils ont été acquis par
 
 3. Les règles d'utilisation des comptes sont les suivantes :
 
-**I. - Classe 1.**
+**I. - Classe 1. **
 
 1. L'amortissement annuel de l'emprunt pour fonds d'établissement est porté en charge par le crédit du compte 102 pour la
 part remboursée dans l'exercice et du compte 10642 pour la part non remboursée. 
@@ -90,7 +90,7 @@ c) Les opérations mentionnées aux a et b ci-dessus sont valorisées dans les c
 compte acquises par la clientèle depuis le précédent inventaire ; les plus et moins-values constatées à cette occasion sont
 portées aux comptes 7642 et 6642. 
 
-4.3. Régime dérogatoire. Lorsqu'une institution ou une union en fait la demande, la commission de contrôle instituée par
+4.3. Régime dérogatoire. Lorsqu'une institution ou une union en fait la demande, l'Autorité de contrôle instituée par
 l'article L. 951-1 peut la dispenser de l'utilisation de sous-compte d'attente si elle estime que ladite institution ou union
 dispose des moyens techniques et des procédures internes garantissant une stricte congruence à tout moment, sans excédent ni
 déficit, du portefeuille d'actifs inscrits en compte 24 avec les engagements en unités de compte, ainsi que la correcte
@@ -117,7 +117,7 @@ les plus ou moins-values constatées à cette occasion sont passées respectivem
 Les titres et parts virés au compte 24 entrent à ce compte à leur valeur de réalisation du jour ; les plus et moins-values
 constatées à cette occasion sont passées respectivement aux comptes 7642 et 6642. 
 
-Lorsque la commission de contrôle instituée par l'article L. 951-1 constate que les procédures internes ou les moyens mis en
+Lorsque l'Autorité de contrôle instituée par l'article L. 951-1 constate que les procédures internes ou les moyens mis en
 oeuvre ne répondent plus ou s'avèrent en pratique insuffisants pour répondre aux exigences prévues ci-dessus, elle notifie à
 l'institution ou l'union le retrait de la dispense et l'obligation de rétablir, dans le délai qu'elle fixe, l'utilisation des
 sous-comptes d'attente. 
@@ -348,4 +348,4 @@ les règles du plan comptable général. Ces comptes sont soldés périodiquemen
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-912 du 18 septembre 2000 - art. 3 (V) JORF 21 septembre 2000
+	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V)
