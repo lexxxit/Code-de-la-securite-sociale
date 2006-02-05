@@ -1,4 +1,4 @@
-# Article Annexe I à l'art. R434-35 (17)
+# Article Annexe I à l'art. R434-32 (17)
 
 16 - SYSTEME IMMUNITAIRE 
 
@@ -29,18 +29,10 @@ Ce déficit immunitaire doit être affirmé par deux examens successifs pratiqu�
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°85-1353 1985-12-17
-
-	**Créé par**:
-
-	  - Décret n°93-74 du 18 janvier 1993 - art. 1 () JORF 20 janvier 1993
+	  - Décret n°2006-111 du 2 février 2006 - art. 1
 
 	**Cite**:
 
 	  - Code de la sécurité sociale. - art. L434-2 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la sécurité sociale. - art. R434-35 (M)

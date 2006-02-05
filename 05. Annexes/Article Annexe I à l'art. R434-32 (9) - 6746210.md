@@ -1,4 +1,4 @@
-# Article Annexe I à l'art. R434-35 (9)
+# Article Annexe I à l'art. R434-32 (9)
 
 8 - APPAREIL DIGESTIF 
 
@@ -157,14 +157,6 @@ doit être évaluée à part, les deux taux s'additionnant.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°85-1353 1985-12-17
-
-	**Créé par**:
-
-	  - Décret n°85-1353 1985-12-17 art. 1 JORF 21 décembre 1985
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la sécurité sociale. - art. R434-35 (M)
+	  - Décret n°2006-111 du 2 février 2006 - art. 1

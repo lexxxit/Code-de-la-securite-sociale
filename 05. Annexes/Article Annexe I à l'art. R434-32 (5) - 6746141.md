@@ -1,4 +1,4 @@
-# Article Annexe I à l'art. R434-35 (5)
+# Article Annexe I à l'art. R434-32 (5)
 
 4 - CRÂNE ET SYSTEME NERVEUX 
 
@@ -223,7 +223,7 @@ NON DOMINANT
 </td>
     </tr>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Complète
 
@@ -257,7 +257,7 @@ Moyenne
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Légère
 
@@ -468,7 +468,7 @@ Au membre supérieur.
 <table>
   <tbody>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
       </td><td width="113">
 
 DOMINANT
@@ -481,7 +481,7 @@ NON DOMINANT
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Atteinte à prédominance proximale de la ceinture scapulaire et du bras, sans retentissement sur la fonction de la main
 
@@ -498,7 +498,7 @@ Atteinte à prédominance proximale de la ceinture scapulaire et du bras, sans r
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Atteinte à prédominance distale intéressant la fonction de la main ou de l'avant-bras
 
@@ -515,7 +515,7 @@ Atteinte à prédominance distale intéressant la fonction de la main ou de l'av
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Atteinte complète avec impotence totale d'un membre supérieur
 
@@ -640,7 +640,7 @@ Atteinte isolée d'un membre supérieur.
 <table>
   <tbody>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
       </td><td width="113">
 
 DOMINANT
@@ -653,7 +653,7 @@ NON DOMINANT
 </td>
     </tr>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Préhension possible, mais avec gêne de la dextérité digitale
 
@@ -670,7 +670,7 @@ Préhension possible, mais avec gêne de la dextérité digitale
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Préhension possible, mais sans aucune dextérité digitale
 
@@ -687,7 +687,7 @@ Préhension possible, mais sans aucune dextérité digitale
 </td>
     </tr>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Mouvements du membre supérieur très difficiles
 
@@ -704,7 +704,7 @@ Mouvements du membre supérieur très difficiles
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Mouvements du membre supérieur impossibles
 
@@ -793,12 +793,12 @@ Plexus cervical
 </td>
     </tr>
     <tr>
-      <td valign="top" width="227">
+      <td width="227" valign="top">
 
 Trapèze
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 C1 à C4
 
@@ -820,7 +820,7 @@ Diaphragme
 C3 - C4
 
 </td>
-      <td width="265" valign="top">
+      <td valign="top" width="265">
 
 Phrénique
 
@@ -832,12 +832,12 @@ Phrénique
 Rhomboïdes
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 C4 - C5
 
 </td>
-      <td width="265" valign="top">
+      <td valign="top" width="265">
     </td></tr>
     <tr>
       <td valign="top" width="227">
@@ -858,7 +858,7 @@ C5 - C7
 Pectoraux
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 C5 à D1
 
@@ -883,12 +883,12 @@ Plexus brachial
 </td>
     </tr>
     <tr>
-      <td width="227" valign="top">
+      <td valign="top" width="227">
 
 Sous-épineux
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 C5 - C6
 
@@ -901,7 +901,7 @@ C5 - C6
 Grand dorsal
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 C6 à C8
 
@@ -909,7 +909,7 @@ C6 à C8
       <td valign="top" width="265">
     </td></tr>
     <tr>
-      <td width="227" valign="top">
+      <td valign="top" width="227">
 
 Deltoïde
 
@@ -926,7 +926,7 @@ Circonflexe
 </td>
     </tr>
     <tr>
-      <td width="227" valign="top">
+      <td valign="top" width="227">
 
 Triceps brachial antérieur
 
@@ -936,7 +936,7 @@ Triceps brachial antérieur
 C5 - C6
 
 </td>
-      <td valign="top" width="265">
+      <td width="265" valign="top">
 
 Musculo-cutané
 
@@ -948,7 +948,7 @@ Musculo-cutané
 Triceps brachial
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 C7 - C8
 
@@ -960,17 +960,17 @@ Radial
 </td>
     </tr>
     <tr>
-      <td valign="top" width="227">
+      <td width="227" valign="top">
 
 Long supinateur
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 C6
 
 </td>
-      <td valign="top" width="265">
+      <td width="265" valign="top">
 
 Radial
 
@@ -982,7 +982,7 @@ Radial
 Radiaux
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 C6 - C7
 
@@ -999,24 +999,24 @@ Radial
 Court supinateur
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 (C5) C6 (C7)
 
 </td>
-      <td valign="top" width="265">
+      <td width="265" valign="top">
 
 Radial
 
 </td>
     </tr>
     <tr>
-      <td width="227" valign="top">
+      <td valign="top" width="227">
 
 Extenseur commun des doigts
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 (C6) C7 (C8)
 
@@ -1062,9 +1062,26 @@ Cubital
 </td>
     </tr>
     <tr>
-      <td width="227" valign="top">
+      <td valign="top" width="227">
 
 Palmaires
+
+</td>
+      <td width="113" valign="top">
+
+C6 - C7
+
+</td>
+      <td width="265" valign="top">
+
+Médian
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
+
+Rond pronateur
 
 </td>
       <td valign="top" width="113">
@@ -1079,24 +1096,7 @@ Médian
 </td>
     </tr>
     <tr>
-      <td width="227" valign="top">
-
-Rond pronateur
-
-</td>
-      <td width="113" valign="top">
-
-C6 - C7
-
-</td>
-      <td valign="top" width="265">
-
-Médian
-
-</td>
-    </tr>
-    <tr>
-      <td width="227" valign="top">
+      <td valign="top" width="227">
 
 Fléchisseur commun superficiel
 
@@ -1113,17 +1113,17 @@ Médian
 </td>
     </tr>
     <tr>
-      <td width="227" valign="top">
+      <td valign="top" width="227">
 
 Fléchisseur commun profond
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 C7 - C8 - D1
 
 </td>
-      <td width="265" valign="top">
+      <td valign="top" width="265">
 
 Médian (chefs externes, cubital chefs internes)
 
@@ -1133,6 +1133,40 @@ Médian (chefs externes, cubital chefs internes)
       <td valign="top" width="227">
 
 Long abducteur du pouce
+
+</td>
+      <td width="113" valign="top">
+
+(C6) C7 (C8)
+
+</td>
+      <td width="265" valign="top">
+
+Radial
+
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
+
+Long extenseur du pouce
+
+</td>
+      <td width="113" valign="top">
+
+(C6) C7 (C8)
+
+</td>
+      <td valign="top" width="265">
+
+Radial
+
+</td>
+    </tr>
+    <tr>
+      <td width="227" valign="top">
+
+Court extenseur du pouce
 
 </td>
       <td valign="top" width="113">
@@ -1149,44 +1183,10 @@ Radial
     <tr>
       <td valign="top" width="227">
 
-Long extenseur du pouce
-
-</td>
-      <td width="113" valign="top">
-
-(C6) C7 (C8)
-
-</td>
-      <td width="265" valign="top">
-
-Radial
-
-</td>
-    </tr>
-    <tr>
-      <td width="227" valign="top">
-
-Court extenseur du pouce
-
-</td>
-      <td width="113" valign="top">
-
-(C6) C7 (C8)
-
-</td>
-      <td width="265" valign="top">
-
-Radial
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="227">
-
 Long fléchisseur du pouce
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 C7 - C8
 
@@ -1203,12 +1203,12 @@ Médian
 Court abducteur du pouce
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 C7 - C8
 
 </td>
-      <td width="265" valign="top">
+      <td valign="top" width="265">
 
 Médian
 
@@ -1225,7 +1225,7 @@ Opposant du pouce
 C7 - C8
 
 </td>
-      <td valign="top" width="265">
+      <td width="265" valign="top">
 
 Médian
 
@@ -1249,29 +1249,12 @@ Cubital
 </td>
     </tr>
     <tr>
-      <td valign="top" width="227">
+      <td width="227" valign="top">
 
 Interosseux
 
 </td>
       <td valign="top" width="113">
-
-C8 - D1
-
-</td>
-      <td valign="top" width="265">
-
-Cubital
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="227">
-
-Muscles hypothénariens
-
-</td>
-      <td width="113" valign="top">
 
 C8 - D1
 
@@ -1285,15 +1268,32 @@ Cubital
     <tr>
       <td width="227" valign="top">
 
-Muscles abdominaux
+Muscles hypothénariens
 
 </td>
       <td width="113" valign="top">
 
-D5 à D12
+C8 - D1
 
 </td>
       <td valign="top" width="265">
+
+Cubital
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="227">
+
+Muscles abdominaux
+
+</td>
+      <td valign="top" width="113">
+
+D5 à D12
+
+</td>
+      <td width="265" valign="top">
     </td></tr>
     <tr>
       <td width="227" valign="top">
@@ -1306,7 +1306,7 @@ Psoasiliaque
 D12 à L3
 
 </td>
-      <td width="265" valign="top">
+      <td valign="top" width="265">
 
 Plexus lombaire
 
@@ -1318,7 +1318,7 @@ Plexus lombaire
 Grand fessier
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 L4 à S1
 
@@ -1330,7 +1330,7 @@ Plexus sacré
 </td>
     </tr>
     <tr>
-      <td width="227" valign="top">
+      <td valign="top" width="227">
 
 Moyen et petit fessiers
 
@@ -1340,10 +1340,10 @@ Moyen et petit fessiers
 L4 à S1
 
 </td>
-      <td valign="top" width="265">
+      <td width="265" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="227">
+      <td width="227" valign="top">
 
 Quadriceps
 
@@ -1365,24 +1365,24 @@ Crural
 Adducteurs
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 L2 - L3 (L4)
 
 </td>
-      <td valign="top" width="265">
+      <td width="265" valign="top">
 
 Obturateur
 
 </td>
     </tr>
     <tr>
-      <td width="227" valign="top">
+      <td valign="top" width="227">
 
 Muscles ischio-jambiers
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 (L5) S1 - S2
 
@@ -1438,7 +1438,7 @@ Jambier antérieur
 L4 (L5)
 
 </td>
-      <td width="265" valign="top">
+      <td valign="top" width="265">
 
 Sciatique poplité externe
 
@@ -1462,7 +1462,7 @@ Sciatique poplité externe
 </td>
     </tr>
     <tr>
-      <td width="227" valign="top">
+      <td valign="top" width="227">
 
 Fléchisseurs des orteils
 
@@ -1484,7 +1484,7 @@ Sciatique poplité interne
 Extenseur commun des orteils
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 L5
 
@@ -1506,7 +1506,7 @@ Sphincters striés et muscles du périnée
 S2 à S4
 
 </td>
-      <td width="265" valign="top">
+      <td valign="top" width="265">
 
 Honteux
 
@@ -1941,22 +1941,22 @@ Paralysie totale du membre supérieur (degré 0, 1, 2 et 3)
 90
 
 </td>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 80
 
 </td>
     </tr>
     <tr>
-      <td width="491" valign="top">
+      <td valign="top" width="491">
 
 Plexus brachial :
 
 </td>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 </td>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 </td>
     </tr>
@@ -1967,7 +1967,7 @@ Plexus brachial :
 long supinateur, et parfois sous-épineux, sous scapulaire, court supinateur et hémidiaphragme) (degré 0, 1, 2 et 3)
 
 </td>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 55
 
@@ -1979,7 +1979,7 @@ long supinateur, et parfois sous-épineux, sous scapulaire, court supinateur et 
 </td>
     </tr>
     <tr>
-      <td width="491" valign="top">
+      <td valign="top" width="491">
 
 Paralysie radiculaire inférieure, type Déjerine-Klumpke (fléchisseurs des doigts et muscles de la main) (degré 0, 1, 2 et 3)
 
@@ -2006,14 +2006,14 @@ Paralysie isolée du nerf sous-scapulaire (grand dentelé, degré 0, 1, 2 et 3)
 10
 
 </td>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 5
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="491">
+      <td width="491" valign="top">
 
 Paralysie du nerf circonflexe (deltoïde petit rond) (degré 0, 1, 2 et 3)
 
@@ -2023,7 +2023,7 @@ Paralysie du nerf circonflexe (deltoïde petit rond) (degré 0, 1, 2 et 3)
 35
 
 </td>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 30
 
@@ -2061,14 +2061,14 @@ Paralysie du nerf médian :
 </td>
     </tr>
     <tr>
-      <td valign="top" width="491">
+      <td width="491" valign="top">
 
 a. Au bras : (rond-pronateur, fléchisseur commun superficiel, grand et petit palmaires, chefs externes du fléchisseur commun
 profond, long fléchisseur du pouce, carré pronateur, court abducteur et opposant du pouce, 2 premiers lombricaux) (degré 0,
 1, 2 et 3)
 
 </td>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 55
 
@@ -2085,43 +2085,12 @@ profond, long fléchisseur du pouce, carré pronateur, court abducteur et opposa
 b. Au poignet (n'atteint que les muscles de la main énumérés ci-dessus) (degré 0, 1, 2 et 3)
 
 </td>
-      <td width="57" valign="top">
-
-45
-
-</td>
-      <td width="57" valign="top">
-
-35
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="491">
-
-Paralysie du nerf cubital :
-
-</td>
-      <td valign="top" width="57">
-
-</td>
-      <td width="57" valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="491">
-
-a. Au bras (cubital antérieur, chefs internes du fléchisseurs commun profond, muscles hypothéraniens et interosseux, deux
-lombricaux internes, adducteurs du pouce et chef interne de son court fléchisseur) (degré 0, 1, 2 et 3)
-
-</td>
       <td valign="top" width="57">
 
 45
 
 </td>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 35
 
@@ -2130,10 +2099,41 @@ lombricaux internes, adducteurs du pouce et chef interne de son court fléchisse
     <tr>
       <td width="491" valign="top">
 
-b. Au poignet (ou muscles de la main ci-dessus, griffe cubitale) (degré 0, 1, 2 et 3)
+Paralysie du nerf cubital :
 
 </td>
       <td width="57" valign="top">
+
+</td>
+      <td valign="top" width="57">
+
+</td>
+    </tr>
+    <tr>
+      <td width="491" valign="top">
+
+a. Au bras (cubital antérieur, chefs internes du fléchisseurs commun profond, muscles hypothéraniens et interosseux, deux
+lombricaux internes, adducteurs du pouce et chef interne de son court fléchisseur) (degré 0, 1, 2 et 3)
+
+</td>
+      <td width="57" valign="top">
+
+45
+
+</td>
+      <td width="57" valign="top">
+
+35
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="491">
+
+b. Au poignet (ou muscles de la main ci-dessus, griffe cubitale) (degré 0, 1, 2 et 3)
+
+</td>
+      <td valign="top" width="57">
 
 35
 
@@ -2150,7 +2150,7 @@ b. Au poignet (ou muscles de la main ci-dessus, griffe cubitale) (degré 0, 1, 2
 Paralysie du nerf radial :
 
 </td>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 </td>
       <td valign="top" width="57">
@@ -2158,18 +2158,18 @@ Paralysie du nerf radial :
 </td>
     </tr>
     <tr>
-      <td valign="top" width="491">
+      <td width="491" valign="top">
 
 a. Au-dessus du coude (triceps brachial, anconé, long supinateur, premier et deuxième radial, court supinateur, extenseur
 commun et extenseur propre du pouce, index, auriculaire, cubital postérieur) (degré 0, 1, 2 et 3)
 
 </td>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 55
 
 </td>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 45
 
@@ -2181,12 +2181,12 @@ commun et extenseur propre du pouce, index, auriculaire, cubital postérieur) (d
 b. Au-dessous du coude, les mêmes muscles, sauf triceps et long supinateur (degré 0, 1, 2 et 3)
 
 </td>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 45
 
 </td>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 35
 
@@ -2261,14 +2261,6 @@ Algodystrophie du membre inférieur.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°85-1353 1985-12-17
-
-	**Créé par**:
-
-	  - Décret n°85-1353 1985-12-17 art. 1 JORF 21 décembre 1985
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la sécurité sociale. - art. R434-35 (M)
+	  - Décret n°2006-111 du 2 février 2006 - art. 1

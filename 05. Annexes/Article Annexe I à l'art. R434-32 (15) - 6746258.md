@@ -1,4 +1,4 @@
-# Article Annexe I à l'art. R434-35 (15)
+# Article Annexe I à l'art. R434-32 (15)
 
 14 - GLANDES ENDOCRINES. 
 
@@ -118,14 +118,6 @@ etc.) et s'ajouteront aux taux ci-dessus, le taux global ne pouvant excéder 100
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°85-1353 1985-12-17
-
-	**Créé par**:
-
-	  - Décret n°85-1353 1985-12-17 art. 1 JORF 21 décembre 1985
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la sécurité sociale. - art. R434-35 (M)
+	  - Décret n°2006-111 du 2 février 2006 - art. 1

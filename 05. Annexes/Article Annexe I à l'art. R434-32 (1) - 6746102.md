@@ -1,4 +1,4 @@
-# Article Annexe I à l'art. R434-35 (1)
+# Article Annexe I à l'art. R434-32 (1)
 
 **CHAPITRE PRELIMINAIRE**
 
@@ -179,18 +179,10 @@ ayants droit éventuels ; elles sont sans relation avec le taux du barème (arti
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°85-1353 1985-12-17
-
-	**Créé par**:
-
-	  - Décret n°85-1353 1985-12-17 art. 1 JORF 21 décembre 1985
+	  - Décret n°2006-111 du 2 février 2006 - art. 1
 
 	**Cite**:
 
 	  - Code de la sécurité sociale. - art. L434-2 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la sécurité sociale. - art. R434-35 (M)

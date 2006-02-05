@@ -1,4 +1,4 @@
-# Article Annexe I à l'art. R434-35 (7)
+# Article Annexe I à l'art. R434-32 (7)
 
 6 OPHTALMOLOGIE
 
@@ -1042,3 +1042,8 @@ horizontal de face), la pupille est plus ou moins découverte :
 
 - Déformation importante ( plus éventuellement les séquelles ophtalmologiques) 5 à 15
 
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2006-111 du 2 février 2006 - art. 1

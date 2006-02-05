@@ -1,4 +1,4 @@
-# Article Annexe I à l'art. R434-35 (2)
+# Article Annexe I à l'art. R434-32 (2)
 
 **1 - MEMBRE SUPERIEUR**.
 
@@ -83,12 +83,12 @@ NON DOMINANT
 </td>
     </tr>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Epaule :
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 </td>
       <td valign="top" width="113">
@@ -96,27 +96,10 @@ Epaule :
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 - Amputation interscapulothoracique avec résection totale ou partielle de la clavicule et de l'omoplate, ou de l'un de ces
 deux os
-
-</td>
-      <td valign="top" width="113">
-
-95
-
-</td>
-      <td valign="top" width="113">
-
-85
-
-</td>
-    </tr>
-    <tr>
-      <td width="378" valign="top">
-
-- Désarticulation de l'épaule
 
 </td>
       <td valign="top" width="113">
@@ -131,7 +114,24 @@ deux os
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
+
+- Désarticulation de l'épaule
+
+</td>
+      <td valign="top" width="113">
+
+95
+
+</td>
+      <td valign="top" width="113">
+
+85
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="378">
 
 Bras :
 
@@ -166,7 +166,7 @@ Bras :
 - Au tiers moyen ou inférieur
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 90
 
@@ -188,7 +188,7 @@ Bras :
 90
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 80
 
@@ -244,12 +244,12 @@ NON DOMINANT
 </td>
     </tr>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Blocage de l'épaule, omoplate bloquée
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 55
 
@@ -271,19 +271,19 @@ Blocage de l'épaule, avec omoplate mobile
 40
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 30
 
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Limitation moyenne de tous les mouvements
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 20
 
@@ -295,12 +295,12 @@ Limitation moyenne de tous les mouvements
 </td>
     </tr>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Limitation légère de tous les mouvements
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 10 à 15
 
@@ -370,12 +370,12 @@ NON DOMINANT
 Formes graves avec récidives fréquentes
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 40
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 30
 
@@ -387,7 +387,7 @@ Formes graves avec récidives fréquentes
 Formes moyennes avec récidives espacées
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 20
 
@@ -399,7 +399,7 @@ Formes moyennes avec récidives espacées
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Formes légères
 
@@ -454,12 +454,12 @@ NON DOMINANT
 </td>
     </tr>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Blocage de la flexion-extension :
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 </td>
       <td valign="top" width="113">
@@ -472,19 +472,19 @@ Blocage de la flexion-extension :
 - Angle favorable
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 25
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 22
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 - Angle défavorable (de 100
           <sup>o</sup> à 145
@@ -493,7 +493,7 @@ Blocage de la flexion-extension :
           <sup>o</sup>)
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 40
 
@@ -505,12 +505,12 @@ Blocage de la flexion-extension :
 </td>
     </tr>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Limitation des mouvements de flexion-extension :
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 </td>
       <td valign="top" width="113">
@@ -518,7 +518,7 @@ Limitation des mouvements de flexion-extension :
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 - Mouvements conservés de 70
           <sup>o</sup> à 145
@@ -554,7 +554,7 @@ Limitation des mouvements de flexion-extension :
 </td>
     </tr>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 - Mouvements conservés de 0
           <sup>o</sup> à 70
@@ -566,7 +566,7 @@ Limitation des mouvements de flexion-extension :
 25
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 22
 
@@ -600,20 +600,20 @@ NON DOMINANT
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Blocage du poignet :
-
-</td>
-      <td width="113" valign="top">
 
 </td>
       <td valign="top" width="113">
 
 </td>
+      <td width="113" valign="top">
+
+</td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 - En rectitude ou extension, sans atteinte de la prono-supination
 
@@ -623,24 +623,24 @@ Blocage du poignet :
 15
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 10
 
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 - En flexion sans troubles importants de la prono-supination
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 35
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 30
 
@@ -718,7 +718,7 @@ NON DOMINANT
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Cal difforme, sans compression nerveuse, selon gêne fonctionnelle
 
@@ -740,7 +740,7 @@ Cal difforme, sans compression nerveuse, selon gêne fonctionnelle
 Compressions nerveuses (voir séquelles portant sur le système nerveux périphérique)
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 </td>
       <td valign="top" width="113">
@@ -748,7 +748,7 @@ Compressions nerveuses (voir séquelles portant sur le système nerveux périph�
 </td>
     </tr>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Pseudarthrose
 
@@ -787,7 +787,7 @@ NON DOMINANT
 </td>
     </tr>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Epaule ballante consécutive à des pertes de substance osseuse étendues, sans séquelles nerveuses, autres que celles
 conditionnant le ballant de l'épaule
@@ -828,7 +828,7 @@ NON DOMINANT
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Déformation du bras avec atrophie musculaire (taux s'ajoutant aux séquelles articulaires, nerveuses, etc. éventuellement
 associées)
@@ -859,7 +859,7 @@ Pseudarthroses de la diaphyse humérale :
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 - Serrée
 
@@ -906,7 +906,7 @@ Pseudarthroses de la diaphyse humérale :
 </td>
     </tr>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 - Raccourcissement important (supérieur à 4 centimètres)
 
@@ -930,7 +930,7 @@ Coude :
 <table>
   <tbody>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
       </td><td width="113">
 
 DOMINANT
@@ -943,7 +943,7 @@ NON DOMINANT
 </td>
     </tr>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Coude ballant, consécutif à des pertes de substance osseuse
 
@@ -967,7 +967,7 @@ Avant-bras :
 <table>
   <tbody>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
       </td><td width="113">
 
 DOMINANT
@@ -980,7 +980,7 @@ NON DOMINANT
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Les deux os :
 
@@ -1040,7 +1040,7 @@ Un seul os :
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 - Pseudarthrose serrée du radius
 
@@ -1074,7 +1074,7 @@ Un seul os :
 </td>
     </tr>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 - Pseudarthrose serrée du cubitus
 
@@ -1129,7 +1129,7 @@ NON DOMINANT
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Poignet ballant, à la suite de pertes de substance du carpe
 
@@ -1192,7 +1192,7 @@ Rupture du deltoïde
 </td>
     </tr>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Rupture du biceps : elle est susceptible de réparation chirurgicale, mais la restitution ad integrum est rarement réalisée.
 Il persiste souvent une déformation du muscle à la contraction, et une diminution de la force :
@@ -1223,7 +1223,7 @@ Séquelles légères
 </td>
     </tr>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Rupture de l'un des deux chefs non réparée
 
@@ -1257,7 +1257,7 @@ Rupture complète de l'insert inférieure non réparée
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Syndrome de Volkmann : selon l'importance de la répercussion sur la fonction de la main et selon les troubles trophiques
 
@@ -1343,7 +1343,7 @@ NULLE
 </td>
     </tr>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Pince unguéale (ramassage d'une allumette ou d'une épingle)
 
@@ -1387,7 +1387,7 @@ Pince pulpo-pulpaire (plaquette de plastique)
 </td>
     </tr>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Pince pulpo-latérale (plaquette de plastique)
 
@@ -1409,7 +1409,7 @@ Pince pulpo-latérale (plaquette de plastique)
 </td>
     </tr>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Pince tripode (haut de la boîte cylindrique, manche d'outil, pinceau)
 
@@ -1431,7 +1431,7 @@ Pince tripode (haut de la boîte cylindrique, manche d'outil, pinceau)
 </td>
     </tr>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Empaumement (boîte de conserves, manche, pinceau)
 
@@ -1451,7 +1451,7 @@ Empaumement (boîte de conserves, manche, pinceau)
 </td>
     </tr>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Crochet (poignée)
 
@@ -1590,7 +1590,7 @@ NON DOMINANT
 </td>
     </tr>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Pouce :
 
@@ -1603,7 +1603,7 @@ Pouce :
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 - Avec le premier métacarpien
 
@@ -1701,7 +1701,7 @@ Index ou Médius :
 </td>
     </tr>
     <tr>
-      <td valign="top" width="378">
+      <td width="378" valign="top">
 
 Annulaire :
 
@@ -1840,7 +1840,7 @@ En position de fonction (anté-pulsion et opposition)
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 En position défavorable (adduction, rétropulsion)
 
@@ -1857,7 +1857,7 @@ En position défavorable (adduction, rétropulsion)
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Luxation carpo-métacarpienne ancienne, non réduite, à l'exclusion du pouce
 
@@ -1898,7 +1898,7 @@ Pouce :
 <table>
   <tbody>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
       </td><td width="113">
 
 DOMINANT
@@ -1941,7 +1941,7 @@ Articulation métacarpo-phalangienne :
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 - Blocage en flexion complète
 
@@ -1988,7 +1988,7 @@ Articulation inter-phalangienne :
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 - Blocage en flexion complète
 
@@ -2005,7 +2005,7 @@ Articulation inter-phalangienne :
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 - Blocage en semi-flexion ou en extension ou luxation ancienne non réduite
 
@@ -2031,7 +2031,7 @@ Le taux d'incapacité sera déterminé selon l'importance de la raideur.
 <table>
   <tbody>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
       </td><td width="113">
 
 DOMINANT
@@ -2044,7 +2044,7 @@ NON DOMINANT
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Index
 
@@ -2061,7 +2061,7 @@ Index
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Annulaire et médius
 
@@ -2076,7 +2076,7 @@ Annulaire et médius
 </td>
     </tr>
     <tr>
-      <td width="378" valign="top">
+      <td valign="top" width="378">
 
 Auriculaire
 
@@ -2130,14 +2130,6 @@ Venant s'ajouter aux mêmes éléments séquellaires.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°85-1353 1985-12-17
-
-	**Créé par**:
-
-	  - Décret n°85-1353 1985-12-17 art. 1 JORF 21 décembre 1985
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la sécurité sociale. - art. R434-35 (M)
+	  - Décret n°2006-111 du 2 février 2006 - art. 1

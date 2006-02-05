@@ -1,4 +1,4 @@
-# Article Annexe I à l'art. R434-35 (6)
+# Article Annexe I à l'art. R434-32 (6)
 
 5 - OTO-RHINO-LARYNGOLOGIE 
 
@@ -265,12 +265,12 @@ Oreille la plus sourde
 <table>
   <tbody>
     <tr>
-      <td colspan="10" width="642" valign="top">
+      <td valign="top" width="642" colspan="10">
 
 Voix haute
 
 </td>
-      <td rowspan="2" width="38" valign="top">
+      <td valign="top" rowspan="2" width="38">
 
 non
 
@@ -281,7 +281,7 @@ per
 </td>
     </tr>
     <tr>
-      <td colspan="4" valign="top" width="402">
+      <td valign="top" width="402" colspan="4">
 
 </td>
       <td valign="top" width="38">
@@ -294,12 +294,12 @@ per
 4
 
 </td>
-      <td valign="top" width="42">
+      <td width="42" valign="top">
 
 2
 
 </td>
-      <td width="46" valign="top">
+      <td valign="top" width="46">
 
 1
 
@@ -318,7 +318,7 @@ tact
 </td>
     </tr>
     <tr>
-      <td colspan="11" width="680" valign="top">
+      <td width="680" colspan="11" valign="top">
 
 Distance de perception en mètres
 
@@ -332,12 +332,12 @@ Oreille normale
 ou la moins sourde
 
 </td>
-      <td width="336" valign="top" colspan="7">
+      <td width="336" colspan="7" valign="top">
 
 Voix chuchotée
 
 </td>
-      <td rowspan="2" valign="top" width="38">
+      <td width="38" rowspan="2" valign="top">
 
 non
 
@@ -346,12 +346,12 @@ per
 çue
 
 </td>
-      <td width="38" rowspan="3" valign="top">
+      <td width="38" valign="top" rowspan="3">
 
 </td>
     </tr>
     <tr>
-      <td width="134" colspan="2" valign="top">
+      <td valign="top" colspan="2" width="134">
 
 </td>
       <td valign="top" width="38">
@@ -364,7 +364,7 @@ per
 0,50
 
 </td>
-      <td width="84" valign="top" colspan="2">
+      <td width="84" colspan="2" valign="top">
 
 0,25
 
@@ -373,12 +373,12 @@ contact
 </td>
     </tr>
     <tr>
-      <td width="210" colspan="4" valign="top">
+      <td valign="top" colspan="4" width="210">
 
 Distance de perception en mètres
 
 </td>
-      <td colspan="2" width="88" valign="top">
+      <td width="88" colspan="2" valign="top">
 
 0,10
 
@@ -414,7 +414,7 @@ décibels
 25
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 25
 
@@ -432,7 +432,7 @@ décibels
 45
 
 </td>
-      <td width="46" valign="top">
+      <td valign="top" width="46">
 
 45
 
@@ -470,13 +470,13 @@ décibels
 </td>
     </tr>
     <tr>
-      <td rowspan="7" width="191" valign="top">
+      <td valign="top" width="191" rowspan="7">
 
 </td>
-      <td width="77" valign="top">
+      <td valign="top" width="77">
 
 </td>
-      <td valign="top" width="76">
+      <td width="76" valign="top">
 
 </td>
       <td width="57" valign="top">
@@ -499,17 +499,17 @@ décibels
 5
 
 </td>
-      <td width="46" valign="top">
+      <td valign="top" width="46">
 
 8
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 12
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 15
 
@@ -521,18 +521,18 @@ décibels
 </td>
     </tr>
     <tr>
-      <td width="77" valign="top">
+      <td valign="top" width="77">
 
 </td>
       <td width="76" valign="top">
 
 </td>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 25 à 35
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 3
 
@@ -552,17 +552,17 @@ décibels
 15
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 20
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 25
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 30
 
@@ -574,15 +574,15 @@ décibels
 5
 
 </td>
-      <td width="76" valign="top">
+      <td valign="top" width="76">
 
 </td>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 35 à 45
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 5
 
@@ -592,12 +592,12 @@ décibels
 12
 
 </td>
-      <td valign="top" width="42">
+      <td width="42" valign="top">
 
 18
 
 </td>
-      <td valign="top" width="46">
+      <td width="46" valign="top">
 
 24
 
@@ -607,24 +607,24 @@ décibels
 30
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 35
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 40
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="77">
+      <td width="77" valign="top">
 
 4
 
 </td>
-      <td width="76" valign="top">
+      <td valign="top" width="76">
 
 0,80
 
@@ -634,7 +634,7 @@ décibels
 45 à 55
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 8
 
@@ -664,7 +664,7 @@ décibels
 45
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 50
 
@@ -676,7 +676,7 @@ décibels
 2
 
 </td>
-      <td width="76" valign="top">
+      <td valign="top" width="76">
 
 0,50
 
@@ -706,7 +706,7 @@ décibels
 40
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 50
 
@@ -723,17 +723,17 @@ décibels
 </td>
     </tr>
     <tr>
-      <td width="77" valign="top">
+      <td valign="top" width="77">
 
 0,25
 
 </td>
-      <td valign="top" width="76">
+      <td width="76" valign="top">
 
 0,25
 
 </td>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 65 à 80
 
@@ -753,12 +753,12 @@ décibels
 35
 
 </td>
-      <td valign="top" width="46">
+      <td width="46" valign="top">
 
 45
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 60
 
@@ -768,14 +768,14 @@ décibels
 70
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 70
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="77">
+      <td width="77" valign="top">
 
 contact
 
@@ -794,7 +794,7 @@ non perçue
 80 à 90
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 20
 
@@ -809,7 +809,7 @@ non perçue
 40
 
 </td>
-      <td valign="top" width="46">
+      <td width="46" valign="top">
 
 50
 
@@ -819,12 +819,12 @@ non perçue
 60
 
 </td>
-      <td valign="top" width="38">
+      <td width="38" valign="top">
 
 70
 
 </td>
-      <td width="38" valign="top">
+      <td valign="top" width="38">
 
 70
 
@@ -854,14 +854,6 @@ d'audioprothèse.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°85-1353 1985-12-17
-
-	**Créé par**:
-
-	  - Décret n°85-1353 1985-12-17 art. 1 JORF 21 décembre 1985
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la sécurité sociale. - art. R434-35 (M)
+	  - Décret n°2006-111 du 2 février 2006 - art. 1
