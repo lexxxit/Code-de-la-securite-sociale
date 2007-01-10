@@ -1,6 +1,6 @@
-# Article Annexe à l'article A. 931-11-15  Annexe 4
+# Article Annexe à l'article A931-11-15
 
-**COMPTE RENDU DETAILLE ANNUEL : RENSEIGNEMENTS GENERAUX.**
+COMPTE RENDU DETAILLE ANNUEL : RENSEIGNEMENTS GENERAUX. 
 
 Les renseignements généraux du compte rendu détaillé annuel à produire à l'Autorité de contrôle instituée par l'article L.
 951-1 par les institutions de prévoyance et les unions d'institutions de prévoyance sont les suivants :
@@ -31,7 +31,9 @@ ensembles, les catégories suivantes : personnels de direction, cadres, non-cadr
 h) La liste des règlements ou des contrats types d'assurance directe nouvellement proposés au cours de l'exercice. Chaque
 règlement ou contrat type est identifié par sa dénomination et l'indication de la catégorie ou sous-catégorie, définie à
 l'état C 4 figurant à l'annexe à l'article A. 931-11-17, à laquelle il appartient. Les différentes versions d'un règlement ou
-d'un contrat type proposés sous une même dénomination sont à considérer comme des règlement ou contrats distincts.
+d'un contrat type proposés sous une même dénomination sont à considérer comme des règlement ou contrats distincts ;
+
+i) La liste des tables mentionnées au b de l'article A. 931-10-10 et établies durant l'année.
 
 A l'appui de cette liste, l'institution ou l'union conserve à la disposition des fonctionnaires visés à l'article R. 951-1-1
 un dossier relatif à chacun des règlements ou contrats types en cours. Ce dossier comprend un spécimen :
@@ -59,11 +61,22 @@ délai), et le calcul des provisions mathématiques.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
+	  - Arrêté 2006-12-21 art. 4 JORF 11 janvier 2007
 
 	**Cite**:
 
+	  - Code de la sécurité sociale. - art. A931-10-10 (M)
+	  - Code de la sécurité sociale. - art. A931-11-17 (V)
+	  - Code de la sécurité sociale. - art. A932-3-4 (T)
+	  - Code de la sécurité sociale. - art. L932-15 (M)
+	  - Code de la sécurité sociale. - art. L932-18 (M)
+	  - Code de la sécurité sociale. - art. L932-19 (M)
 	  - Code de la sécurité sociale. - art. L932-23 (M)
+	  - Code de la sécurité sociale. - art. L932-3 (M)
+	  - Code de la sécurité sociale. - art. L932-4 (M)
+	  - Code de la sécurité sociale. - art. L932-6 (M)
+	  - Code de la sécurité sociale. - art. L951-1 (M)
+	  - Code de la sécurité sociale. - art. R951-1-1 (M)
 	  - Code des assurances - art. L132-22 (M)
 
 	**Liens**:
