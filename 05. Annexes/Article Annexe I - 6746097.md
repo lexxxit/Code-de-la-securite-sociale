@@ -1,799 +1,2139 @@
 # Article Annexe I
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+<table>
+  <tbody>
+    <tr>
+      <td width="151" rowspan="2">
 
-Cour d'appel d'Agen 
+DÉPARTEMENTS
 
-DEPARTEMENTS : Gers.
+</td>
+      <td colspan="2" width="454">
 
-Siège : Auch.
+TRIBUNAUX DES AFFAIRES
 
-Ressort : Le département.  
+de sécurité sociale
 
-DEPARTEMENTS : Lot.
+</td>
+    </tr>
+    <tr>
+      <td width="170">
 
-Siège : Cahors.
+Siège
 
-Ressort : Le département.  
+</td>
+      <td width="284">
 
-DEPARTEMENTS : Lot-et-Garonne.
+Ressort
 
-Siège : Agen.
+</td>
+    </tr>
+    <tr>
+      <td width="605" colspan="3">
 
-Ressort : Le département. 
+Cour d'appel d'Agen
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-Cour d'appel d'Aix-en-Provence 
+Gers.
 
-DEPARTEMENTS : Alpes-de-Haute-Provence.
+</td>
+      <td width="170" valign="top">
 
-Siège : Digne-les-Bains.
+Auch.
 
-Ressort : Le département.  
+</td>
+      <td width="284" valign="top">
 
-DEPARTEMENTS : Alpes-Maritimes.
+Le département.
 
-Siège : Nice.
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-Ressort : Le département.  
+Lot.
 
-DEPARTEMENTS : Bouches-du-Rhône.
+</td>
+      <td width="170" valign="top">
 
-Siège : Marseille.
+Cahors.
 
-Ressort : Le département.  
+</td>
+      <td width="284" valign="top">
 
-DEPARTEMENTS : Var.
+Le département.
 
-Siège : Toulon.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-Ressort : Le département. 
+Lot-et-Garonne.
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+</td>
+      <td width="170" valign="top">
 
-Cour d'appel d'Amiens 
+Agen.
 
-DEPARTEMENTS : Aisne.
+</td>
+      <td valign="top" width="284">
 
-Siège : Laon.
+Le département.
 
-Ressort : Arrondissements de Soissons, de Château-Thierry et de Laon, sauf le canton de La Fère. 
+</td>
+    </tr>
+    <tr>
+      <td width="605" colspan="3">
 
-Siège : Saint-Quentin.
+Cour d'appel d'Aix en Provence
 
-Ressort : Arrondissements de Saint-Quentin et de Vervins, plus le canton de La Fère.  
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-DEPARTEMENTS : Oise.
+Alpes-de-Haute-Provence.
 
-Siège : Beauvais.
+</td>
+      <td width="170" valign="top">
 
-Ressort : Le département.  
+Digne-les-Bains.
 
-DEPARTEMENTS : Somme.
+</td>
+      <td valign="top" width="284">
 
-Siège : Amiens.
+Le département.
 
-Ressort : Le département. 
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+Alpes-Maritimes.
 
-Cour d'appel d'Angers 
+</td>
+      <td valign="top" width="170">
 
-DEPARTEMENTS : Maine-et-Loire.
+Nice.
 
-Siège : Angers.
+</td>
+      <td valign="top" width="284">
 
-Ressort : Le département.  
+Le département.
 
-DEPARTEMENTS : Mayenne.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-Siège : Laval.
+Bouches-du-Rhône.
 
-Ressort : Le département.  
+</td>
+      <td width="170" valign="top">
 
-DEPARTEMENTS : Sarthe.
+Marseille.
 
-Siège : Le Mans.
+</td>
+      <td valign="top" width="284">
 
-Ressort : Le département. 
+Le département.
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-Cour d'appel de Bastia 
+Var.
 
-DEPARTEMENTS : Corse-du-Sud.
+</td>
+      <td width="170" valign="top">
 
-Siège : Ajaccio.
+Toulon.
 
-Ressort : Le département.  
+</td>
+      <td valign="top" width="284">
 
-DEPARTEMENTS : Haute-Corse.
+Le département.
 
-Siège : Bastia.
+</td>
+    </tr>
+    <tr>
+      <td width="605" colspan="3">
 
-Ressort : Le département. 
+Cour d'appel d'Amiens
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-Cour d'appel de Besançon 
+Aisne.
 
-DEPARTEMENTS : Doubs.
+</td>
+      <td valign="top" width="170">
 
-Siège : Besançon.
+Laon.
 
-Ressort : Arrondissements de Besançon, de Pontarlier et les cantons de Clerval, Maîche, Le Russey. 
+</td>
+      <td valign="top" width="284">
 
-Siège : Montbéliard.
+Arrondissements de Soissons, de Château-Thierry et de Laon, sauf le canton de La Fère.
 
-Ressort : Arrondissements de Montbéliard, moins les cantons de Clerval, Maîche, Le Russey.  
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+      </td><td valign="top" width="170">
 
-DEPARTEMENTS : Jura.
+Saint-Quentin.
 
-Siège : Lons-le-Saunier.
+</td>
+      <td width="284" valign="top">
 
-Ressort : Le département.  
+Arrondissements de Saint-Quentin et de Vervins, plus le canton de La Fère.
 
-DEPARTEMENTS : Haute-Saône.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-Siège : Vesoul.
+Oise.
 
-Ressort : Le département.  
+</td>
+      <td valign="top" width="170">
 
-DEPARTEMENTS : Territoire de Belfort.
+Beauvais.
 
-Siège : Belfort.
+</td>
+      <td valign="top" width="284">
 
-Ressort : Le département. 
+Le département.
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-Cour d'appel de Bordeaux 
+Somme.
 
-DEPARTEMENTS : Charente.
+</td>
+      <td width="170" valign="top">
 
-Siège : Angoulême.
+Amiens.
 
-Ressort : Le département.  
+</td>
+      <td width="284" valign="top">
 
-DEPARTEMENTS : Dordogne.
+Le département.
 
-Siège : Périgueux.
+</td>
+    </tr>
+    <tr>
+      <td width="605" colspan="3">
 
-Ressort : Le département.  
+Cour d'appel d'Angers
 
-DEPARTEMENTS : Gironde.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-Siège : Bordeaux.
+Maine-et-Loire.
 
-Ressort : Le département. 
+</td>
+      <td valign="top" width="170">
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+Angers.
 
-Cour d'appel de Bourges 
+</td>
+      <td width="284" valign="top">
 
-DEPARTEMENTS : Cher.
+Le département.
 
-Siège : Bourges.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-Ressort : Le département.  
+Mayenne.
 
-DEPARTEMENTS : Indre.
+</td>
+      <td valign="top" width="170">
 
-Siège : Châteauroux.
+Laval.
 
-Ressort : Le département.  
+</td>
+      <td valign="top" width="284">
 
-DEPARTEMENTS : Nièvre.
+Le département.
 
-Siège : Nevers.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-Ressort : Le département. 
+Sarthe.
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+</td>
+      <td valign="top" width="170">
 
-Cour d'appel de Caen 
+Le Mans.
 
-DEPARTEMENTS : Calvados.
+</td>
+      <td width="284" valign="top">
 
-Siège : Caen.
+Le département.
 
-Ressort : Le département.  
+</td>
+    </tr>
+    <tr>
+      <td width="605" colspan="3">
 
-DEPARTEMENTS : Manche.
+Cour d'appel de Bastia
 
-Siège : Saint-Lô.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-Ressort : Le département.  
+Corse-du-Sud.
 
-DEPARTEMENTS : Orne.
+</td>
+      <td width="170" valign="top">
 
-Siège : Alençon.
+Ajaccio.
 
-Ressort : Le département. 
+</td>
+      <td valign="top" width="284">
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+Le département.
 
-Cour d'appel de Chambéry 
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-DEPARTEMENTS : Savoie.
+Haute-Corse.
 
-Siège : Chambéry.
+</td>
+      <td width="170" valign="top">
 
-Ressort : Le département.  
+Bastia.
 
-DEPARTEMENTS : Haute-Savoie.
+</td>
+      <td valign="top" width="284">
 
-Siège : Annecy.
+Le département.
 
-Ressort : Le département. 
+</td>
+    </tr>
+    <tr>
+      <td width="605" colspan="3">
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+Cour d'appel de Besançon
 
-Cour d'appel de Colmar 
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-DEPARTEMENTS : Bas-Rhin.
+Doubs.
 
-Siège : Strasbourg.
+</td>
+      <td valign="top" width="170">
 
-Ressort : Le département.  
+Besançon.
 
-DEPARTEMENTS : Haut-Rhin.
+</td>
+      <td width="284" valign="top">
 
-Siège : Mulhouse.
+Arrondissements de Besançon, de Pontarlier et les cantons de Clerval, Maîche, Le Russey.
 
-Ressort : Le département. 
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+      </td><td valign="top" width="170">
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+Montbéliard.
 
-Cour d'appel de Dijon 
+</td>
+      <td valign="top" width="284">
 
-DEPARTEMENTS : Côte-d'Or.
+Arrondissements de Montbéliard, moins les cantons de Clerval, Maîche, le Russey.
 
-Siège : Dijon.
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-Ressort : Le département.  
+Jura.
 
-DEPARTEMENTS : Haute-Marne.
+</td>
+      <td width="170" valign="top">
 
-Siège : Chaumont.
+Lons-le-Saunier.
 
-Ressort : Le département.  
+</td>
+      <td width="284" valign="top">
 
-DEPARTEMENTS : Saône-et-Loire.
+Le département.
 
-Siège : Mâcon.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-Ressort : Le département. 
+Haute-Saône.
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+</td>
+      <td width="170" valign="top">
 
-Cour d'appel de Douai 
+Vesoul.
 
-DEPARTEMENTS : Nord.
+</td>
+      <td valign="top" width="284">
 
-Siège : Lille.
+Le département.
 
-Ressort : Arrondissements de Lille et de Dunkerque. 
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-Siège : Douai.
+Territoire de Belfort.
 
-Ressort : Arrondissements de Douai et de Cambrai. 
+</td>
+      <td width="170" valign="top">
 
-Siège : Valenciennes.
+Belfort.
 
-Ressort : Arrondissements de Valenciennes et d'Avesnes-sur-Helpe. 
+</td>
+      <td valign="top" width="284">
 
-DEPARTEMENTS : Pas-de-Calais.
+Le département.
 
-Siège : Arras.
+</td>
+    </tr>
+    <tr>
+      <td width="605" colspan="3">
 
-Ressort : Arrondissements d'Arras, de Béthune et de Lens. 
+Cour d'appel de Bordeaux
 
-Siège : Boulogne-sur-Mer.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-Ressort : Arrondissements de Boulogne-sur-Mer, de Montreuil, de Calais et de Siège : Saint-Omer. 
+Charente.
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+</td>
+      <td valign="top" width="170">
 
-Cour d'appel de Grenoble 
+Angoulême.
 
-DEPARTEMENTS : Hautes-Alpes.
+</td>
+      <td valign="top" width="284">
 
-Siège : Gap.
+Le département.
 
-Ressort : Le département.  
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-DEPARTEMENTS : Drôme.
+Dordogne.
 
-Siège : Valence.
+</td>
+      <td valign="top" width="170">
 
-Ressort : Le département.  
+Périgueux.
 
-DEPARTEMENTS : Isère.
+</td>
+      <td valign="top" width="284">
 
-Siège : Grenoble.
+Le département.
 
-Ressort : Le département, moins l'arrondissement de Vienne et moins les cantons de L'Isle-d'Abeau et de La Verpillière. 
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-Siège : Vienne.
+Gironde.
 
-Ressort : L'arrondissement de Vienne, plus les cantons de L'Isle-d'Abeau et de La Verpillière. 
+</td>
+      <td valign="top" width="170">
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+Bordeaux.
 
-Cour d'appel de Limoges 
+</td>
+      <td valign="top" width="284">
 
-DEPARTEMENTS : Corrèze.
+Le département.
 
-Siège : Tulle.
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="605">
 
-Ressort : Le département.  
+Cour d'appel de Bourges
 
-DEPARTEMENTS : Creuse.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Cher.
+
+</td>
+      <td width="170" valign="top">
+
+Bourges.
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Indre.
+
+</td>
+      <td valign="top" width="170">
+
+Châteauroux.
+
+</td>
+      <td valign="top" width="284">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Nièvre.
+
+</td>
+      <td valign="top" width="170">
+
+Nevers.
+
+</td>
+      <td valign="top" width="284">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="605">
+
+Cour d'appel de Caen
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Calvados.
+
+</td>
+      <td valign="top" width="170">
+
+Caen.
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Manche.
+
+</td>
+      <td valign="top" width="170">
+
+Saint-Lô.
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Orne.
+
+</td>
+      <td width="170" valign="top">
+
+Alençon.
+
+</td>
+      <td valign="top" width="284">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td width="605" colspan="3">
+
+Cour d'appel de Chambéry
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Savoie.
+
+</td>
+      <td valign="top" width="170">
+
+Chambéry.
+
+</td>
+      <td valign="top" width="284">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Haute-Savoie.
+
+</td>
+      <td valign="top" width="170">
+
+Annecy.
+
+</td>
+      <td valign="top" width="284">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td width="605" colspan="3">
+
+Cour d'appel de Colmar
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Bas-Rhin.
+
+</td>
+      <td valign="top" width="170">
+
+Strasbourg.
+
+</td>
+      <td valign="top" width="284">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Haut-Rhin.
+
+</td>
+      <td valign="top" width="170">
+
+Mulhouse.
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td width="605" colspan="3">
+
+Cour d'appel de Dijon
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Côte-d'Or.
+
+</td>
+      <td valign="top" width="170">
+
+Dijon.
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Haute-Marne.
+
+</td>
+      <td width="170" valign="top">
+
+Chaumont.
+
+</td>
+      <td valign="top" width="284">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Saône-et-Loire.
+
+</td>
+      <td width="170" valign="top">
+
+Mâcon.
+
+</td>
+      <td valign="top" width="284">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td width="605" colspan="3">
+
+Cour d'appel de Douai
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151" rowspan="3">
+
+Nord.
+
+</td>
+      <td width="170" valign="top">
+
+Lille.
+
+</td>
+      <td valign="top" width="284">
+
+Arrondissements de Lille et de Dunkerque.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="170">
+
+Douai.
+
+</td>
+      <td valign="top" width="284">
+
+Arrondissements de Douai et de Cambrai.
+
+</td>
+    </tr>
+    <tr>
+      <td width="170" valign="top">
+
+Valenciennes.
+
+</td>
+      <td width="284" valign="top">
+
+Arrondissements de Valenciennes et d'Avesnes-sur-Helpe.
+
+</td>
+    </tr>
+    <tr>
+      <td rowspan="2" width="151" valign="top">
+
+Pas-de-Calais.
+
+</td>
+      <td valign="top" width="170">
+
+Arras.
+
+</td>
+      <td valign="top" width="284">
+
+Arrondissements d'Arras, de Béthune et de Lens.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="170">
+
+Boulogne-sur-Mer
+
+</td>
+      <td valign="top" width="284">
+
+Arrondissements de Boulogne-sur-Mer, de Montreuil, de Calais et de Saint-Omer.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="605">
+
+Cour d'appel de Grenoble
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Hautes-Alpes.
+
+</td>
+      <td valign="top" width="170">
+
+Gap.
+
+</td>
+      <td valign="top" width="284">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Drôme.
+
+</td>
+      <td valign="top" width="170">
+
+Valence.
+
+</td>
+      <td valign="top" width="284">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" rowspan="2" valign="top">
+
+Isère.
+
+</td>
+      <td width="170" valign="top">
+
+Grenoble.
+
+</td>
+      <td valign="top" width="284">
+
+Le département, moins l'arrondissement de Vienne et moins les cantons de L'Isle-d'Abeau et de La Verpillière.
+
+</td>
+    </tr>
+    <tr>
+      <td width="170" valign="top">
+
+Vienne.
+
+</td>
+      <td valign="top" width="284">
+
+L'arrondissement de Vienne, plus les cantons de L'Isle-d'Abeau et de La Verpillière.
+
+</td>
+    </tr>
+    <tr>
+      <td width="605" colspan="3">
+
+Cour d'appel de Limoges
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Corrèze.
+
+</td>
+      <td width="170" valign="top">
+
+Tulle.
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Creuse.
+
+</td>
+      <td width="170" valign="top">
 
 Guéret.
 
-Ressort : Le département.  
+</td>
+      <td width="284" valign="top">
 
-DEPARTEMENTS : Haute-Vienne.
+Le département.
 
-Siège : Limoges.
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-Ressort : Le département. 
+Haute-Vienne.
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+</td>
+      <td width="170" valign="top">
 
-Cour d'appel de Lyon 
+Limoges.
 
-DEPARTEMENTS : Ain.
+</td>
+      <td width="284" valign="top">
 
-Siège : Bourg-en-Bresse.
+Le département.
 
-Ressort : Le département.  
+</td>
+    </tr>
+    <tr>
+      <td width="605" colspan="3">
 
-DEPARTEMENTS : Loire.
+Cour d'appel de Lyon
 
-Siège : Saint-Etienne.
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-Ressort : Le département, moins l'arrondissement de Roanne. 
+Ain.
 
-Siège : Roanne.
+</td>
+      <td width="170" valign="top">
 
-Ressort : L'arrondissement de Roanne.  
+Bourg-en-Bresse.
 
-DEPARTEMENTS : Rhône.
+</td>
+      <td width="284" valign="top">
 
-Siège : Lyon.
+Le département.
 
-Ressort : Le département, moins l'arrondissement de Villefranche-sur-Saône. 
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top" rowspan="2">
 
-Siège : Villefranche-sur-Saône.
+Loire.
 
-Ressort : L'arrondissement de Villefranche-sur-Saône. 
+</td>
+      <td valign="top" width="170">
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+Saint-Etienne.
 
-Cour d'appel de Metz 
+</td>
+      <td valign="top" width="284">
 
-DEPARTEMENTS : Moselle.
+Le département, moins l'arrondissement de Roanne.
 
-Siège : Metz.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="170">
 
-Ressort : Le département. 
+Roanne.
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+</td>
+      <td valign="top" width="284">
 
-Cour d'appel de Montpellier 
+L'arrondissement de Roanne.
 
-DEPARTEMENTS : Aude.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151" rowspan="2">
 
-Siège : Carcassonne.
+Rhône.
 
-Ressort : Le département.  
+</td>
+      <td width="170" valign="top">
 
-DEPARTEMENTS : Aveyron.
+Lyon.
 
-Siège : Rodez.
+</td>
+      <td valign="top" width="284">
 
-Ressort : Le département.  
+Le département, moins l'arrondissement de Villefranche-sur-Saône.
 
-DEPARTEMENTS : Hérault.
+</td>
+    </tr>
+    <tr>
+      <td width="170" valign="top">
 
-Siège : Montpellier.
+Villefranche-sur-Saône.
 
-Ressort : Le département.  
+</td>
+      <td width="284" valign="top">
 
-DEPARTEMENTS : Pyrénées-Orientales.
+L'arrondissement de Villefranche-sur-Saône.
 
-Siège : Perpignan.
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="605">
 
-Ressort : Le département. 
+Cour d'appel de Metz
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-Cour d'appel de Nancy 
+Moselle.
 
-DEPARTEMENTS : Meurthe-et-Moselle.
+</td>
+      <td valign="top" width="170">
 
-Siège : Nancy.
+Metz.
 
-Ressort : Le département, moins l'arrondissement de Briey. 
+</td>
+      <td valign="top" width="284">
 
-Siège : Longwy.
+Le département.
 
-Ressort : L'arrondissement de Briey.  
+</td>
+    </tr>
+    <tr>
+      <td width="605" colspan="3">
 
-DEPARTEMENTS : Meuse.
+Cour d'appel de Montpellier
 
-Siège : Bar-le-Duc.
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-Ressort : Le département.  
+Aude.
 
-DEPARTEMENTS : Vosges.
+</td>
+      <td width="170" valign="top">
 
-Siège : Epinal.
+Carcassonne.
 
-Ressort : Le département. 
+</td>
+      <td width="284" valign="top">
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+Le département.
 
-Cour d'appel de Nîmes 
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-DEPARTEMENTS : Ardèche.
+Aveyron.
 
-Siège : Privas.
+</td>
+      <td width="170" valign="top">
 
-Ressort : Le département.  
+Rodez.
 
-DEPARTEMENTS : Gard.
+</td>
+      <td valign="top" width="284">
 
-Siège : Nîmes.
+Le département.
 
-Ressort : Le département.  
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-DEPARTEMENTS : Lozère.
+Hérault.
 
-Siège : Mende.
+</td>
+      <td width="170" valign="top">
 
-Ressort : Le département.  
+Montpellier.
 
-DEPARTEMENTS : Vaucluse.
+</td>
+      <td valign="top" width="284">
 
-Siège : Avignon.
+Le département.
 
-Ressort : Le département. 
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+Pyrénées-Orientales.
 
-Cour d'appel d'Orléans 
+</td>
+      <td width="170" valign="top">
 
-DEPARTEMENTS : Indre-et-Loire.
+Perpignan.
 
-Siège : Tours.
+</td>
+      <td width="284" valign="top">
 
-Ressort : Le département.  
+Le département.
 
-DEPARTEMENTS : Loir-et-Cher.
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="605">
 
-Siège : Blois.
+Cour d'appel de Nancy
 
-Ressort : Le département.  
+</td>
+    </tr>
+    <tr>
+      <td width="151" rowspan="2" valign="top">
 
-DEPARTEMENTS : Loiret.
+Meurthe-et-Moselle.
 
-Siège : Orléans.
+</td>
+      <td width="170" valign="top">
 
-Ressort : Le département. 
+Nancy.
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+</td>
+      <td width="284" valign="top">
 
-Cour d'appel de Paris 
+Le département, moins l'arrondissement de Briey.
 
-DEPARTEMENTS : Essonne.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="170">
 
-Siège : Corbeil.
+Longwy.
 
-Ressort : Le département.  
+</td>
+      <td valign="top" width="284">
 
-DEPARTEMENTS : Seine-et-Marne.
+L'arrondissement de Briey.
 
-Siège : Melun.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-Ressort : Arrondissements de Fontainebleau, Provins et Melun, sauf le canton de Rozay-en-Brie. 
+Meuse.
 
-Siège : Meaux.
+</td>
+      <td width="170" valign="top">
 
-Ressort : Arrondissements de Meaux et de Torcy, plus le canton de Rozay-en-Brie.  
+Bar-le-Duc.
 
-DEPARTEMENTS : Seine-Saint-Denis.
+</td>
+      <td width="284" valign="top">
 
-Siège : Bobigny.
+Le département.
 
-Ressort : Le département.  
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-DEPARTEMENTS : Val-de-Marne.
+Vosges.
 
-Siège : Créteil.
+</td>
+      <td valign="top" width="170">
 
-Ressort : Le département.  
+Épinal.
 
-DEPARTEMENTS : Yonne.
+</td>
+      <td width="284" valign="top">
 
-Siège : Auxerre.
+Le département.
 
-Ressort : Le département.  
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="605">
 
-DEPARTEMENTS : Paris.
+Cour d'appel de Nîmes
 
-Siège : Paris.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-Ressort : La ville de Paris. 
+Ardèche.
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+</td>
+      <td width="170" valign="top">
 
-Cour d'appel de Pau 
+Privas.
 
-DEPARTEMENTS : Landes.
+</td>
+      <td valign="top" width="284">
 
-Siège : Mont-de-Marsan.
+Le département.
 
-Ressort : Le département des Landes, moins le canton de Saint-Martin-de-Seignanx.  
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-DEPARTEMENTS : Pyrénées-Atlantiques.
+Gard.
 
-Siège : Pau.
+</td>
+      <td valign="top" width="170">
 
-Ressort : Arrondissements de Pau et d'Oloron. 
+Nîmes.
 
-Siège : Bayonne.
+</td>
+      <td valign="top" width="284">
 
-Ressort : L'arrondissement de Bayonne et le canton de Saint-Martin-de-Seignanx, du département des Landes.  
+Le département.
 
-DEPARTEMENTS : Hautes-Pyrénées.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-Siège : Tarbes.
+Lozère.
 
-Ressort : Le département. 
+</td>
+      <td valign="top" width="170">
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+Mende.
 
-Cour d'appel de Poitiers 
+</td>
+      <td valign="top" width="284">
 
-DEPARTEMENTS : Charente-Maritime.
+Le département.
 
-Siège : La Rochelle.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-Ressort : Les arrondissements de La Rochelle et de Rochefort, moins les cantons de La Tremblade et de Royan. 
+Vaucluse.
 
-Siège : Saintes.
+</td>
+      <td valign="top" width="170">
 
-Ressort : Les arrondissements de Saintes, Jonzac, et Saint-Jean-d'Angély, plus les cantons de La Tremblade et de Royan.
+Avignon.
 
-DEPARTEMENTS : Deux-Sèvres.
+</td>
+      <td width="284" valign="top">
 
-Siège : Niort.
+Le département.
 
-Ressort : Le département.  
+</td>
+    </tr>
+    <tr>
+      <td width="605" colspan="3">
 
-DEPARTEMENTS : Vendée.
+Cour d'appel d'Orléans
 
-Siège : La Roche-sur-Yon.
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-Ressort : Le département.  
+Indre-et-Loire.
 
-DEPARTEMENTS : Vienne.
+</td>
+      <td width="170" valign="top">
 
-Siège : Poitiers.
+Tours.
 
-Ressort : Le département. 
+</td>
+      <td valign="top" width="284">
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+Le département.
 
-Cour d'appel de Reims 
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-DEPARTEMENTS : Ardennes.
+Loir-et-Cher.
 
-Siège : Charleville-Mézières.
+</td>
+      <td valign="top" width="170">
 
-Ressort : Le département.  
+Blois.
 
-DEPARTEMENTS : Aube.
+</td>
+      <td valign="top" width="284">
 
-Siège : Troyes.
+Le département.
 
-Ressort : Le département.  
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-DEPARTEMENTS : Marne.
+Loiret.
 
-Siège : Reims.
+</td>
+      <td width="170" valign="top">
 
-Ressort : Le département. 
+Orléans.
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+</td>
+      <td valign="top" width="284">
 
-Cour d'appel de Rennes 
+Le département.
 
-DEPARTEMENTS : Côtes-d'Armor.
+</td>
+    </tr>
+    <tr>
+      <td width="605" colspan="3">
 
-Siège : Saint-Brieuc.
+Cour d'appel de Paris
 
-Ressort : Le département.  
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-DEPARTEMENTS : Finistère.
+Essonne.
 
-Siège : Brest.
+</td>
+      <td valign="top" width="170">
 
-Ressort : Les arrondissements de Brest, Morlaix et le canton de Crozon. 
+Evry.
 
-Siège : Quimper.
+</td>
+      <td width="284" valign="top">
 
-Ressort : Les arrondissements de Quimper, de Châteaulin, moins le canton de Siège : Crozon.  
+Le département.
 
-DEPARTEMENTS : Ille-et-Vilaine.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151" rowspan="2">
 
-Siège : Rennes.
+Seine-et-Marne.
 
-Ressort : Le département.  
+</td>
+      <td valign="top" width="170">
 
-DEPARTEMENTS : Loire-Atlantique.
+Melun.
 
-Siège : Nantes.
+</td>
+      <td valign="top" width="284">
 
-Ressort : Le département.  
+Arrondissements de Fontainebleau, Provins et Melun, sauf le canton de Rozay-en-Brie.
 
-DEPARTEMENTS : Morbihan.
+</td>
+    </tr>
+    <tr>
+      <td width="170" valign="top">
 
-Siège : Vannes.
+Meaux.
 
-Ressort : Le département. 
+</td>
+      <td valign="top" width="284">
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+Arrondissement de Meaux et de Torcy, plus le canton de Rozay-en-Brie.
 
-Cour d'appel de Riom 
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-DEPARTEMENTS : Allier.
+Seine-Saint-Denis.
 
-Siège : Moulins.
+</td>
+      <td valign="top" width="170">
 
-Ressort : Le département.  
+Bobigny.
 
-DEPARTEMENTS : Cantal.
+</td>
+      <td width="284" valign="top">
 
-Siège : Aurillac.
+Le département.
 
-Ressort : Le département.  
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-DEPARTEMENTS : Haute-Loire.
+Val-de-Marne.
 
-Siège : Le Puy-en-Velay.
+</td>
+      <td valign="top" width="170">
 
-Ressort : Le département.  
+Créteil.
 
-DEPARTEMENTS : Puy-de-Dôme.
+</td>
+      <td width="284" valign="top">
 
-Siège : Clermont-Ferrand.
+Le département.
 
-Ressort : Le département. 
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+Yonne.
 
-Cour d'appel de Rouen 
+</td>
+      <td width="170" valign="top">
 
-DEPARTEMENTS : Eure.
+Auxerre.
 
-Siège : Evreux.
+</td>
+      <td width="284" valign="top">
 
-Ressort : Le département.  
+Le département.
 
-DEPARTEMENTS : Seine-Maritime.
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-Siège : Rouen.
+Paris.
 
-Ressort : Les arrondissements de Rouen et de Dieppe. 
+</td>
+      <td valign="top" width="170">
 
-Siège : Le Havre.
+Paris.
 
-Ressort : L'arrondissement du Havre. 
+</td>
+      <td width="284" valign="top">
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+La ville de Paris.
 
-Cour d'appel de Toulouse 
+</td>
+    </tr>
+    <tr>
+      <td width="605" colspan="3">
 
-DEPARTEMENTS : Ariège.
+Cour d'appel de Pau
 
-Siège : Foix.
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-Ressort : Le département.  
+Landes.
 
-DEPARTEMENTS : Haute-Garonne.
+</td>
+      <td valign="top" width="170">
 
-Siège : Toulouse.
+Mont-de-Marsan.
 
-Ressort : Le département.  
+</td>
+      <td width="284" valign="top">
 
-DEPARTEMENTS : Tarn.
+Le département des Landes, moins le canton de Saint-Martin-de-Seignanx.
 
-Siège : Albi.
+</td>
+    </tr>
+    <tr>
+      <td valign="top" rowspan="2" width="151">
 
-Ressort : Le département.  
+Pyrénées-Atlantiques.
 
-DEPARTEMENTS : Tarn-et-Garonne.
+</td>
+      <td width="170" valign="top">
 
-Siège : Montauban.
+Pau.
 
-Ressort : Le département. 
+</td>
+      <td width="284" valign="top">
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+Arrondissements de Pau et d'Oloron.
 
-Cour d'appel de Versailles 
+</td>
+    </tr>
+    <tr>
+      <td width="170" valign="top">
 
-DEPARTEMENTS : Eure-et-Loir.
+Bayonne.
 
-Siège : Chartres.
+</td>
+      <td width="284" valign="top">
 
-Ressort : Le département.  
+L'arrondissement de Bayonne et le canton de Saint-Martin-de-Seignanx, du département des Landes
 
-DEPARTEMENTS : Hauts-de-Seine.
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-Siège : Nanterre.
+Hautes-Pyrénées.
 
-Ressort : Le département.  
+</td>
+      <td width="170" valign="top">
 
-DEPARTEMENTS : Val-d'Oise.
+Tarbes.
 
-Siège : Pontoise.
+</td>
+      <td width="284" valign="top">
 
-Ressort : Le département.  
+Le département.
 
-DEPARTEMENTS : Yvelines.
+</td>
+    </tr>
+    <tr>
+      <td width="605" colspan="3">
 
-Siège : Versailles.
+Cour d'appel de Poitiers
 
-Ressort : Le département. 
+</td>
+    </tr>
+    <tr>
+      <td valign="top" rowspan="2" width="151">
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+Charente-Maritime.
 
-Cour d'appel de Basse-Terre 
+</td>
+      <td width="170" valign="top">
 
-DEPARTEMENTS : Guadeloupe.
+La Rochelle.
 
-Siège : Pointe-à-Pitre.
+</td>
+      <td width="284" valign="top">
 
-Le département. 
+Les arrondissements de La Rochelle et de Rochefort, moins les cantons de la Tremblade et de Royan.
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="170">
 
-Cour d'appel de Fort-de-France 
+Saintes.
 
-DEPARTEMENTS : Guyane.
+</td>
+      <td valign="top" width="284">
 
-Siège : Cayenne.
+Les arrondissements de Saintes, Jonzac, et Saint-Jean-d'Angély, plus les cantons de La Tremblade et de Royan.
 
-Ressort : Le département.  
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
 
-DEPARTEMENTS : Martinique.
+Deux-Sèvres.
 
-Siège : Fort-de-France.
+</td>
+      <td valign="top" width="170">
 
-Ressort : Le département. 
+Niort.
 
-TRIBUNAUX DES AFFAIRES de sécurité sociale :
+</td>
+      <td width="284" valign="top">
 
-Cour d'appel de Saint-Denis-de-la-Réunion 
+Le département.
 
-DEPARTEMENTS : Réunion.
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
 
-Siège : Saint-Denis.
+Vendée.
 
-Ressort : Le département.
+</td>
+      <td width="170" valign="top">
+
+La Roche-sur-Yon
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Vienne.
+
+</td>
+      <td width="170" valign="top">
+
+Poitiers.
+
+</td>
+      <td valign="top" width="284">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td width="605" colspan="3">
+
+Cour d'appel de Reims
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Ardennes.
+
+</td>
+      <td width="170" valign="top">
+
+Charleville-Mézières.
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Aube.
+
+</td>
+      <td width="170" valign="top">
+
+Troyes.
+
+</td>
+      <td valign="top" width="284">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Marne.
+
+</td>
+      <td valign="top" width="170">
+
+Reims.
+
+</td>
+      <td valign="top" width="284">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="605">
+
+Cour d'appel de Rennes
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Côtes-d'Armor.
+
+</td>
+      <td valign="top" width="170">
+
+Saint-Brieuc.
+
+</td>
+      <td valign="top" width="284">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top" rowspan="2">
+
+Finistère.
+
+</td>
+      <td width="170" valign="top">
+
+Brest.
+
+</td>
+      <td width="284" valign="top">
+
+Les arrondissements de Brest, Morlaix et le canton de Crozon.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="170">
+
+Quimper.
+
+</td>
+      <td valign="top" width="284">
+
+Les arrondissements de Quimper, de Châteaulin, moins le canton de Crozon.
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Ille-et-Vilaine.
+
+</td>
+      <td valign="top" width="170">
+
+Rennes.
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Loire-Atlantique.
+
+</td>
+      <td width="170" valign="top">
+
+Nantes.
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Morbihan.
+
+</td>
+      <td valign="top" width="170">
+
+Vannes.
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="605">
+
+Cour d'appel de Riom
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Allier.
+
+</td>
+      <td width="170" valign="top">
+
+Moulins.
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Cantal.
+
+</td>
+      <td width="170" valign="top">
+
+Aurillac.
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Haute-Loire.
+
+</td>
+      <td valign="top" width="170">
+
+Le Puy-en-Velay.
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Puy-de-Dôme.
+
+</td>
+      <td valign="top" width="170">
+
+Clermont-Ferrand.
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="605">
+
+Cour d'appel de Rouen
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Eure.
+
+</td>
+      <td width="170" valign="top">
+
+Evreux.
+
+</td>
+      <td valign="top" width="284">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" rowspan="2" width="151">
+
+Seine-Maritime.
+
+</td>
+      <td valign="top" width="170">
+
+Rouen.
+
+</td>
+      <td valign="top" width="284">
+
+Les arrondissements de Rouen et de Dieppe.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="170">
+
+Le Havre.
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td width="605" colspan="3">
+
+Cour d'appel de Toulouse
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Ariège.
+
+</td>
+      <td width="170" valign="top">
+
+Foix.
+
+</td>
+      <td valign="top" width="284">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Haute-Garonne.
+
+</td>
+      <td valign="top" width="170">
+
+Toulouse.
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Tarn.
+
+</td>
+      <td width="170" valign="top">
+
+Albi.
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Tarn-et-Garonne.
+
+</td>
+      <td width="170" valign="top">
+
+Montauban.
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="605">
+
+Cour d'appel de Versailles
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Eure-et-Loir.
+
+</td>
+      <td valign="top" width="170">
+
+Chartres.
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="151">
+
+Hauts-de-Seine.
+
+</td>
+      <td width="170" valign="top">
+
+Nanterre.
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Val-d'Oise.
+
+</td>
+      <td width="170" valign="top">
+
+Pontoise.
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Yvelines.
+
+</td>
+      <td width="170" valign="top">
+
+Versailles.
+
+</td>
+      <td valign="top" width="284">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td width="605" colspan="3">
+
+Cour d'appel de Basse-Terre
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Guadeloupe.
+
+</td>
+      <td valign="top" width="170">
+
+Pointe-à-Pitre.
+
+</td>
+      <td valign="top" width="284">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="605">
+
+Cour d'appel de Fort-de-France
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Guyane.
+
+</td>
+      <td valign="top" width="170">
+
+Cayenne.
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Martinique.
+
+</td>
+      <td valign="top" width="170">
+
+Fort-de-France.
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" width="605">
+
+Cour d'appel de Saint-Denis-de-la-Réunion
+
+</td>
+    </tr>
+    <tr>
+      <td width="151" valign="top">
+
+Réunion.
+
+</td>
+      <td width="170" valign="top">
+
+Saint-Denis.
+
+</td>
+      <td width="284" valign="top">
+
+Le département.
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°85-1353 1985-12-17
-
 	**Modifié par**:
 
-	  - Décret n°2004-593 du 17 juin 2004 - art. 37 () JORF 24 juin 2004
+	  - Décret n°2008-522 du 2 juin 2008 - art. 8
