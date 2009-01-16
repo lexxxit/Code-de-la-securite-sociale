@@ -1,64 +1,87 @@
 # Article Annexe II : Tableau n° 36 bis
 
-**
-
-Affections cutanées cancéreuses provoquées par les dérivés suivants du pétrole : extraits aromatiques, huiles minérales
-utilisées à haute température dans les opérations d'usinage et de traitement des métaux, suies de combustion des produits
-pétroliers**
+**Affections cancéreuses provoquées par les dérivés suivants du pétrole : huiles minérales peu ou non raffinées et huiles
+minérales régénérées utilisées dans les opérations d'usinage et de traitement des métaux, extraits aromatiques, résidus de
+craquage, huiles moteur usagées ainsi que suies de combustion des produits pétroliers**
 
 <table>
   <tbody>
     <tr>
-      <td width="246">
+      <th>
 
-DÉSIGNATION DE LA MALADIE
+DÉSIGNATION DES MALADIES
 
-</td>
-      <td width="76">
+</th>
+      <th>
 
-DÉLAI de prise en charge
+DÉLAI DE PRISE EN CHARGE
 
-</td>
-      <td width="284">
+</th>
+      <th>
 
-LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer cette maladie
+LISTE LIMITATIVE DES TRAVAUX 
 
-</td>
+susceptibles de provoquer ces maladies
+
+</th>
     </tr>
     <tr>
-      <td valign="top" width="246">
+      <td align="center">
 
-Epithéliomas primitifs de la peau.
+Epithélioma primitif de la peau. 
 
 </td>
-      <td width="76" valign="top">
+      <td align="center">
 
 30 ans (sous réserve d'une durée d'exposition minimale de 10 ans)
 
 </td>
-      <td valign="top" width="284">
+      <td align="center">
 
-Travaux d'usinage par enlèvement ou déformation de matière ou travaux de traitement des métaux et alliages comportant
-l'emploi d'huile minérale.
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="246">
-      </td><td valign="top" width="76">
-      </td><td valign="top" width="284">
-
-Travaux comportant la manipulation et l'emploi d'extraits aromatiques pétroliers utilisés notamment comme huiles d'extension,
-d'ensimage, de démoulage, à l'exclusion des polymérisats et des élastomères contenant des huiles d'extension.
+1. Travaux d'usinage par enlèvement ou déformation de matière ou travaux de traitement des métaux et alliages exposant
+habituellement au contact cutané avec des huiles minérales peu ou non raffinées, ou régénérées.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="246">
-      </td><td width="76" valign="top">
-      </td><td width="284" valign="top">
+      <td align="center">
 
-Travaux de ramonage et de nettoyage de chaudières et de cheminées exposant aux suies de combustion de produits pétroliers.
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+2. Travaux exposant habituellement au contact cutané avec des extraits aromatiques pétroliers utilisés notamment comme huiles
+d'extension, d'ensimage, de démoulage, ou comme fluxant des bitumes.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+3. Travaux exposant habituellement au contact cutané avec des résidus de craquage utilisés notamment comme liants ou
+fluidifiants et avec des huiles moteur usagées.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+4. Travaux de ramonage et de nettoyage de chaudières et de cheminées exposant habituellement au contact cutané avec des suies
+de combustion de produits pétroliers.
 
 </td>
     </tr>
@@ -67,14 +90,6 @@ Travaux de ramonage et de nettoyage de chaudières et de cheminées exposant aux
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°85-1353 1985-12-17
-
-	**Créé par**:
-
-	  - Décret n°89-667 1989-09-13 art. 9 JORF 17 septembre 1989
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la sécurité sociale. - art. R461-3 (V)
+	  - Décret n°2009-56 du 15 janvier 2009 - art. 1

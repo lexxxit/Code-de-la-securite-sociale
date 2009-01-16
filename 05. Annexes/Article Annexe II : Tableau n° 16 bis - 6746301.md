@@ -1,74 +1,249 @@
 # Article Annexe II : Tableau n° 16 bis
 
-**
-
-AFFECTIONS CANCEREUSES PROVOQUEES PAR LES GOUDRONS DE HOUILLE, LES HUILES DE HOUILLE (COMPRENANT LES FRACTIONS DE
-DISTILLATION DITES PHENOLIQUES, NAPHTALENIQUES, ACENAPHTENIQUES, ANTHRACENIQUES ET CHRYSENIQUES), LES BRAIS DE HOUILLE ET LES
-SUIES DE COMBUSTION DU CHARBON**
+**Affections cancéreuses provoquées par les goudrons de houille, les huiles de houille,les brais de houille et les suies de
+combustion du charbon**
 
 <table>
   <tbody>
     <tr>
-      <td width="227">
+      <th>
 
 DÉSIGNATION DES MALADIES
 
+</th>
+      <th>
+
+DÉLAI DE PRISE EN CHARGE
+
+</th>
+      <th>
+
+LISTE LIMITATIVE DES TRAVAUX 
+
+susceptibles de provoquer ces maladies
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+A
+
 </td>
-      <td width="76">
+      <td align="center">
+      </td><td align="center">
 
-DÉLAI DE prise en charge
-
-</td>
-      <td width="265">
-
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
+A
 
 </td>
     </tr>
     <tr>
-      <td width="227" valign="top">
+      <td align="center">
 
-- A - Epithéliomas primitifs de la peau.
-
-</td>
-      <td width="76" valign="top">
-
-20 ans
+Epithélioma primitif de la peau.
 
 </td>
-      <td valign="top" width="265" rowspan="3">
+      <td align="center">
 
-Travaux comportant la manipulation et l'emploi des goudrons, huiles et brais de houille. Travaux de ramonage et d'entretien
-de chaudières et de cheminées exposant aux suies de combustion du charbon. Travaux du personnel de cokerie directement
-affecté à la marche et à l'entretien des fours. Travaux exposant habituellement à l'inhalation ou à la manipulation des
-produits précités : - dans les usines à gaz ; - lors de la fabrication de l'aluminium par électrolyse selon le procédé à
-anode continue (procédé Söderberg). Travaux de coulée en fonderie de fonte ou d'acier mettant en oeuvre des sables au noir
-incorporant des brais ou des noirs minéraux. Travaux de ramonage. Travaux comportant l'emploi et la manipulation des produits
-précités lors de la fabrication de l'aluminium par électrolyse selon le procédé à anode continue (procédé Söderberg).
+20 ans (sous réserve d'une 
+
+durée d'exposition de 10 ans)
+
+</td>
+      <td align="center">
+
+1. Travaux comportant la manipulation et l'emploi de goudrons de houille, huiles et brais de houille, exposant habituellement
+au contact cutané avec les produits précités.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="227">
+      <td align="center">
+      </td><td align="center">
+      </td><td align="center">
 
-- B - Cancer broncho-pulmonaire primitif.
-
-</td>
-      <td width="76" valign="top">
-
-30 ans (sous réserve d'une durée d'exposition de 10 ans)
+2. Travaux de ramonage et d'entretien de chaudières et foyers à charbon et de leurs cheminées ou conduits d'évacuation,
+exposant habituellement au contact cutané avec les suies de combustion du charbon.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="227">
+      <td align="center">
 
-- C - Tumeurs bénignes ou malignes de la vessie.
+B
 
 </td>
-      <td width="76" valign="top">
+      <td align="center">
+      </td><td align="center">
 
-30 ans (sous réserve d'une durée d'exposition de 10 ans)
+B
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Cancer bronchopulmonaire primitif.
+
+</td>
+      <td align="center">
+
+30 ans (sous réserve d'une 
+
+durée d'exposition de 10 ans)
+
+</td>
+      <td align="center">
+
+1. Travaux en cokerie de personnels directement affectés à la marche ou à l'entretien des fours ou à la récupération et au
+traitement des goudrons, exposant habituellement à l'inhalation des émissions des produits précités.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+      </td><td align="center">
+      </td><td align="center">
+
+2. Travaux ayant exposé habituellement à l'inhalation des émissions des produits précités dans les unités de production de
+gaz de ville .
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+      </td><td align="center">
+      </td><td align="center">
+
+3. Travaux de fabrication de l'aluminium dans les ateliers d'électrolyse selon le procédé à anode continue (procédé
+Söderberg), exposant habituellement à l'inhalation des émissions des produits précités.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+      </td><td align="center">
+      </td><td align="center">
+
+4. Travaux de pose de joints à base de brai de houille (pâte chaude) pour la confection ou la réfection de cathodes
+(brasquage), exposant habituellement à l'inhalation des émissions des produits précités.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+      </td><td align="center">
+      </td><td align="center">
+
+5. Travaux de mélangeage, de malaxage et de mise en forme lors de la fabrication d'électrodes destinées à la métallurgie,
+exposant habituellement à l'inhalation des émissions des produits précités.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+      </td><td align="center">
+      </td><td align="center">
+
+6. Travaux de chargement de pâte en boulets à base de brai ou de soudage de viroles dans le procédé à anode continue en
+électrométallurgie de ferroalliages, exposant habituellement à l'inhalation des émissions des produits précités.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+      </td><td align="center">
+      </td><td align="center">
+
+7. Travaux de fabrication par pressage des agglomérés de houille (boulets ou briquettes), exposant habituellement à
+l'inhalation des émissions des produits précités.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+      </td><td align="center">
+      </td><td align="center">
+
+8. Travaux de coulée et de décochage en fonderie de fonte ou d'acier utilisant des sables au noir incorporant des brais,
+exposant habituellement à l'inhalation des émissions des produits précités.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+      </td><td align="center">
+      </td><td align="center">
+
+9. Travaux de pose de masse à boucher au goudron, et nettoyage et réfection des rigoles de coulée des hauts-fourneaux,
+exposant habituellement à l'inhalation des émissions des produits précités.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+      </td><td align="center">
+      </td><td align="center">
+
+10. Travaux de ramonage et d'entretien de chaudières et foyers à charbon et de leurs cheminées ou conduits d'évacuation,
+exposant habituellement à l'inhalation des suies de combustion du charbon.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+C
+
+</td>
+      <td align="center">
+      </td><td align="center">
+
+C
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Tumeur primitive de l'épithélium urinaire (vessie, voies excrétrices supérieures) confirmée par examen histopathologique ou
+cytopathologique.
+
+</td>
+      <td align="center">
+
+30 ans (sous réserve d'une 
+
+durée d'exposition de10 ans)
+
+</td>
+      <td align="center">
+
+1. Travaux en cokerie de personnels directement affectés à la marche ou à l'entretien des fours exposant habituellement aux
+produits précités. 
+
+2. Travaux de fabrication de l'aluminium dans les ateliers d'électrolyse selon le procédé à anode continue (procédé
+Söderberg), impliquant l'emploi et la manipulation habituels des produits précités.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+      </td><td align="center">
+      </td><td align="center">
+
+3. Travaux de ramonage et d'entretien de chaudières et foyers à charbon et de leurs cheminées ou conduits d'évacuation ou à
+la récupération et au traitement des goudrons, exposant habituellement aux suies de combustion du charbon.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+      </td><td align="center">
+      </td><td align="center">
+
+4. Travaux au poste de vannier avant 1985 comportant l'exposition habituelle à des bitumes goudrons lors de l'application de
+revêtements routiers.
 
 </td>
     </tr>
@@ -77,14 +252,6 @@ précités lors de la fabrication de l'aluminium par électrolyse selon le proc�
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°85-1353 1985-12-17
-
 	**Modifié par**:
 
-	  - Décret n°95-1196 du 6 novembre 1995 - art. 1 () JORF 10 novembre 1995
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la sécurité sociale. - art. R461-3 (V)
+	  - Décret n°2009-56 du 15 janvier 2009 - art. 1

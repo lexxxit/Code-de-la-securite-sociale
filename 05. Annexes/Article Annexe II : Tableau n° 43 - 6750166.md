@@ -24,9 +24,9 @@ LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td valign="top" width="246">
 
-Ulcérations cutanées.
+Dermatites irritatives  
 
 </td>
       <td valign="top" width="76">
@@ -34,7 +34,7 @@ Ulcérations cutanées.
 7 jours
 
 </td>
-      <td rowspan="4" valign="top" width="283">
+      <td rowspan="4" width="283" valign="top">
 
 Préparation, emploi et manipulation de l'aldéhyde formique, de ses solutions (formol) et de ses polymères, notamment : -
 fabrication de substances chimiques, à partir de l'aldéhyde formique ; - fabrication de matières plastiques à base de
@@ -44,7 +44,7 @@ désinfection ; - apprêtage des peaux ou des tissus.
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td valign="top" width="246">
 
 Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test épicutané.
 
@@ -56,19 +56,19 @@ Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou 
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td valign="top" width="246">
 
 Rhinite récidivant en cas de nouvelle exposition au risque ou confirmée par test.
 
 </td>
-      <td width="76" valign="top">
+      <td valign="top" width="76">
 
 7 jours
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="246">
+      <td width="246" valign="top">
 
 Asthme objectivé par explorations fonctionnelles respiratoires récidivant en cas de nouvelle exposition au risque ou confirmé
 par test.
@@ -85,14 +85,6 @@ par test.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°85-1353 1985-12-17
-
 	**Modifié par**:
 
-	  - Décret n°2003-110 du 11 février 2003 - art. 2 () JORF 13 février 2003
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la sécurité sociale. - art. R461-3 (V)
+	  - Décret n°2009-56 du 15 janvier 2009 - art. 1
