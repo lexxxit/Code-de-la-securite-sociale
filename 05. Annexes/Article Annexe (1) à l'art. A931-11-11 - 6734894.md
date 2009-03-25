@@ -39,11 +39,11 @@ TOTAL N-1
 A1 Actifs incorporels
 
 </td>
-      <td valign="top" width="62">
-      </td><td valign="top" width="61">
+      <td width="62" valign="top">
+      </td><td width="61" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="329">
+      <td width="329" valign="top">
 
 A2 Placements
 
@@ -61,12 +61,12 @@ A2a Terrains et constructions
       </td><td valign="top" width="61">
     </td></tr>
     <tr>
-      <td width="329" valign="top">
+      <td valign="top" width="329">
 
 A2b Placements dans des entreprises liées et dans des entreprises avec lesquelles existe un lien de participation
 
 </td>
-      <td valign="top" width="62">
+      <td width="62" valign="top">
       </td><td width="61" valign="top">
     </td></tr>
     <tr>
@@ -76,7 +76,7 @@ A2c Autres placements
 
 </td>
       <td width="62" valign="top">
-      </td><td width="61" valign="top">
+      </td><td valign="top" width="61">
     </td></tr>
     <tr>
       <td valign="top" width="329">
@@ -88,43 +88,43 @@ A2d Créances pour espèces déposées auprès des entreprises cédantes
       </td><td valign="top" width="61">
     </td></tr>
     <tr>
-      <td width="329" valign="top">
+      <td valign="top" width="329">
 
 A3 Placements représentant les provisions techniques afférentes aux opérations en unités de compte
-
-</td>
-      <td valign="top" width="62">
-      </td><td width="61" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="329">
-
-A4 Part des cessionnaires et retrocessionnaires dans les provisions techniques
-
-</td>
-      <td valign="top" width="62">
-      </td><td width="61" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="329">
-
-A4a Provisions pour cotisations non acquises (non-vie)
 
 </td>
       <td width="62" valign="top">
       </td><td valign="top" width="61">
     </td></tr>
     <tr>
-      <td valign="top" width="329">
+      <td width="329" valign="top">
 
-A4b Provisions d'assurance vie
+A4 Part des cessionnaires et retrocessionnaires dans les provisions techniques
 
 </td>
       <td valign="top" width="62">
       </td><td valign="top" width="61">
     </td></tr>
     <tr>
-      <td valign="top" width="329">
+      <td width="329" valign="top">
+
+A4a Provisions pour cotisations non acquises (non-vie)
+
+</td>
+      <td valign="top" width="62">
+      </td><td width="61" valign="top">
+    </td></tr>
+    <tr>
+      <td width="329" valign="top">
+
+A4b Provisions d'assurance vie
+
+</td>
+      <td width="62" valign="top">
+      </td><td valign="top" width="61">
+    </td></tr>
+    <tr>
+      <td width="329" valign="top">
 
 A4c Provisions pour sinistres (vie)
 
@@ -142,13 +142,13 @@ A4d Provisions pour sinistres (non vie)
       </td><td valign="top" width="61">
     </td></tr>
     <tr>
-      <td valign="top" width="329">
+      <td width="329" valign="top">
 
 A4e Provisions pour participation aux excédents et ristournes (vie)
 
 </td>
-      <td width="62" valign="top">
-      </td><td width="61" valign="top">
+      <td valign="top" width="62">
+      </td><td valign="top" width="61">
     </td></tr>
     <tr>
       <td valign="top" width="329">
@@ -157,16 +157,16 @@ A4f Provisions pour participation aux excédents et ristournes (non-vie)
 
 </td>
       <td width="62" valign="top">
-      </td><td width="61" valign="top">
+      </td><td valign="top" width="61">
     </td></tr>
     <tr>
-      <td valign="top" width="329">
+      <td width="329" valign="top">
 
 A4g Provisions pour égalisation (vie)
 
 </td>
-      <td width="62" valign="top">
-      </td><td width="61" valign="top">
+      <td valign="top" width="62">
+      </td><td valign="top" width="61">
     </td></tr>
     <tr>
       <td valign="top" width="329">
@@ -178,16 +178,16 @@ A4h Provisions pour égalisation (non-vie)
       </td><td width="61" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="329">
+      <td width="329" valign="top">
 
 A4i Autres provisions techniques (vie)
 
 </td>
-      <td valign="top" width="62">
+      <td width="62" valign="top">
       </td><td valign="top" width="61">
     </td></tr>
     <tr>
-      <td valign="top" width="329">
+      <td width="329" valign="top">
 
 A4j Autres provisions techniques (non-vie)
 
@@ -201,8 +201,8 @@ A4j Autres provisions techniques (non-vie)
 A4k Provisions techniques des opérations en unités de compte
 
 </td>
-      <td width="62" valign="top">
-      </td><td valign="top" width="61">
+      <td valign="top" width="62">
+      </td><td width="61" valign="top">
     </td></tr>
     <tr>
       <td width="329" valign="top">
@@ -211,16 +211,16 @@ A5 Créances
 
 </td>
       <td width="62" valign="top">
-      </td><td valign="top" width="61">
+      </td><td width="61" valign="top">
     </td></tr>
     <tr>
-      <td width="329" valign="top">
+      <td valign="top" width="329">
 
 A5a Créances nées d'opérations directes
 
 </td>
       <td valign="top" width="62">
-      </td><td width="61" valign="top">
+      </td><td valign="top" width="61">
     </td></tr>
     <tr>
       <td valign="top" width="329">
@@ -229,28 +229,28 @@ A5aa Cotisations restant à émettre
 
 </td>
       <td valign="top" width="62">
-      </td><td valign="top" width="61">
+      </td><td width="61" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="329">
+      <td width="329" valign="top">
 
 A5ab Autres créances nées d'opérations directes
-
-</td>
-      <td valign="top" width="62">
-      </td><td valign="top" width="61">
-    </td></tr>
-    <tr>
-      <td valign="top" width="329">
-
-A5b Créances nées d'opérations de réassurance
 
 </td>
       <td width="62" valign="top">
       </td><td width="61" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="329">
+      <td width="329" valign="top">
+
+A5b Créances nées d'opérations de réassurance
+
+</td>
+      <td valign="top" width="62">
+      </td><td width="61" valign="top">
+    </td></tr>
+    <tr>
+      <td width="329" valign="top">
 
 A5c Autres créances
 
@@ -265,10 +265,10 @@ A5ca Personnel
 
 </td>
       <td width="62" valign="top">
-      </td><td width="61" valign="top">
+      </td><td valign="top" width="61">
     </td></tr>
     <tr>
-      <td width="329" valign="top">
+      <td valign="top" width="329">
 
 A5cb Etat, organismes sociaux, collectivités publiques
 
@@ -277,7 +277,7 @@ A5cb Etat, organismes sociaux, collectivités publiques
       </td><td valign="top" width="61">
     </td></tr>
     <tr>
-      <td valign="top" width="329">
+      <td width="329" valign="top">
 
 A5cc Débiteurs divers
 
@@ -292,21 +292,12 @@ A6 Autres actifs
 
 </td>
       <td valign="top" width="62">
-      </td><td valign="top" width="61">
+      </td><td width="61" valign="top">
     </td></tr>
     <tr>
       <td valign="top" width="329">
 
 A6a Actifs corporels d'exploitation
-
-</td>
-      <td width="62" valign="top">
-      </td><td valign="top" width="61">
-    </td></tr>
-    <tr>
-      <td valign="top" width="329">
-
-A6b Avoirs en banque, CCP et caisse
 
 </td>
       <td valign="top" width="62">
@@ -315,14 +306,23 @@ A6b Avoirs en banque, CCP et caisse
     <tr>
       <td width="329" valign="top">
 
-A7 Comptes de régularisation. - Actif
+A6b Avoirs en banque, CCP et caisse
 
 </td>
-      <td width="62" valign="top">
+      <td valign="top" width="62">
       </td><td width="61" valign="top">
     </td></tr>
     <tr>
       <td valign="top" width="329">
+
+A7 Comptes de régularisation. - Actif
+
+</td>
+      <td valign="top" width="62">
+      </td><td width="61" valign="top">
+    </td></tr>
+    <tr>
+      <td width="329" valign="top">
 
 A7a Intérêts et loyers acquis non échus
 
@@ -340,12 +340,12 @@ A7b Frais d'acquisition reportés (vie)
       </td><td width="61" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="329">
+      <td width="329" valign="top">
 
 A7c Frais d'acquisition reportés (non-vie)
 
 </td>
-      <td valign="top" width="62">
+      <td width="62" valign="top">
       </td><td valign="top" width="61">
     </td></tr>
     <tr>
@@ -355,16 +355,16 @@ A7d Autres comptes de régularisation
 
 </td>
       <td width="62" valign="top">
-      </td><td valign="top" width="61">
+      </td><td width="61" valign="top">
     </td></tr>
     <tr>
-      <td width="329" valign="top">
+      <td valign="top" width="329">
 
 A8 Différence de conversion
 
 </td>
-      <td valign="top" width="62">
-      </td><td width="61" valign="top">
+      <td width="62" valign="top">
+      </td><td valign="top" width="61">
     </td></tr>
     <tr>
       <td width="329" valign="top">
@@ -372,7 +372,7 @@ A8 Différence de conversion
 Total de l'actif
 
 </td>
-      <td width="62" valign="top">
+      <td valign="top" width="62">
       </td><td width="61" valign="top">
     </td></tr>
   </tbody>
@@ -404,15 +404,15 @@ B1 Fonds propres
 
 </td>
       <td width="68" valign="top">
-      </td><td valign="top" width="76">
+      </td><td width="76" valign="top">
     </td></tr>
     <tr>
-      <td width="272" valign="top">
+      <td valign="top" width="272">
 
 B1a Fonds d'établissement et de développement
 
 </td>
-      <td valign="top" width="68">
+      <td width="68" valign="top">
       </td><td valign="top" width="76">
     </td></tr>
     <tr>
@@ -421,7 +421,7 @@ B1a Fonds d'établissement et de développement
 B1b Réserves de réévaluation
 
 </td>
-      <td valign="top" width="68">
+      <td width="68" valign="top">
       </td><td width="76" valign="top">
     </td></tr>
     <tr>
@@ -431,16 +431,16 @@ B1c Autres réserves
 
 </td>
       <td width="68" valign="top">
-      </td><td width="76" valign="top">
+      </td><td valign="top" width="76">
     </td></tr>
     <tr>
-      <td valign="top" width="272">
+      <td width="272" valign="top">
 
 B1e Résultat de l'exercice 
 
 </td>
-      <td valign="top" width="68">
-      </td><td width="76" valign="top">
+      <td width="68" valign="top">
+      </td><td valign="top" width="76">
     </td></tr>
     <tr>
       <td width="272" valign="top">
@@ -448,17 +448,17 @@ B1e Résultat de l'exercice
 B1f Subventions nettes
 
 </td>
-      <td width="68" valign="top">
+      <td valign="top" width="68">
       </td><td valign="top" width="76">
     </td></tr>
     <tr>
-      <td valign="top" width="272">
+      <td width="272" valign="top">
 
 B2 Passifs subordonnés
 
 </td>
       <td valign="top" width="68">
-      </td><td valign="top" width="76">
+      </td><td width="76" valign="top">
     </td></tr>
     <tr>
       <td width="272" valign="top">
@@ -466,26 +466,26 @@ B2 Passifs subordonnés
 B3 Provisions techniques brutes
 
 </td>
-      <td valign="top" width="68">
+      <td width="68" valign="top">
       </td><td valign="top" width="76">
     </td></tr>
     <tr>
-      <td width="272" valign="top">
+      <td valign="top" width="272">
 
 B3a Provisions pour cotisations non acquises (non-vie)
 
 </td>
       <td width="68" valign="top">
-      </td><td width="76" valign="top">
+      </td><td valign="top" width="76">
     </td></tr>
     <tr>
-      <td valign="top" width="272">
+      <td width="272" valign="top">
 
 B3b Provisions d'assurance vie
 
 </td>
-      <td valign="top" width="68">
-      </td><td valign="top" width="76">
+      <td width="68" valign="top">
+      </td><td width="76" valign="top">
     </td></tr>
     <tr>
       <td valign="top" width="272">
@@ -493,16 +493,16 @@ B3b Provisions d'assurance vie
 B3c Provisions pour sinistres (vie)
 
 </td>
-      <td width="68" valign="top">
-      </td><td width="76" valign="top">
+      <td valign="top" width="68">
+      </td><td valign="top" width="76">
     </td></tr>
     <tr>
-      <td valign="top" width="272">
+      <td width="272" valign="top">
 
 B3d Provisions pour sinistres (non-vie)
 
 </td>
-      <td valign="top" width="68">
+      <td width="68" valign="top">
       </td><td width="76" valign="top">
     </td></tr>
     <tr>
@@ -511,7 +511,7 @@ B3d Provisions pour sinistres (non-vie)
 B3e Provisions pour participation aux excédents et ristournes (vie)
 
 </td>
-      <td valign="top" width="68">
+      <td width="68" valign="top">
       </td><td width="76" valign="top">
     </td></tr>
     <tr>
@@ -521,7 +521,7 @@ B3f Provisions pour participation aux excédents et ristournes (non-vie)
 
 </td>
       <td valign="top" width="68">
-      </td><td width="76" valign="top">
+      </td><td valign="top" width="76">
     </td></tr>
     <tr>
       <td valign="top" width="272">
@@ -530,7 +530,7 @@ B3g Provisions pour égalisation (vie)
 
 </td>
       <td valign="top" width="68">
-      </td><td width="76" valign="top">
+      </td><td valign="top" width="76">
     </td></tr>
     <tr>
       <td valign="top" width="272">
@@ -538,7 +538,7 @@ B3g Provisions pour égalisation (vie)
 B3h Provisions pour égalisation (non-vie)
 
 </td>
-      <td width="68" valign="top">
+      <td valign="top" width="68">
       </td><td valign="top" width="76">
     </td></tr>
     <tr>
@@ -548,19 +548,19 @@ B3i Autres provisions techniques (vie)
 
 </td>
       <td valign="top" width="68">
-      </td><td width="76" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="272">
-
-B3j Autres provisions techniques (non-vie)
-
-</td>
-      <td valign="top" width="68">
       </td><td valign="top" width="76">
     </td></tr>
     <tr>
       <td width="272" valign="top">
+
+B3j Autres provisions techniques (non-vie)
+
+</td>
+      <td width="68" valign="top">
+      </td><td valign="top" width="76">
+    </td></tr>
+    <tr>
+      <td valign="top" width="272">
 
 B4 Provisions techniques des opérations en unités de compte
 
@@ -569,13 +569,13 @@ B4 Provisions techniques des opérations en unités de compte
       </td><td width="76" valign="top">
     </td></tr>
     <tr>
-      <td width="272" valign="top">
+      <td valign="top" width="272">
 
 B5 Provisions pour risques et charges
 
 </td>
       <td valign="top" width="68">
-      </td><td valign="top" width="76">
+      </td><td width="76" valign="top">
     </td></tr>
     <tr>
       <td valign="top" width="272">
@@ -583,7 +583,7 @@ B5 Provisions pour risques et charges
 B6 Dettes pour dépôts en espèces reçus des cessionnaires
 
 </td>
-      <td valign="top" width="68">
+      <td width="68" valign="top">
       </td><td valign="top" width="76">
     </td></tr>
     <tr>
@@ -592,11 +592,11 @@ B6 Dettes pour dépôts en espèces reçus des cessionnaires
 B7a Dettes nées d'opérations directes
 
 </td>
-      <td valign="top" width="68">
+      <td width="68" valign="top">
       </td><td valign="top" width="76">
     </td></tr>
     <tr>
-      <td width="272" valign="top">
+      <td valign="top" width="272">
 
 B7b Dettes nées d'opérations de réassurance
 
@@ -605,13 +605,13 @@ B7b Dettes nées d'opérations de réassurance
       </td><td valign="top" width="76">
     </td></tr>
     <tr>
-      <td valign="top" width="272">
+      <td width="272" valign="top">
 
 B7c Dettes envers des établissements de crédit
 
 </td>
-      <td valign="top" width="68">
-      </td><td width="76" valign="top">
+      <td width="68" valign="top">
+      </td><td valign="top" width="76">
     </td></tr>
     <tr>
       <td width="272" valign="top">
@@ -623,7 +623,7 @@ B7d Autres dettes
       </td><td valign="top" width="76">
     </td></tr>
     <tr>
-      <td valign="top" width="272">
+      <td width="272" valign="top">
 
 B7da Autres emprunts, dépôts et cautionnements reçus
 
@@ -637,16 +637,16 @@ B7da Autres emprunts, dépôts et cautionnements reçus
 B7db Personnel
 
 </td>
-      <td width="68" valign="top">
-      </td><td valign="top" width="76">
+      <td valign="top" width="68">
+      </td><td width="76" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="272">
+      <td width="272" valign="top">
 
 B7dc Etat, organismes sociaux, collectivités publiques
 
 </td>
-      <td width="68" valign="top">
+      <td valign="top" width="68">
       </td><td width="76" valign="top">
     </td></tr>
     <tr>
@@ -655,8 +655,8 @@ B7dc Etat, organismes sociaux, collectivités publiques
 B7dd Créditeurs divers
 
 </td>
-      <td width="68" valign="top">
-      </td><td width="76" valign="top">
+      <td valign="top" width="68">
+      </td><td valign="top" width="76">
     </td></tr>
     <tr>
       <td width="272" valign="top">
@@ -664,8 +664,8 @@ B7dd Créditeurs divers
 B8 Comptes de régularisation. - Passif
 
 </td>
-      <td valign="top" width="68">
-      </td><td valign="top" width="76">
+      <td width="68" valign="top">
+      </td><td width="76" valign="top">
     </td></tr>
     <tr>
       <td valign="top" width="272">
@@ -674,16 +674,16 @@ B9 Différence de conversion
 
 </td>
       <td valign="top" width="68">
-      </td><td width="76" valign="top">
+      </td><td valign="top" width="76">
     </td></tr>
     <tr>
-      <td valign="top" width="272">
+      <td width="272" valign="top">
 
 Total du passif
 
 </td>
       <td width="68" valign="top">
-      </td><td valign="top" width="76">
+      </td><td width="76" valign="top">
     </td></tr>
   </tbody>
 </table>
@@ -714,7 +714,7 @@ C1 Engagements reçus
 
 </td>
       <td width="57" valign="top">
-      </td><td width="57" valign="top">
+      </td><td valign="top" width="57">
     </td></tr>
     <tr>
       <td width="302" valign="top">
@@ -732,12 +732,21 @@ C2a Avals, cautions et garanties de crédit donnés
 
 </td>
       <td valign="top" width="57">
+      </td><td valign="top" width="57">
+    </td></tr>
+    <tr>
+      <td valign="top" width="302">
+
+C2b Titres et actifs acquis avec engagement de revente
+
+</td>
+      <td width="57" valign="top">
       </td><td width="57" valign="top">
     </td></tr>
     <tr>
-      <td width="302" valign="top">
+      <td valign="top" width="302">
 
-C2b Titres et actifs acquis avec engagement de revente
+C2c Autres engagements sur titres, actifs ou revenus
 
 </td>
       <td valign="top" width="57">
@@ -745,15 +754,6 @@ C2b Titres et actifs acquis avec engagement de revente
     </td></tr>
     <tr>
       <td width="302" valign="top">
-
-C2c Autres engagements sur titres, actifs ou revenus
-
-</td>
-      <td width="57" valign="top">
-      </td><td valign="top" width="57">
-    </td></tr>
-    <tr>
-      <td valign="top" width="302">
 
 C2d Autres engagements donnés
 
@@ -768,7 +768,7 @@ C3 Valeurs reçues en nantissement des cessionnaires et retrocessionnaires
 
 </td>
       <td valign="top" width="57">
-      </td><td valign="top" width="57">
+      </td><td width="57" valign="top">
     </td></tr>
     <tr>
       <td valign="top" width="302">
@@ -776,18 +776,18 @@ C3 Valeurs reçues en nantissement des cessionnaires et retrocessionnaires
 C4 Valeurs remises par des organismes réassurés avec caution solidaire ou avec substitution
 
 </td>
-      <td width="57" valign="top">
-      </td><td width="57" valign="top">
+      <td valign="top" width="57">
+      </td><td valign="top" width="57">
     </td></tr>
     <tr>
-      <td width="302" valign="top">
+      <td valign="top" width="302">
 
 C5 Valeurs appartenant à des organismes dans le cadre d'engagements pris au titre de la branche mentionnée au 25 de l'article
 R. 931-2-1
 
 </td>
-      <td valign="top" width="57">
-      </td><td width="57" valign="top">
+      <td width="57" valign="top">
+      </td><td valign="top" width="57">
     </td></tr>
     <tr>
       <td width="302" valign="top">
@@ -795,7 +795,7 @@ R. 931-2-1
 C6 Valeurs appartenant à des unions d'institutions de prévoyance
 
 </td>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
       </td><td valign="top" width="57">
     </td></tr>
     <tr>
@@ -805,7 +805,7 @@ C7 Autres valeurs détenues pour le compte de tiers
 
 </td>
       <td width="57" valign="top">
-      </td><td valign="top" width="57">
+      </td><td width="57" valign="top">
     </td></tr>
   </tbody>
 </table>
@@ -834,17 +834,17 @@ COMMENTAIRES
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 A1
 
 </td>
-      <td width="94" valign="top">
+      <td valign="top" width="94">
 
 50
 
 </td>
-      <td valign="top" width="170">
+      <td width="170" valign="top">
 
 Net des comptes 58 et 59 correspondants
 
@@ -856,26 +856,9 @@ Net des comptes 58 et 59 correspondants
 A2a
 
 </td>
-      <td valign="top" width="94">
-
-21 et 22
-
-</td>
-      <td valign="top" width="170">
-
-Net des comptes 28 et 29 correspondants
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="57">
-
-A2b
-
-</td>
       <td width="94" valign="top">
 
-25 et 26
+21 et 22
 
 </td>
       <td width="170" valign="top">
@@ -887,10 +870,27 @@ Net des comptes 28 et 29 correspondants
     <tr>
       <td width="57" valign="top">
 
-A2c
+A2b
 
 </td>
       <td width="94" valign="top">
+
+25 et 26
+
+</td>
+      <td valign="top" width="170">
+
+Net des comptes 28 et 29 correspondants
+
+</td>
+    </tr>
+    <tr>
+      <td width="57" valign="top">
+
+A2c
+
+</td>
+      <td valign="top" width="94">
 
 23 sauf 235
 
@@ -907,7 +907,7 @@ Net des comptes 28 et 29 correspondants
 A2d
 
 </td>
-      <td width="94" valign="top">
+      <td valign="top" width="94">
 
 235
 
@@ -929,7 +929,7 @@ A3
 24
 
 </td>
-      <td valign="top" width="170">
+      <td width="170" valign="top">
 
 Net des comptes 28 et 29 correspondants
 
@@ -949,7 +949,7 @@ A4a
       <td valign="top" width="170">
     </td></tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 A4b
 
@@ -962,12 +962,12 @@ A4b
       <td width="170" valign="top">
     </td></tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 A4c
 
 </td>
-      <td width="94" valign="top">
+      <td valign="top" width="94">
 
 392
 
@@ -975,12 +975,12 @@ A4c
       <td valign="top" width="170">
     </td></tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 A4d
 
 </td>
-      <td valign="top" width="94">
+      <td width="94" valign="top">
 
 393
 
@@ -998,33 +998,33 @@ A4e
 394
 
 </td>
-      <td valign="top" width="170">
-    </td></tr>
-    <tr>
-      <td valign="top" width="57">
-
-A4f
-
-</td>
-      <td width="94" valign="top">
-
-395
-
-</td>
       <td width="170" valign="top">
     </td></tr>
     <tr>
       <td width="57" valign="top">
 
-A4g
+A4f
 
 </td>
       <td valign="top" width="94">
 
-3960
+395
 
 </td>
       <td valign="top" width="170">
+    </td></tr>
+    <tr>
+      <td valign="top" width="57">
+
+A4g
+
+</td>
+      <td width="94" valign="top">
+
+3960
+
+</td>
+      <td width="170" valign="top">
     </td></tr>
     <tr>
       <td valign="top" width="57">
@@ -1040,7 +1040,7 @@ A4h
       <td valign="top" width="170">
     </td></tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 A4i
 
@@ -1063,15 +1063,15 @@ A4j
 3972
 
 </td>
-      <td width="170" valign="top">
+      <td valign="top" width="170">
     </td></tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 A4k 
 
 </td>
-      <td width="94" valign="top">
+      <td valign="top" width="94">
 
 398
 
@@ -1140,7 +1140,7 @@ A5ca
 42
 
 </td>
-      <td width="170" valign="top">
+      <td valign="top" width="170">
 
 Solde débiteur net du compte 49
 
@@ -1152,12 +1152,12 @@ Solde débiteur net du compte 49
 A5cb
 
 </td>
-      <td width="94" valign="top">
+      <td valign="top" width="94">
 
 43 et 44
 
 </td>
-      <td width="170" valign="top">
+      <td valign="top" width="170">
 
 Soldes débiteurs nets du compte 49
 
@@ -1181,7 +1181,7 @@ Solde débiteur net du compte 49
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 A6a
 
@@ -1225,7 +1225,7 @@ A7a
 480
 
 </td>
-      <td valign="top" width="170">
+      <td width="170" valign="top">
     </td></tr>
     <tr>
       <td valign="top" width="57">
@@ -1233,12 +1233,12 @@ A7a
 A7b
 
 </td>
-      <td width="94" valign="top">
+      <td valign="top" width="94">
 
 4810
 
 </td>
-      <td width="170" valign="top">
+      <td valign="top" width="170">
     </td></tr>
     <tr>
       <td width="57" valign="top">
@@ -1271,12 +1271,12 @@ Soldes débiteurs
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 A8
 
 </td>
-      <td width="94" valign="top">
+      <td valign="top" width="94">
 
 47
 
@@ -1324,10 +1324,10 @@ B1a
 102, 103 ou 18
 
 </td>
-      <td valign="top" width="170">
+      <td width="170" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 B1b
 
@@ -1337,10 +1337,10 @@ B1b
 105
 
 </td>
-      <td valign="top" width="170">
+      <td width="170" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 B1c
 
@@ -1363,7 +1363,7 @@ B1d
 11
 
 </td>
-      <td valign="top" width="170">
+      <td width="170" valign="top">
     </td></tr>
     <tr>
       <td valign="top" width="57">
@@ -1371,7 +1371,7 @@ B1d
 B1e
 
 </td>
-      <td valign="top" width="95">
+      <td width="95" valign="top">
 
 12
 
@@ -1379,33 +1379,33 @@ B1e
       <td width="170" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 B1f
 
 </td>
-      <td width="95" valign="top">
+      <td valign="top" width="95">
 
 13
 
 </td>
-      <td width="170" valign="top">
+      <td valign="top" width="170">
     </td></tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 B2
 
 </td>
-      <td width="95" valign="top">
+      <td valign="top" width="95">
 
 160
 
 </td>
-      <td width="170" valign="top">
+      <td valign="top" width="170">
     </td></tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 B3a
 
@@ -1415,7 +1415,7 @@ B3a
 31
 
 </td>
-      <td valign="top" width="170">
+      <td width="170" valign="top">
     </td></tr>
     <tr>
       <td width="57" valign="top">
@@ -1423,12 +1423,12 @@ B3a
 B3b
 
 </td>
-      <td valign="top" width="95">
+      <td width="95" valign="top">
 
 30
 
 </td>
-      <td width="170" valign="top">
+      <td valign="top" width="170">
     </td></tr>
     <tr>
       <td valign="top" width="57">
@@ -1441,10 +1441,10 @@ B3c
 32
 
 </td>
-      <td valign="top" width="170">
+      <td width="170" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 B3d
 
@@ -1454,7 +1454,7 @@ B3d
 33
 
 </td>
-      <td width="170" valign="top">
+      <td valign="top" width="170">
     </td></tr>
     <tr>
       <td valign="top" width="57">
@@ -1475,7 +1475,7 @@ B3e
 B3f
 
 </td>
-      <td width="95" valign="top">
+      <td valign="top" width="95">
 
 35
 
@@ -1488,12 +1488,12 @@ B3f
 B3g
 
 </td>
-      <td valign="top" width="95">
+      <td width="95" valign="top">
 
 360
 
 </td>
-      <td width="170" valign="top">
+      <td valign="top" width="170">
     </td></tr>
     <tr>
       <td valign="top" width="57">
@@ -1501,7 +1501,7 @@ B3g
 B3h
 
 </td>
-      <td valign="top" width="95">
+      <td width="95" valign="top">
 
 362
 
@@ -1509,7 +1509,7 @@ B3h
       <td width="170" valign="top">
     </td></tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 B3i
 
@@ -1519,33 +1519,33 @@ B3i
 370, 374 et 377
 
 </td>
+      <td valign="top" width="170">
+    </td></tr>
+    <tr>
+      <td width="57" valign="top">
+
+B3j
+
+</td>
+      <td width="95" valign="top">
+
+372, 375 et 379.
+
+</td>
       <td width="170" valign="top">
     </td></tr>
     <tr>
       <td valign="top" width="57">
 
-B3j
+B4
 
 </td>
       <td valign="top" width="95">
 
-372 et 375.
-
-</td>
-      <td width="170" valign="top">
-    </td></tr>
-    <tr>
-      <td width="57" valign="top">
-
-B4
-
-</td>
-      <td width="95" valign="top">
-
 38
 
 </td>
-      <td valign="top" width="170">
+      <td width="170" valign="top">
     </td></tr>
     <tr>
       <td width="57" valign="top">
@@ -1566,7 +1566,7 @@ B5
 B6
 
 </td>
-      <td width="95" valign="top">
+      <td valign="top" width="95">
 
 17
 
@@ -1579,7 +1579,7 @@ B6
 B7a
 
 </td>
-      <td width="95" valign="top">
+      <td valign="top" width="95">
 
 40 sauf 400 et 401
 
@@ -1596,19 +1596,19 @@ Soldes créditeurs.
 B7b
 
 </td>
-      <td valign="top" width="95">
+      <td width="95" valign="top">
 
 41
 
 </td>
-      <td valign="top" width="170">
+      <td width="170" valign="top">
 
 Solde créditeur.
 
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 B7c
 
@@ -1621,7 +1621,7 @@ B7c
       <td valign="top" width="170">
     </td></tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 B7da
 
@@ -1631,20 +1631,20 @@ B7da
 162, 165 et 168
 
 </td>
-      <td valign="top" width="170">
+      <td width="170" valign="top">
     </td></tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 B7db
 
 </td>
-      <td valign="top" width="95">
+      <td width="95" valign="top">
 
 42
 
 </td>
-      <td valign="top" width="170">
+      <td width="170" valign="top">
 
 Solde créditeur.
 
@@ -1668,7 +1668,7 @@ Soldes créditeurs.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 B7dd
 
@@ -1678,14 +1678,14 @@ B7dd
 46
 
 </td>
-      <td width="170" valign="top">
+      <td valign="top" width="170">
 
 Solde créditeur.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 B8
 
@@ -1702,12 +1702,12 @@ Soldes créditeurs.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 B9
 
 </td>
-      <td valign="top" width="95">
+      <td width="95" valign="top">
 
 47
 
@@ -1755,12 +1755,12 @@ que ce soit et quelle que soit la forme juridique, de manière ferme à se subst
 </td>
     </tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 C2b
 
 </td>
-      <td valign="top" width="359">
+      <td width="359" valign="top">
 
 Toutes opérations non inscrites au passif du bilan par lesquelles l'institution ou l'union s'est engagée à revendre, à des
 conditions fixées par avance, un actif inscrit au bilan.
@@ -1768,7 +1768,7 @@ conditions fixées par avance, un actif inscrit au bilan.
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 C2c
 
@@ -1803,7 +1803,7 @@ risque de crédit ou engagements pris au titre de l'action sociale.
 C7
 
 </td>
-      <td width="359" valign="top">
+      <td valign="top" width="359">
 
 Y compris, notamment, valeur des OPCVM dont l'institution ou l'union est dépositaire.
 
@@ -1814,6 +1814,7 @@ Y compris, notamment, valeur des OPCVM dont l'institution ou l'union est déposi
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Arrêté 1998-03-27 annexe
+	  - Arrêté du 11 mars 2009 - art. 3 (V)
+	  - Arrêté du 11 mars 2009 - art. 3

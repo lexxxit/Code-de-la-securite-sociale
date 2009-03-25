@@ -135,7 +135,7 @@ libellées
 AFFECTATION
 
 </td>
-      <td rowspan="2" width="82">
+      <td width="82" rowspan="2">
 
 LOCALISATION
 
@@ -145,7 +145,7 @@ LOCALISATION
 VALEUR INSCRITE AU BILAN
 
 </td>
-      <td rowspan="2" width="67">
+      <td width="67" rowspan="2">
 
 VALEUR
 
@@ -484,7 +484,7 @@ ces opérations, présenté selon le modèle ci-après.
 ANNÉE D'INVENTAIRE
 
 </td>
-      <td width="346" colspan="5">
+      <td colspan="5" width="346">
 
 EXERCICE DE SURVENANCE
 
@@ -555,9 +555,9 @@ Inventaire N - 2
 Règlements
 
 </td>
-      <td width="69" valign="top">
-      </td><td valign="top" width="69">
-      </td><td valign="top" width="70">
+      <td valign="top" width="69">
+      </td><td width="69" valign="top">
+      </td><td width="70" valign="top">
       </td><td width="69" valign="top">
       </td><td width="70" valign="top">
     </td></tr>
@@ -567,14 +567,14 @@ Règlements
 Provisions
 
 </td>
-      <td valign="top" width="69">
-      </td><td valign="top" width="69">
-      </td><td valign="top" width="70">
-      </td><td valign="top" width="69">
-      </td><td valign="top" width="70">
+      <td width="69" valign="top">
+      </td><td width="69" valign="top">
+      </td><td width="70" valign="top">
+      </td><td width="69" valign="top">
+      </td><td width="70" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="259">
+      <td width="259" valign="top">
 
 Total sinistres
 
@@ -582,31 +582,31 @@ Total sinistres
       <td width="69" valign="top">
       </td><td width="69" valign="top">
       </td><td valign="top" width="70">
-      </td><td valign="top" width="69">
-      </td><td width="70" valign="top">
+      </td><td width="69" valign="top">
+      </td><td valign="top" width="70">
     </td></tr>
     <tr>
-      <td valign="top" width="259">
+      <td width="259" valign="top">
 
 Cotisations acquises
 
 </td>
       <td width="69" valign="top">
       </td><td valign="top" width="69">
-      </td><td width="70" valign="top">
+      </td><td valign="top" width="70">
       </td><td valign="top" width="69">
       </td><td valign="top" width="70">
     </td></tr>
     <tr>
-      <td width="259" valign="top">
+      <td valign="top" width="259">
 
 Pourcentage sinistres/cotisations acquises
 
 </td>
       <td width="69" valign="top">
-      </td><td width="69" valign="top">
-      </td><td valign="top" width="70">
       </td><td valign="top" width="69">
+      </td><td width="70" valign="top">
+      </td><td width="69" valign="top">
       </td><td width="70" valign="top">
     </td></tr>
     <tr>
@@ -639,8 +639,8 @@ Règlements
 </td>
       <td valign="top" width="69">
       </td><td width="69" valign="top">
-      </td><td width="70" valign="top">
-      </td><td width="69" valign="top">
+      </td><td valign="top" width="70">
+      </td><td valign="top" width="69">
       </td><td valign="top" width="70">
     </td></tr>
     <tr>
@@ -649,11 +649,11 @@ Règlements
 Provisions
 
 </td>
-      <td valign="top" width="69">
-      </td><td valign="top" width="69">
-      </td><td valign="top" width="70">
+      <td width="69" valign="top">
       </td><td width="69" valign="top">
       </td><td width="70" valign="top">
+      </td><td valign="top" width="69">
+      </td><td valign="top" width="70">
     </td></tr>
     <tr>
       <td valign="top" width="259">
@@ -661,11 +661,11 @@ Provisions
 Total sinistres
 
 </td>
-      <td valign="top" width="69">
+      <td width="69" valign="top">
       </td><td valign="top" width="69">
       </td><td valign="top" width="70">
       </td><td valign="top" width="69">
-      </td><td valign="top" width="70">
+      </td><td width="70" valign="top">
     </td></tr>
     <tr>
       <td valign="top" width="259">
@@ -675,18 +675,18 @@ Cotisations acquises
 </td>
       <td width="69" valign="top">
       </td><td width="69" valign="top">
-      </td><td valign="top" width="70">
-      </td><td width="69" valign="top">
-      </td><td valign="top" width="70">
+      </td><td width="70" valign="top">
+      </td><td valign="top" width="69">
+      </td><td width="70" valign="top">
     </td></tr>
     <tr>
-      <td width="259" valign="top">
+      <td valign="top" width="259">
 
 Pourcentage sinistres/cotisations acquises
 
 </td>
-      <td width="69" valign="top">
-      </td><td valign="top" width="69">
+      <td valign="top" width="69">
+      </td><td width="69" valign="top">
       </td><td width="70" valign="top">
       </td><td width="69" valign="top">
       </td><td valign="top" width="70">
@@ -720,10 +720,10 @@ Règlements
 
 </td>
       <td width="69" valign="top">
+      </td><td valign="top" width="69">
+      </td><td width="70" valign="top">
       </td><td width="69" valign="top">
-      </td><td valign="top" width="70">
-      </td><td width="69" valign="top">
-      </td><td valign="top" width="70">
+      </td><td width="70" valign="top">
     </td></tr>
     <tr>
       <td valign="top" width="259">
@@ -733,12 +733,12 @@ Provisions
 </td>
       <td valign="top" width="69">
       </td><td width="69" valign="top">
-      </td><td width="70" valign="top">
-      </td><td width="69" valign="top">
+      </td><td valign="top" width="70">
+      </td><td valign="top" width="69">
       </td><td width="70" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="259">
+      <td width="259" valign="top">
 
 Total sinistres
 
@@ -746,20 +746,20 @@ Total sinistres
       <td valign="top" width="69">
       </td><td width="69" valign="top">
       </td><td width="70" valign="top">
-      </td><td width="69" valign="top">
+      </td><td valign="top" width="69">
       </td><td width="70" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="259">
+      <td width="259" valign="top">
 
 Cotisations acquises
 
 </td>
       <td valign="top" width="69">
       </td><td valign="top" width="69">
-      </td><td width="70" valign="top">
-      </td><td valign="top" width="69">
       </td><td valign="top" width="70">
+      </td><td valign="top" width="69">
+      </td><td width="70" valign="top">
     </td></tr>
     <tr>
       <td valign="top" width="259">
@@ -768,9 +768,9 @@ Pourcentage sinistres/cotisations acquises
 
 </td>
       <td width="69" valign="top">
-      </td><td valign="top" width="69">
-      </td><td valign="top" width="70">
       </td><td width="69" valign="top">
+      </td><td width="70" valign="top">
+      </td><td valign="top" width="69">
       </td><td width="70" valign="top">
     </td></tr>
   </tbody>
@@ -831,13 +831,13 @@ TOTAL
 </td>
     </tr>
     <tr>
-      <td width="265" valign="top">
+      <td valign="top" width="265">
 
 Revenus des participations (1)
 
 </td>
-      <td valign="top" width="151">
-      </td><td valign="top" width="113">
+      <td width="151" valign="top">
+      </td><td width="113" valign="top">
       </td><td width="76" valign="top">
     </td></tr>
     <tr>
@@ -847,8 +847,8 @@ Revenus des placements immobiliers
 
 </td>
       <td width="151" valign="top">
-      </td><td width="113" valign="top">
-      </td><td valign="top" width="76">
+      </td><td valign="top" width="113">
+      </td><td width="76" valign="top">
     </td></tr>
     <tr>
       <td width="265" valign="top">
@@ -856,39 +856,39 @@ Revenus des placements immobiliers
 Revenus des autres placements
 
 </td>
-      <td valign="top" width="151">
-      </td><td valign="top" width="113">
+      <td width="151" valign="top">
+      </td><td width="113" valign="top">
       </td><td valign="top" width="76">
     </td></tr>
     <tr>
-      <td width="265" valign="top">
+      <td valign="top" width="265">
 
 Autres revenus financiers (commission, honoraires)
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
       </td><td valign="top" width="113">
       </td><td width="76" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="265">
+      <td width="265" valign="top">
 
 Total (poste E2a et/ou F3a du compte de résultat)
 
 </td>
       <td width="151" valign="top">
-      </td><td valign="top" width="113">
-      </td><td valign="top" width="76">
+      </td><td width="113" valign="top">
+      </td><td width="76" valign="top">
     </td></tr>
     <tr>
-      <td width="265" valign="top">
+      <td valign="top" width="265">
 
 Frais financiers (commissions, honoraires, intérêts et agios...)
 
 </td>
       <td valign="top" width="151">
-      </td><td valign="top" width="113">
-      </td><td valign="top" width="76">
+      </td><td width="113" valign="top">
+      </td><td width="76" valign="top">
     </td></tr>
     <tr>
       <td colspan="4" valign="top" width="605">
@@ -939,7 +939,7 @@ POSTE CORRESPONDANT AU CR
 1. Cotisations
 
 </td>
-      <td width="265" valign="top">
+      <td valign="top" width="265">
 
 Poste E1.
 
@@ -951,7 +951,7 @@ Poste E1.
 2. Charges des prestations
 
 </td>
-      <td valign="top" width="265">
+      <td width="265" valign="top">
 
 Poste E5.
 
@@ -970,7 +970,7 @@ Poste E6.
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 4. Ajustement ACAV
 
@@ -999,7 +999,7 @@ A. - SOLDE DE SOUSCRIPTION
 5. Frais d'acquisition
 
 </td>
-      <td width="265" valign="top">
+      <td valign="top" width="265">
 
 Poste E8a.
 
@@ -1018,7 +1018,7 @@ Poste E8b et E11 diminués du poste E4.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 B. - CHARGES D'ACQUISITION ET DE GESTION NETTES
 
@@ -1035,7 +1035,7 @@ B. - CHARGES D'ACQUISITION ET DE GESTION NETTES
 7. Produit net des placements
 
 </td>
-      <td valign="top" width="265">
+      <td width="265" valign="top">
 
 Poste E2 diminué des postes E9 et E12.
 
@@ -1047,7 +1047,7 @@ Poste E2 diminué des postes E9 et E12.
 8. Participation aux résultats
 
 </td>
-      <td width="265" valign="top">
+      <td valign="top" width="265">
 
 Poste E7.
 
@@ -1059,26 +1059,26 @@ Poste E7.
 C. - SOLDE FINANCIER
 
 </td>
-      <td width="265" valign="top">
+      <td valign="top" width="265">
 
 (7 - 8).
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 9. Cotisations cédées
 
 </td>
-      <td width="265" valign="top">
+      <td valign="top" width="265">
 
 Poste E1 cession.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 10. Part des réassureurs dans les charges des prestations
 
@@ -1090,24 +1090,24 @@ Poste E5 cession.
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 11. Part des réassureurs dans les charges des provisions d'assurance vie et autres provisions techniques
 
 </td>
-      <td width="265" valign="top">
+      <td valign="top" width="265">
 
 Poste E6 cession.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 12. Part des réassureurs dans la participation aux résultats
 
 </td>
-      <td valign="top" width="265">
+      <td width="265" valign="top">
 
 Poste E7 cession.
 
@@ -1126,7 +1126,7 @@ Poste E8c cession.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 D. - SOLDE DE RÉASSURANCE
 
@@ -1150,15 +1150,15 @@ A - B + C + D
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 Hors compte
 
 </td>
-      <td valign="top" width="265">
+      <td width="265" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 14. Montant des rachats
 
@@ -1166,27 +1166,27 @@ Hors compte
       <td width="265" valign="top">
     </td></tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 15. Intérêts techniques bruts de l'exercice
 
 </td>
-      <td width="265" valign="top">
+      <td valign="top" width="265">
 
 Comptes 5300, 6301, 6302, 6340, 6341 et 6342.
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 16. Provisions techniques brutes à la clôture
 
 </td>
-      <td valign="top" width="265">
+      <td width="265" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 17. Provisions techniques brutes à l'ouverture
 
@@ -1217,7 +1217,7 @@ POSTE CORRESPONDANT AU CR
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 1. Cotisations acquises
 
@@ -1229,7 +1229,7 @@ POSTE CORRESPONDANT AU CR
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 1a. Cotisations
 
@@ -1241,31 +1241,31 @@ Poste D1a.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 1b. Variation des cotisations non acquises
 
 </td>
-      <td width="265" valign="top">
+      <td valign="top" width="265">
 
 Poste D1b.
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 2. Charges des prestations
 
 </td>
-      <td valign="top" width="265">
+      <td width="265" valign="top">
 
 (2a + 2b).
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 2a. Prestations et frais payés
 
@@ -1277,7 +1277,7 @@ Poste D4a.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 2b. Charges des provisions pour prestations et diverses
 
@@ -1289,7 +1289,7 @@ Poste D4b, D5 et D9.
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 A. - SOLDE DE SOUSCRIPTION
 
@@ -1325,7 +1325,7 @@ Poste D7b et D8 diminués du poste D3.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 B. - CHARGES D'ACQUISITION ET DE GESTION NETTES
 
@@ -1354,7 +1354,7 @@ Poste D2.
 8. Participation aux résultats
 
 </td>
-      <td valign="top" width="265">
+      <td width="265" valign="top">
 
 Poste D6.
 
@@ -1373,7 +1373,7 @@ C. - SOLDE FINANCIER
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 9. Part des réassureurs dans les cotisations acquises
 
@@ -1397,19 +1397,19 @@ Poste D4a cession.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 11. Part des réassureurs dans les charges des provisions pour prestations
 
 </td>
-      <td width="265" valign="top">
+      <td valign="top" width="265">
 
 Postes D4b, D5 et D9 cession.
 
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 12. Part des réassureurs dans les participations aux résultats
 
@@ -1421,7 +1421,7 @@ Poste D6 cession.
 </td>
     </tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 13. Commissions reçues des réassureurs
 
@@ -1465,24 +1465,24 @@ Hors compte :
       <td width="265" valign="top">
     </td></tr>
     <tr>
-      <td width="340" valign="top">
+      <td valign="top" width="340">
 
 14. Provisions pour cotisations non acquises (clôture)
 
 </td>
-      <td width="265" valign="top">
+      <td valign="top" width="265">
 
 Poste B3a du bilan.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 15. Provisions pour cotisations non acquises (ouverture)
 
 </td>
-      <td width="265" valign="top">
+      <td valign="top" width="265">
     </td></tr>
     <tr>
       <td valign="top" width="340">
@@ -1510,14 +1510,14 @@ Poste B3d du bilan.
 18. Autres provisions techniques (clôture)
 
 </td>
-      <td valign="top" width="265">
+      <td width="265" valign="top">
 
 Postes B3f, B3h et B3j du bilan.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="340">
+      <td width="340" valign="top">
 
 19. Autres provisions techniques (ouverture)
 
@@ -1613,12 +1613,12 @@ résultats techniques et financiers :
 <table>
   <tbody>
     <tr>
-      <td rowspan="2" width="381">
+      <td width="381" rowspan="2">
 
 DÉSIGNATIONS
 
 </td>
-      <td width="284" colspan="5">
+      <td colspan="5" width="284">
 
 EXERCICES (1)
 
@@ -1658,10 +1658,10 @@ A. - Participation aux résultats totale (poste D6 et E7 du compte de résultat 
 
 </td>
       <td width="57" valign="top">
-      </td><td valign="top" width="57">
-      </td><td valign="top" width="57">
       </td><td width="57" valign="top">
-      </td><td width="56" valign="top">
+      </td><td valign="top" width="57">
+      </td><td valign="top" width="57">
+      </td><td valign="top" width="56">
     </td></tr>
     <tr>
       <td width="381" valign="top">
@@ -1670,55 +1670,31 @@ A1 : Participation attribuée (y compris intérêts techniques)
 
 </td>
       <td width="57" valign="top">
+      </td><td valign="top" width="57">
       </td><td width="57" valign="top">
       </td><td width="57" valign="top">
-      </td><td width="57" valign="top">
-      </td><td valign="top" width="56">
+      </td><td width="56" valign="top">
     </td></tr>
     <tr>
-      <td width="381" valign="top">
+      <td valign="top" width="381">
 
 A2 : Variation de la provision pour participation aux excédents
 
 </td>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
+      </td><td valign="top" width="57">
       </td><td width="57" valign="top">
-      </td><td width="57" valign="top">
-      </td><td width="57" valign="top">
+      </td><td valign="top" width="57">
       </td><td valign="top" width="56">
     </td></tr>
     <tr>
-      <td width="381" valign="top">
+      <td valign="top" width="381">
 
 B. - Participation aux résultats des opérations vie visées au (4) :
 
 </td>
       <td width="57" valign="top">
-      </td><td valign="top" width="57">
-      </td><td valign="top" width="57">
       </td><td width="57" valign="top">
-      </td><td valign="top" width="56">
-    </td></tr>
-    <tr>
-      <td valign="top" width="381">
-
-B1 : Provisions mathématiques moyennes (2)
-
-</td>
-      <td valign="top" width="57">
-      </td><td valign="top" width="57">
-      </td><td valign="top" width="57">
-      </td><td width="57" valign="top">
-      </td><td valign="top" width="56">
-    </td></tr>
-    <tr>
-      <td valign="top" width="381">
-
-B2 : Montant minimal de la participation aux résultats
-
-</td>
-      <td width="57" valign="top">
-      </td><td valign="top" width="57">
       </td><td valign="top" width="57">
       </td><td valign="top" width="57">
       </td><td width="56" valign="top">
@@ -1726,13 +1702,37 @@ B2 : Montant minimal de la participation aux résultats
     <tr>
       <td width="381" valign="top">
 
-B3 : Montant effectif de la participation aux résultats (3) :
+B1 : Provisions mathématiques moyennes (2)
+
+</td>
+      <td width="57" valign="top">
+      </td><td width="57" valign="top">
+      </td><td width="57" valign="top">
+      </td><td valign="top" width="57">
+      </td><td valign="top" width="56">
+    </td></tr>
+    <tr>
+      <td width="381" valign="top">
+
+B2 : Montant minimal de la participation aux résultats
 
 </td>
       <td valign="top" width="57">
       </td><td width="57" valign="top">
       </td><td valign="top" width="57">
       </td><td width="57" valign="top">
+      </td><td width="56" valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top" width="381">
+
+B3 : Montant effectif de la participation aux résultats (3) :
+
+</td>
+      <td width="57" valign="top">
+      </td><td valign="top" width="57">
+      </td><td width="57" valign="top">
+      </td><td valign="top" width="57">
       </td><td valign="top" width="56">
     </td></tr>
     <tr>
@@ -1742,9 +1742,9 @@ B3a : Participation attribuée (y compris intérêts techniques)
 
 </td>
       <td valign="top" width="57">
-      </td><td valign="top" width="57">
-      </td><td valign="top" width="57">
       </td><td width="57" valign="top">
+      </td><td width="57" valign="top">
+      </td><td valign="top" width="57">
       </td><td width="56" valign="top">
     </td></tr>
     <tr>
@@ -1754,10 +1754,10 @@ B3b : Variation de la provision pour participation aux excédents
 
 </td>
       <td valign="top" width="57">
-      </td><td width="57" valign="top">
-      </td><td width="57" valign="top">
       </td><td valign="top" width="57">
-      </td><td valign="top" width="56">
+      </td><td width="57" valign="top">
+      </td><td width="57" valign="top">
+      </td><td width="56" valign="top">
     </td></tr>
     <tr>
       <td width="664" valign="top" colspan="6">
@@ -1800,6 +1800,34 @@ c) Le montant global des prêts éventuellement accordés pendant l'exercice res
 d'administration, à l'ensemble des autres dirigeants ainsi que le montant des engagements pris pour le compte de ces
 personnes au titre d'une garantie quelconque.
 
+3. 2.
+
+Lorsque l'institution de prévoyance ou l'union d'institutions applique l'option prévue à l'article R. 931-15-1 du présent
+code qui lui permet de reporter la charge constituée par la dotation à la provision pour risque d'exigibilité, il en est fait
+mention dans les annexes des états financiers.
+
+Si ces informations sont significatives pour l'organisme concerné, ce dernier doit également mentionner les informations
+suivantes :
+
+- le montant de la moins-value latente globale nette mentionnée à l'article R. 931-10-15 du présent code ;
+
+- le montant de la provision pour risque d'exigibilité brute déjà constituée au niveau des autres provisions techniques
+(comptes 3703 et 3723 du plan comptable des institutions de prévoyance ou d'unions d'institutions) ;
+
+- les hypothèses relatives à l'évaluation de la duration des passifs définie par l'article A. 931-10-18-1 du présent code
+ainsi que les informations sur les événements affectant cette duration, si elle était modifiée significativement par rapport
+à l'exercice antérieur ;
+
+- le montant de la charge relative à la provision pour risque d'exigibilité restant à constater en résultat sur les exercices
+futurs si l'option n'avait pas été retenue (compte 379 du plan comptable des institutions de prévoyance ou d'unions
+d'institutions) ;
+
+- les informations qualitatives expliquant l'évolution sur l'exercice du solde du compte de dotation à la provision pour
+risque d'exigibilité restant à constater ;
+
+- le résultat de l'organisme d'assurance tel qu'il aurait été si ce dernier n'avait pas utilisé l'option mentionnée à
+l'article R. 931-10-15-1 (c'est-à-dire en neutralisant l'impact du compte 753 sur le résultat).
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -1823,4 +1851,5 @@ personnes au titre d'une garantie quelconque.
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V)
+	  - Arrêté du 11 mars 2009 - art. 3 (V)
+	  - Arrêté du 11 mars 2009 - art. 3
