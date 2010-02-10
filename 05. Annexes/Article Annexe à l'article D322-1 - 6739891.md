@@ -66,8 +66,6 @@ individualisées sous des terminologies diverses :
 
 - troubles addictifs graves ;
 
-- troubles précoces de l'identité de genre ;
-
 - dysharmonies évolutives graves de l'enfance, etc.
 
 Il est essentiel, sur ce terrain, de ne pas étendre à l'excès le cadre des troubles mentaux justifiant l'exonération du
@@ -97,10 +95,6 @@ découle.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°85-1354 1985-12-17
-
-	**Créé par**:
-
-	  - Décret n°2004-1049 2004-10-04 annexe JORF 5 octobre 2004
+	  - Décret n°2010-125 du 8 février 2010 - art. 1
