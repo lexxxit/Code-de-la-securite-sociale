@@ -64,13 +64,14 @@ Liste des engagements donnés aux autres organismes de l'ensemble formé par les
 auxquels elles sont apparentées ou subordonnées dès lors qu'ils dépassent 5 % de l'exigence de marge de solvabilité de
 l'institution ou union.
 
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
+
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté 2005-11-03 art. 2 JORF 13 novembre 2005
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L933-2 (M)
-	  - Code de la sécurité sociale. - art. R933-6 (M)
+	  - Code de la sécurité sociale. - art. L933-2
+	  - Code de la sécurité sociale. - art. R933-6

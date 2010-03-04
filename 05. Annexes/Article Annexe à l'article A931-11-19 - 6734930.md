@@ -46,9 +46,21 @@ CUMUL
 </td>
     </tr>
     <tr>
-      <td valign="top" width="227">
+      <td width="227" valign="top">
 
 Nombre de bulletin d'adhésion signés ou de contrats souscrits
+
+</td>
+      <td width="76" valign="top">
+      </td><td width="76" valign="top">
+      </td><td valign="top" width="76">
+      </td><td width="76" valign="top">
+      </td><td width="76" valign="top">
+    </td></tr>
+    <tr>
+      <td width="227" valign="top">
+
+Nombre de sinistres ouverts (1)
 
 </td>
       <td valign="top" width="76">
@@ -59,38 +71,26 @@ Nombre de bulletin d'adhésion signés ou de contrats souscrits
     </td></tr>
     <tr>
       <td valign="top" width="227">
-
-Nombre de sinistres ouverts (1)
-
-</td>
-      <td width="76" valign="top">
-      </td><td valign="top" width="76">
-      </td><td valign="top" width="76">
-      </td><td width="76" valign="top">
-      </td><td valign="top" width="76">
-    </td></tr>
-    <tr>
-      <td width="227" valign="top">
 
 Cotisations émises nettes d'annulations (2)
 
 </td>
       <td width="76" valign="top">
-      </td><td width="76" valign="top">
       </td><td valign="top" width="76">
       </td><td width="76" valign="top">
-      </td><td width="76" valign="top">
+      </td><td valign="top" width="76">
+      </td><td valign="top" width="76">
     </td></tr>
     <tr>
-      <td width="227" valign="top">
+      <td valign="top" width="227">
 
 Prestations payées (2)
 
 </td>
-      <td valign="top" width="76">
-      </td><td valign="top" width="76">
-      </td><td valign="top" width="76">
+      <td width="76" valign="top">
       </td><td width="76" valign="top">
+      </td><td width="76" valign="top">
+      </td><td valign="top" width="76">
       </td><td width="76" valign="top">
     </td></tr>
     <tr>
@@ -103,7 +103,7 @@ Frais d'acquisition et d'administration (2)
       </td><td width="76" valign="top">
       </td><td valign="top" width="76">
       </td><td width="76" valign="top">
-      </td><td valign="top" width="76">
+      </td><td width="76" valign="top">
     </td></tr>
     <tr>
       <td width="227" valign="top">
@@ -111,9 +111,9 @@ Frais d'acquisition et d'administration (2)
 Produits des placements (2)
 
 </td>
-      <td valign="top" width="76">
+      <td width="76" valign="top">
       </td><td valign="top" width="76">
-      </td><td valign="top" width="76">
+      </td><td width="76" valign="top">
       </td><td valign="top" width="76">
       </td><td valign="top" width="76">
     </td></tr>
@@ -158,71 +158,71 @@ Nombre de bulletins d'adhésion signés ou de contrats souscrits
       <td width="76" valign="top">
       </td><td width="76" valign="top">
       </td><td valign="top" width="76">
-      </td><td valign="top" width="76">
+      </td><td width="76" valign="top">
       </td><td valign="top" width="76">
     </td></tr>
     <tr>
-      <td valign="top" width="227">
+      <td width="227" valign="top">
 
 Nombre de sinistres ouverts (1)
+
+</td>
+      <td width="76" valign="top">
+      </td><td width="76" valign="top">
+      </td><td valign="top" width="76">
+      </td><td width="76" valign="top">
+      </td><td valign="top" width="76">
+    </td></tr>
+    <tr>
+      <td width="227" valign="top">
+
+Cotisations émises nettes d'annulations (2)
 
 </td>
       <td valign="top" width="76">
       </td><td valign="top" width="76">
       </td><td valign="top" width="76">
-      </td><td valign="top" width="76">
-      </td><td valign="top" width="76">
-    </td></tr>
-    <tr>
-      <td valign="top" width="227">
-
-Cotisations émises nettes d'annulations (2)
-
-</td>
-      <td width="76" valign="top">
-      </td><td width="76" valign="top">
-      </td><td width="76" valign="top">
       </td><td width="76" valign="top">
       </td><td valign="top" width="76">
     </td></tr>
     <tr>
-      <td valign="top" width="227">
+      <td width="227" valign="top">
 
 Prestations payées (2)
 
 </td>
-      <td width="76" valign="top">
+      <td valign="top" width="76">
       </td><td width="76" valign="top">
-      </td><td valign="top" width="76">
-      </td><td valign="top" width="76">
-      </td><td valign="top" width="76">
+      </td><td width="76" valign="top">
+      </td><td width="76" valign="top">
+      </td><td width="76" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="227">
+      <td width="227" valign="top">
 
 Frais d'acquisition et d'administration (2)
 
 </td>
       <td width="76" valign="top">
       </td><td valign="top" width="76">
-      </td><td valign="top" width="76">
+      </td><td width="76" valign="top">
       </td><td valign="top" width="76">
       </td><td width="76" valign="top">
     </td></tr>
     <tr>
-      <td width="227" valign="top">
+      <td valign="top" width="227">
 
 Produits des placements (2)
 
 </td>
-      <td valign="top" width="76">
-      </td><td valign="top" width="76">
+      <td width="76" valign="top">
+      </td><td width="76" valign="top">
       </td><td valign="top" width="76">
       </td><td width="76" valign="top">
       </td><td valign="top" width="76">
     </td></tr>
     <tr>
-      <td colspan="6" valign="top" width="605">
+      <td colspan="6" width="605" valign="top">
 
 (1) Pour les opérations visées au a de l'article L. 931-1, sinistres, sorties par tirage, échéances et rachats totaux.
 
@@ -584,8 +584,8 @@ Engagements donnés de plus de 3 mois
   </tbody>
 </table>
 
-**Liens relatifs à cet article**
+**Nota:**
 
-	**Liens**:
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
-	  - TXT_SOURCE: Code de la sécurité sociale. - art. L951-1 (M)

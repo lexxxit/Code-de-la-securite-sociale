@@ -107,8 +107,8 @@ faire l'objet d'une ventilation sont celles qui sont retenues comme significativ
 Notamment, au niveau du chiffre d'affaires : produit net bancaire, commissions de services financières et, au niveau du
 bilan : dépôts clientèles, crédits consentis.
 
-**Liens relatifs à cet article**
+**Nota:**
 
-	**Créé par**:
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
-	  - Arrêté 2005-11-03 art. 2 JORF 13 novembre 2005
