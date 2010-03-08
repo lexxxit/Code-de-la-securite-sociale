@@ -8,9 +8,9 @@ PROVISIONNEMENT DES RENTES EN SERVICE.
 
 Les institutions de prévoyance et les unions d'institutions de prévoyance qui, au titre des opérations d'assurance directe,
 servent des prestations périodiques conditionnées par la survie du bénéficiaire (rentes à caractère viager) établissent,
-selon le modèle fixé ci-après, un état retraçant ces opérations.
+selon le modèle fixé ci-après, un état retraçant ces opérations. 
 
-TABLEAU A
+TABLEAU A 
 
 Prestations servies au titre d'un contrat de rente, d'une garantie décès (accidentel ou non), à un bénéficiaire non victime
 d'un préjudice corporel personnel 
@@ -18,25 +18,9 @@ d'un préjudice corporel personnel
 <table>
   <tbody>
     <tr>
-      <td width="473" valign="top">
-
-1. Provisions techniques à l'ouverture de l'exercice (1)
-
-</td>
-      <td width="132" valign="top">
-    </td></tr>
-    <tr>
-      <td width="473" valign="top">
-
-2. Capitaux entrés au cours de l'exercice
-
-</td>
-      <td valign="top" width="132">
-    </td></tr>
-    <tr>
       <td valign="top" width="473">
 
-3. Autres ressources (2)
+1. Provisions techniques à l'ouverture de l'exercice (1) 
 
 </td>
       <td valign="top" width="132">
@@ -44,7 +28,7 @@ d'un préjudice corporel personnel
     <tr>
       <td width="473" valign="top">
 
-4. Produits financiers (3)
+2. Capitaux entrés au cours de l'exercice 
 
 </td>
       <td valign="top" width="132">
@@ -52,15 +36,7 @@ d'un préjudice corporel personnel
     <tr>
       <td width="473" valign="top">
 
-5. Prestations payées
-
-</td>
-      <td width="132" valign="top">
-    </td></tr>
-    <tr>
-      <td width="473" valign="top">
-
-6. Capitaux sortis au cours de l'exercice
+3. Autres ressources (2) 
 
 </td>
       <td width="132" valign="top">
@@ -68,7 +44,23 @@ d'un préjudice corporel personnel
     <tr>
       <td valign="top" width="473">
 
-7. Provisions techniques à la clôture de l'exercice (1)
+4. Produits financiers (3) 
+
+</td>
+      <td valign="top" width="132">
+    </td></tr>
+    <tr>
+      <td valign="top" width="473">
+
+5. Prestations payées 
+
+</td>
+      <td width="132" valign="top">
+    </td></tr>
+    <tr>
+      <td width="473" valign="top">
+
+6. Capitaux sortis au cours de l'exercice 
 
 </td>
       <td valign="top" width="132">
@@ -76,31 +68,39 @@ d'un préjudice corporel personnel
     <tr>
       <td width="473" valign="top">
 
-8. Charges de gestion (4)
+7. Provisions techniques à la clôture de l'exercice (1) 
 
 </td>
-      <td width="132" valign="top">
+      <td valign="top" width="132">
     </td></tr>
     <tr>
       <td width="473" valign="top">
 
-Solde (= 1 + 2 + 3 + 4 - 5 - 6 - 7 - 8)
+8. Charges de gestion (4) 
 
 </td>
       <td width="132" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" colspan="2">
+      <td valign="top" width="473">
 
-(1) Provisions d'assurance vie et provisions mathématiques non-vie.
+Solde (= 1 + 2 + 3 + 4-5-6-7-8) 
+
+</td>
+      <td valign="top" width="132">
+    </td></tr>
+    <tr>
+      <td colspan="2" valign="top">
+
+(1) Provisions d'assurance vie et provisions mathématiques non-vie. 
 
 (2) Notamment participations aux excédents incorporées dans l'exercice aux prestations payées ou provisionnées et ajustement
-des opérations en unités de compte.
+des opérations en unités de compte. 
 
-(3) Aux taux prévus pour la constitution des provisions d'assurance vie et des provisions mathématiques non-vie.
+(3) Aux taux prévus pour la constitution des provisions d'assurance vie et des provisions mathématiques non-vie. 
 
 (4) Egales aux prélèvements prévus pour la constitution des provisions d'assurance vie et des provisions mathématiques Non-
-vie.
+vie. 
 
 </td>
     </tr>
@@ -109,60 +109,60 @@ vie.
 
 TABLEAU B 
 
-Prestations servies à un bénéficiaire victime d'un préjudice corporel personnel
+Prestations servies à un bénéficiaire victime d'un préjudice corporel personnel 
 
-Paiements et provisions par année de constitution des rentes
+Paiements et provisions par année de constitution des rentes 
 
 <table>
   <tbody>
     <tr>
       <td>
 
-ANNÉE DE CONSTITUTION
+ANNÉE DE CONSTITUTION 
 
 </td>
       <td>
 
-(N - 5)
+(N-5) 
 
-et ant.
-
-</td>
-      <td>
-
-(N - 4)
+et ant. 
 
 </td>
       <td>
 
-(N - 3)
+(N-4) 
 
 </td>
       <td>
 
-(N - 2)
+(N-3) 
 
 </td>
       <td>
 
-(N - 1)
+(N-2) 
 
 </td>
       <td>
 
-(N)
+(N-1) 
 
 </td>
       <td>
 
-TOTAL
+(N) 
+
+</td>
+      <td>
+
+TOTAL 
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-1. Provisions mathématiques à l'ouverture (1)
+1. Provisions mathématiques à l'ouverture (1) 
 
 </td>
       <td valign="top">
@@ -172,7 +172,7 @@ TOTAL
       </td><td valign="top">
       </td><td valign="top">
 
-XXXXX
+XXXXX 
 
 </td>
       <td valign="top">
@@ -180,21 +180,7 @@ XXXXX
     <tr>
       <td valign="top">
 
-2. Capitaux entrés au cours de l'exercice (2)
-
-</td>
-      <td valign="top">
-      </td><td valign="top">
-      </td><td valign="top">
-      </td><td valign="top">
-      </td><td valign="top">
-      </td><td valign="top">
-      </td><td valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top">
-
-3. Autres ressources (3)
+2. Capitaux entrés au cours de l'exercice (2) 
 
 </td>
       <td valign="top">
@@ -208,7 +194,7 @@ XXXXX
     <tr>
       <td valign="top">
 
-4. Produits financiers (4)
+3. Autres ressources (3) 
 
 </td>
       <td valign="top">
@@ -222,7 +208,7 @@ XXXXX
     <tr>
       <td valign="top">
 
-5. Prestations payées
+4. Produits financiers (4) 
 
 </td>
       <td valign="top">
@@ -236,7 +222,7 @@ XXXXX
     <tr>
       <td valign="top">
 
-6. Capitaux sortis au cours de l'exercice
+5. Prestations payées 
 
 </td>
       <td valign="top">
@@ -250,7 +236,7 @@ XXXXX
     <tr>
       <td valign="top">
 
-7. Provisions mathématiques à la clôture (1)
+6. Capitaux sortis au cours de l'exercice 
 
 </td>
       <td valign="top">
@@ -264,7 +250,7 @@ XXXXX
     <tr>
       <td valign="top">
 
-8. Charges de gestion (5)
+7. Provisions mathématiques à la clôture (1) 
 
 </td>
       <td valign="top">
@@ -278,7 +264,21 @@ XXXXX
     <tr>
       <td valign="top">
 
-Solde = 1 + 2 + 3 + 4 - 5 - 6 - 7 - 8
+8. Charges de gestion (5) 
+
+</td>
+      <td valign="top">
+      </td><td valign="top">
+      </td><td valign="top">
+      </td><td valign="top">
+      </td><td valign="top">
+      </td><td valign="top">
+      </td><td valign="top">
+    </td></tr>
+    <tr>
+      <td valign="top">
+
+Solde = 1 + 2 + 3 + 4-5-6-7-8 
 
 </td>
       <td valign="top">
@@ -292,176 +292,78 @@ Solde = 1 + 2 + 3 + 4 - 5 - 6 - 7 - 8
     <tr>
       <td valign="top" colspan="8">
 
-(1) Uniquement provisions mathématiques (Non-vie) en cas d'invalidité.
+(1) Uniquement provisions mathématiques (Non-vie) en cas d'invalidité. 
 
-(2) Pour les exercices antérieurs à N, uniquement par révision de rente.
+(2) Pour les exercices antérieurs à N, uniquement par révision de rente. 
 
-(3) Notamment participations aux excédents incorporées dans l'exercice aux prestations payées ou provisionnées.
+(3) Notamment participations aux excédents incorporées dans l'exercice aux prestations payées ou provisionnées. 
 
-(4) Aux taux prévus pour la constitution des provisions mathématiques.
+(4) Aux taux prévus pour la constitution des provisions mathématiques. 
 
-(5) Egales aux prélèvements prévus pour la constitution des provisions mathématiques.
+(5) Egales aux prélèvements prévus pour la constitution des provisions mathématiques. 
 
 </td>
     </tr>
   </tbody>
 </table>
 
-TABLEAU C
+TABLEAU C 
 
 Prestations périodiques servies à un bénéficiaire victime d'un préjudice corporel personnel (incapacité temporaire ou
-invalidité)
+invalidité) 
 
-Paiements, au cours de l'exercice, par année de survenance des sinistres
+Paiements, au cours de l'exercice, par année de survenance des sinistres 
 
 <table>
   <tbody>
     <tr>
       <td>
 
-ANNÉE DE SURVENANCE (1)
+ANNÉE DE SURVENANCE (1) 
 
 </td>
       <td>
 
-(N - 12)
+(N-12) 
 
-et ant.
-
-</td>
-      <td>
-
-(N - 11)
+et ant. 
 
 </td>
       <td>
 
-(N - 10)
+(N-11) 
 
 </td>
       <td>
 
-(N - 9)
+(N-10) 
 
 </td>
       <td>
 
-(N - 8)
+(N-9) 
 
 </td>
       <td>
 
-(N - 7)
+(N-8) 
 
 </td>
       <td>
 
-(N - 6)
+(N-7) 
+
+</td>
+      <td>
+
+(N-6) 
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-1. Indemnités journalières (incapacité temporaire)
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-2. Rentes d'invalidité
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-ANNÉE DE SURVENANCE (1)
-
-</td>
-      <td>
-
-(N - 5)
-
-</td>
-      <td>
-
-(N - 4)
-
-</td>
-      <td>
-
-(N - 3)
-
-</td>
-      <td>
-
-(N - 2)
-
-</td>
-      <td>
-
-(N - 1)
-
-</td>
-      <td>
-
-(N)
-
-</td>
-      <td>
-
-TOTAL (2)
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-1. Indemnités journalières (incapacité)
+1. Indemnités journalières (incapacité temporaire) 
 
 </td>
       <td valign="top">
@@ -489,7 +391,105 @@ TOTAL (2)
     <tr>
       <td valign="top">
 
-2. Rentes d'invalidité
+2. Rentes d'invalidité 
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+ANNÉE DE SURVENANCE (1) 
+
+</td>
+      <td>
+
+(N-5) 
+
+</td>
+      <td>
+
+(N-4) 
+
+</td>
+      <td>
+
+(N-3) 
+
+</td>
+      <td>
+
+(N-2) 
+
+</td>
+      <td>
+
+(N-1) 
+
+</td>
+      <td>
+
+(N) 
+
+</td>
+      <td>
+
+TOTAL (2) 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+1. Indemnités journalières (incapacité) 
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+2. Rentes d'invalidité 
 
 </td>
       <td valign="top">
@@ -518,56 +518,56 @@ TOTAL (2)
       <td valign="top" colspan="8">
 
 (1) En cas d'arrêts de travail successifs, l'année de survenance est déterminée comme prévu au bulletin d'adhésion, au
-règlement ou au contrat.
+règlement ou au contrat. 
 
-(2) La colonne "Total" est la somme des 13 colonnes N - 12 et antérieurs à N.
+(2) La colonne " Total " est la somme des 13 colonnes N-12 et antérieurs à N. 
 
 </td>
     </tr>
   </tbody>
 </table>
 
-Lorsque la faiblesse du montant des prestations périodiques servies le justifie, l'Autorité de contrôle instituée par
-l'article L. 951-1 peut dispenser l'institution ou l'union de remplir le tableau C.
+Lorsque la faiblesse du montant des prestations périodiques servies le justifie,              l'Autorité de contrôle
+prudentiel peut dispenser l'institution ou l'union de remplir le tableau C. 
 
 ETAT C 10 
 
 COTISATIONS ET RESULTATS PAR ANNEE DE SURVENANCE DES SINISTRES. 
 
 Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au b
-et/ou au c de l'article L. 931-1 établissent, selon le modèle fixé ci-après, un état de leurs cotisations et de leurs
+et / ou au c de l'article L. 931-1 établissent, selon le modèle fixé ci-après, un état de leurs cotisations et de leurs
 résultats, par année de survenance des sinistres, pour chacune des catégories, sous-catégories ou totalisations d'opérations
 suivantes, les opérations pluriannuelles à cotisation unique ou non révisable et les opérations assimilées en application de
 l'article A. 931-10-17 étant exclues. Les institutions et les unions agréées pour pratiquer simultanément les opérations
 visées au a et au b de l'article L. 931-1 et celles agréées pour pratiquer les opérations visées au a, le cas échéant pour
 leurs garanties complémentaires, établissent ce même état C 10 : 
 
-a) Opérations directes souscrites en France : 
+a) Opérations directes souscrites en France :
 
 - dommages corporels : opérations individuelles (y compris garanties contre les dommages corporels complémentaires à des
-garanties en cas de vie ou de décès) (catégorie 20) ; 
+garanties en cas de vie ou de décès) (catégorie 20) ;
 
-- dommages corporels : opérations collectives - ensemble (y compris garanties contre les dommages corporels complémentaires à
-des garanties en cas de vie ou de décès) (catégorie 21) ; 
+- dommages corporels : opérations collectives-ensemble (y compris garanties contre les dommages corporels complémentaires à
+des garanties en cas de vie ou de décès) (catégorie 21) ;
 
 - dommages corporels : opérations collectives visées à l'article 2 de la loi n° 89-1009 du 31 décembre 1989 (y compris
 garanties contre les dommages corporels complémentaires à des garanties en cas de vie ou de décès) (sous-catégories 211 et
-212) ; 
+212) ;
 
 - dommages corporels : opérations collectives autres (y compris garanties contre les dommages corporels complémentaires à des
-garanties en cas de vie ou de décès) (sous-catégories 213 et 214) ; 
+garanties en cas de vie ou de décès) (sous-catégories 213 et 214) ;
 
-- chômage (catégorie 31) ; 
+- chômage (catégorie 31) ;
 
 - total des opérations directes souscrites en France (catégories 20 à 31) ; 
 
-b) Autres opérations : 
+b) Autres opérations :
 
-- total des contrats des catégories 20 à 31 souscrits en LPS depuis la France ; 
+- total des contrats des catégories 20 à 31 souscrits en LPS depuis la France ;
 
-- total des acceptations en France couvrant les catégories 20 à 31 ; 
+- total des acceptations en France couvrant les catégories 20 à 31 ;
 
-- total Union européenne hors France, opérations directes et acceptées des catégories 20 à 31 ; 
+- total Union européenne hors France, opérations directes et acceptées des catégories 20 à 31 ;
 
 - total hors Union européenne : opérations directes et acceptées des catégories 20 à 31. 
 
@@ -580,56 +580,56 @@ Cotisations acquises
     <tr>
       <td width="298">
 
-ANNÉE DE RATTACHEMENT
+ANNÉE DE RATTACHEMENT 
 
 </td>
       <td width="50">
 
-(N - 5)
+(N-5) 
 
-et ant.
+et ant. 
 
 </td>
       <td width="42">
 
-(N - 4)
+(N-4) 
 
 </td>
       <td>
 
-(N - 3)
+(N-3) 
 
 </td>
       <td>
 
-(N - 2)
+(N-2) 
 
 </td>
       <td>
 
-(N - 1)
+(N-1) 
 
 </td>
       <td>
 
-Ex. INV.
+Ex. INV. 
 
 </td>
       <td>
 
-TOTAL
+TOTAL 
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="298">
 
-1. Cumul des cotisations appelées, nettes d'annulations, au cours des exercices antérieurs
+1. Cumul des cotisations appelées, nettes d'annulations, au cours des exercices antérieurs 
 
 </td>
       <td width="50">
 
-XXXXX
+XXXXX 
 
 </td>
       <td width="42">
@@ -649,14 +649,14 @@ XXXXX
 </td>
       <td>
 
-XXXXX
+XXXXX 
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="298">
 
-2. Cotisations appelées, nettes d'annulations, au cours de l'exercice inventorié
+2. Cotisations appelées, nettes d'annulations, au cours de l'exercice inventorié 
 
 </td>
       <td width="50">
@@ -678,16 +678,108 @@ XXXXX
 
 </td>
       <td>
+
+</td>
+    </tr>
+    <tr>
+      <td width="298" valign="top">
+
+3. Cotisations appelées, nettes d'annulations, restant à effectuer à la fin de l'exercice inventorié 
+
+</td>
+      <td width="50">
+
+</td>
+      <td width="42">
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+    </tr>
+    <tr>
+      <td width="298" valign="top">
+
+4. Fraction des cotisations non courue à la fin de l'année de rattachement antérieure (1) 
+
+</td>
+      <td width="50">
+
+XXXXX 
+
+</td>
+      <td width="42">
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+XXXXX 
+
+</td>
+    </tr>
+    <tr>
+      <td width="298" valign="top">
+
+5. Fraction des cotisations non courue à la fin de l'année de rattachement 
+
+</td>
+      <td width="50">
+
+</td>
+      <td width="42">
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+</td>
+      <td>
+
+XXXXX 
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="298">
 
-3. Cotisations appelées, nettes d'annulations, restant à effectuer à la fin de l'exercice inventorié
+6. Total : cotisations acquises (2) 
 
 </td>
       <td width="50">
+
+XXXXX 
 
 </td>
       <td width="42">
@@ -706,45 +798,15 @@ XXXXX
 
 </td>
       <td>
+
+XXXXX 
 
 </td>
     </tr>
     <tr>
       <td width="298" valign="top">
 
-4. Fraction des cotisations non courue à la fin de l'année de rattachement antérieure (1)
-
-</td>
-      <td width="50">
-
-XXXXX
-
-</td>
-      <td width="42">
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-XXXXX
-
-</td>
-    </tr>
-    <tr>
-      <td width="298" valign="top">
-
-5. Fraction des cotisations non courue à la fin de l'année de rattachement
+Rappel : émissions, nettes d'annulations, restant à effectuer à la fin de l'exercice précédent 
 
 </td>
       <td width="50">
@@ -761,69 +823,7 @@ XXXXX
 </td>
       <td>
 
-</td>
-      <td>
-
-</td>
-      <td>
-
-XXXXX
-
-</td>
-    </tr>
-    <tr>
-      <td width="298" valign="top">
-
-6. Total : cotisations acquises (2)
-
-</td>
-      <td width="50">
-
-XXXXX
-
-</td>
-      <td width="42">
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-XXXXX
-
-</td>
-    </tr>
-    <tr>
-      <td width="298" valign="top">
-
-Rappel : émissions, nettes d'annulations, restant à effectuer à la fin de l'exercice précédent
-
-</td>
-      <td width="50">
-
-</td>
-      <td width="42">
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-</td>
-      <td>
-
-XXXXX
+XXXXX 
 
 </td>
       <td>
@@ -834,11 +834,11 @@ XXXXX
 </td>
     </tr>
     <tr>
-      <td colspan="8" valign="top">
+      <td valign="top" colspan="8">
 
-(1) Montant égal au montant inscrit en ligne 5 de la colonne précédente.
+(1) Montant égal au montant inscrit en ligne 5 de la colonne précédente. 
 
-(2) 1 + 2 + 3 + 4 - 5.
+(2) 1 + 2 + 3 + 4-5. 
 
 </td>
     </tr>
@@ -847,22 +847,22 @@ XXXXX
 
 TABLEAU B 
 
-Nombre de règlements, de contrats ou de traités de réassurance
+Nombre de règlements, de contrats ou de traités de réassurance 
 
 <table>
   <tbody>
     <tr>
       <td valign="top" width="491">
 
-Nombre à l'ouverture de l'exercice
+Nombre à l'ouverture de l'exercice 
 
 </td>
       <td valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="491">
+      <td width="491" valign="top">
 
-Nombre à la clôture de l'exercice
+Nombre à la clôture de l'exercice 
 
 </td>
       <td valign="top">
@@ -870,24 +870,24 @@ Nombre à la clôture de l'exercice
   </tbody>
 </table>
 
-TABLEAU B' 
+TABLEAU B'
 
 Nombre de risques (1) 
 
 <table>
   <tbody>
     <tr>
-      <td width="491" valign="top">
+      <td valign="top" width="491">
 
-Nombre de risques à l'ouverture de l'exercice
+Nombre de risques à l'ouverture de l'exercice 
 
 </td>
       <td valign="top">
     </td></tr>
     <tr>
-      <td width="491" valign="top">
+      <td valign="top" width="491">
 
-Nombre de risques à la clôture de l'exercice
+Nombre de risques à la clôture de l'exercice 
 
 </td>
       <td valign="top">
@@ -895,57 +895,57 @@ Nombre de risques à la clôture de l'exercice
   </tbody>
 </table>
 
-(1) Le "risque" est ici l'indicateur de volume d'activité en opérations directes, autre que le nombre de bulletins d'adhésion
-à un règlement ou de contrats, le plus significatif possible, par exemple en dommages corporels : le nombre de têtes
-assurées. L'institution ou l'union précise l'indicateur retenu.
+(1) Le " risque " est ici l'indicateur de volume d'activité en opérations directes, autre que le nombre de bulletins
+d'adhésion à un règlement ou de contrats, le plus significatif possible, par exemple en dommages corporels : le nombre de
+têtes assurées.L'institution ou l'union précise l'indicateur retenu. 
 
 TABLEAU C 
 
-Coût moyen et rapport s/c par année de survenance des sinistres
+Coût moyen et rapport s / c par année de survenance des sinistres 
 
 <table>
   <tbody>
     <tr>
       <td>
 
-ANNÉE DE SURVENANCE
+ANNÉE DE SURVENANCE 
 
 </td>
       <td>
 
-(N - 5)
+(N-5) 
 
 </td>
       <td>
 
-(N - 4)
+(N-4) 
 
 </td>
       <td>
 
-(N - 3)
+(N-3) 
 
 </td>
       <td>
 
-(N - 2)
+(N-2) 
 
 </td>
       <td>
 
-(N - 1)
+(N-1) 
 
 </td>
       <td>
 
-Ex. INV.
+Ex. INV. 
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-1. Cumul des paiements (1), nets de recours, au cours des exercices antérieurs (2)
+1. Cumul des paiements (1), nets de recours, au cours des exercices antérieurs (2) 
 
 </td>
       <td valign="top">
@@ -965,39 +965,14 @@ Ex. INV.
 </td>
       <td valign="top">
 
-XXXXX
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-2. Paiements (1), nets de recours, au cours de l'exercice inventorié (2)
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
+XXXXX 
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-3. Provisions pour sinistres à payer, nettes de prévisions de recours, à la fin de l'exercice inventorié (2)
+2. Paiements (1), nets de recours, au cours de l'exercice inventorié (2) 
 
 </td>
       <td valign="top">
@@ -1022,7 +997,7 @@ XXXXX
     <tr>
       <td valign="top">
 
-4. Charge nette de recours (2) (3)
+3. Provisions pour sinistres à payer, nettes de prévisions de recours, à la fin de l'exercice inventorié (2) 
 
 </td>
       <td valign="top">
@@ -1047,7 +1022,7 @@ XXXXX
     <tr>
       <td valign="top">
 
-5. Nombre de sinistres ou d'événements
+4. Charge nette de recours (2) (3) 
 
 </td>
       <td valign="top">
@@ -1072,7 +1047,7 @@ XXXXX
     <tr>
       <td valign="top">
 
-6. Coût moyen net de recours (4)
+5. Nombre de sinistres ou d'événements 
 
 </td>
       <td valign="top">
@@ -1097,7 +1072,7 @@ XXXXX
     <tr>
       <td valign="top">
 
-7. Cotisations acquises à l'année
+6. Coût moyen net de recours (4) 
 
 </td>
       <td valign="top">
@@ -1122,7 +1097,7 @@ XXXXX
     <tr>
       <td valign="top">
 
-8. Rapport s/c (en %)
+7. Cotisations acquises à l'année 
 
 </td>
       <td valign="top">
@@ -1145,16 +1120,41 @@ XXXXX
 </td>
     </tr>
     <tr>
-      <td colspan="7" valign="top">
+      <td valign="top">
 
-(1) Capitaux de rentes constituées dans l'exercice inclus.
+8. Rapport s / c (en %) 
 
-(2) Frais de gestion inclus.
+</td>
+      <td valign="top">
 
-(3) 1 + 2 + 3.
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" colspan="7">
+
+(1) Capitaux de rentes constituées dans l'exercice inclus. 
+
+(2) Frais de gestion inclus. 
+
+(3) 1 + 2 + 3. 
 
 (4) Par dérogation aux dispositions du premier alinéa de la présente annexe, les montants portés à cette ligne sont exprimés
-en francs.
+en francs. 
 
 </td>
     </tr>
@@ -1166,131 +1166,102 @@ ETAT C 11
 SINISTRES PAR ANNEE DE SURVENANCE. 
 
 Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au b
-et/ou au c de l'article L. 931-1 établissent, selon le modèle fixé ci-après, un état de leurs sinistres, par année de
+et / ou au c de l'article L. 931-1 établissent, selon le modèle fixé ci-après, un état de leurs sinistres, par année de
 survenance, pour chacune des catégories, sous-catégories ou totalisations d'opérations suivantes, les opérations
 pluriannuelles à cotisation unique ou non révisable et les opérations assimilées en application de l'article A. 931-10-17
 étant exclues. Les institutions et les unions agréées pour pratiquer simultanément les opérations visées au a et au b de
 l'article L. 931-1 et celles agréées uniquement pour les opérations visées au a, le cas échéant pour leurs garanties
 complémentaires, établissent ce même état C 11. 
 
-a) Opérations directes souscrites en France : 
+a) Opérations directes souscrites en France :
 
-- dommages corporels : opérations individuelles, ensemble (catégorie 20) ; 
+- dommages corporels : opérations individuelles, ensemble (catégorie 20) ;
 
-- dommages corporels : opérations individuelles, garanties frais de soins (sous-catégorie 201) ; 
+- dommages corporels : opérations individuelles, garanties frais de soins (sous-catégorie 201) ;
 
-- dommages corporels : opérations individuelles, autres garanties (sous-catégorie 202) ; 
+- dommages corporels : opérations individuelles, autres garanties (sous-catégorie 202) ;
 
-- dommages corporels : opérations collectives, ensemble (catégorie 21) ; 
+- dommages corporels : opérations collectives, ensemble (catégorie 21) ;
 
-- dommages corporels : opérations collectives, garanties frais de soins (sous-catégories 211 et 213) ; 
+- dommages corporels : opérations collectives, garanties frais de soins (sous-catégories 211 et 213) ;
 
-- dommages corporels : opérations collectives, autres garanties (sous-catégories 212 et 214) ; 
+- dommages corporels : opérations collectives, autres garanties (sous-catégories 212 et 214) ;
 
-- chômage (catégorie 31) ; 
+- chômage (catégorie 31) ;
 
 - total des opérations directes souscrites en France (catégories 20 à 31) ; 
 
-b) Autres opérations : 
+b) Autres opérations :
 
-- total des opérations des catégories 20 à 31, souscrites en LPS depuis la France ; 
+- total des opérations des catégories 20 à 31, souscrites en LPS depuis la France ;
 
-- total des acceptations en France couvrant les catégories 20 à 31 ; 
+- total des acceptations en France couvrant les catégories 20 à 31 ;
 
-- total Union européenne hors la France : opérations directes et acceptées des catégories 20 à 31 ; 
+- total Union européenne hors la France : opérations directes et acceptées des catégories 20 à 31 ;
 
 - total hors Union européenne : opérations directes et acceptées des catégories 20 à 31. 
 
 TABLEAU A 
 
-Nombre de sinistres payés ou à payer
+Nombre de sinistres payés ou à payer 
 
 <table>
   <tbody>
     <tr>
       <td>
 
-ANNÉE DE SURVENANCE
+ANNÉE DE SURVENANCE 
 
 </td>
       <td>
 
-(N - 5)
+(N-5) 
 
-et ant.
-
-</td>
-      <td>
-
-(N - 4)
+et ant. 
 
 </td>
       <td>
 
-(N - 3)
+(N-4) 
 
 </td>
       <td>
 
-(N - 2)
+(N-3) 
 
 </td>
       <td>
 
-(N - 1)
+(N-2) 
 
 </td>
       <td>
 
-Ex.
-
-INV.
+(N-1) 
 
 </td>
       <td>
 
-TOTAL
+Ex. 
+
+INV. 
+
+</td>
+      <td>
+
+TOTAL 
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-1. Terminés à l'ouverture de l'exercice inventorié (1)
+1. Terminés à l'ouverture de l'exercice inventorié (1) 
 
 </td>
       <td valign="top">
 
-XXXXX
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-XXXXX
-
-</td>
-      <td valign="top">
-
-XXXXX
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-2. Réouverts dans l'exercice
+XXXXX 
 
 </td>
       <td valign="top">
@@ -1307,18 +1278,19 @@ XXXXX
 </td>
       <td valign="top">
 
-</td>
-      <td valign="top">
+XXXXX 
 
 </td>
       <td valign="top">
+
+XXXXX 
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-3. Terminés dans l'exercice inventorié
+2. Réouverts dans l'exercice 
 
 </td>
       <td valign="top">
@@ -1346,7 +1318,7 @@ XXXXX
     <tr>
       <td valign="top">
 
-4. Restant à payer à la clôture de l'exercice inventorié (2)
+3. Terminés dans l'exercice inventorié 
 
 </td>
       <td valign="top">
@@ -1374,12 +1346,7 @@ XXXXX
     <tr>
       <td valign="top">
 
-5. Total (1 - 2 + 3 + 4)
-
-</td>
-      <td valign="top">
-
-XXXXX
+4. Restant à payer à la clôture de l'exercice inventorié (2) 
 
 </td>
       <td valign="top">
@@ -1399,14 +1366,47 @@ XXXXX
 </td>
       <td valign="top">
 
-XXXXX
+</td>
+      <td valign="top">
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-6. Dont déclarés dans l'exercice inventorié
+5. Total (1-2 + 3 + 4) 
+
+</td>
+      <td valign="top">
+
+XXXXX 
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+XXXXX 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+6. Dont déclarés dans l'exercice inventorié 
 
 </td>
       <td valign="top">
@@ -1434,9 +1434,9 @@ XXXXX
     <tr>
       <td colspan="8" valign="top">
 
-(1) 1 - 2 + 3 de l'année précédente.
+(1) 1-2 + 3 de l'année précédente. 
 
-(2) Cette ligne doit comprendre l'estimation du nombre de sinistres survenus mais non déclarés.
+(2) Cette ligne doit comprendre l'estimation du nombre de sinistres survenus mais non déclarés. 
 
 </td>
     </tr>
@@ -1445,86 +1445,58 @@ XXXXX
 
 TABLEAU B 
 
-Sinistres, paiements et provisions
+Sinistres, paiements et provisions 
 
 <table>
   <tbody>
     <tr>
       <td>
 
-ANNÉE DE SURVENANCE
+ANNÉE DE SURVENANCE 
 
 </td>
       <td>
 
-(N - 5)
+(N-5) 
 
-et ant.
-
-</td>
-      <td>
-
-(N - 4)
+et ant. 
 
 </td>
       <td>
 
-(N - 3)
+(N-4) 
 
 </td>
       <td>
 
-(N - 2)
+(N-3) 
 
 </td>
       <td>
 
-(N - 1)
+(N-2) 
 
 </td>
       <td>
 
-EX. INV.
+(N-1) 
 
 </td>
       <td>
 
-TOTAL
+EX. INV. 
+
+</td>
+      <td>
+
+TOTAL 
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-1. Paiements de sinistres dans l'exercice inventorié
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-2. Capitaux de rentes constitués dans l'exercice inventorié
+1. Paiements de sinistres dans l'exercice inventorié 
 
 </td>
       <td valign="top">
@@ -1552,7 +1524,7 @@ TOTAL
     <tr>
       <td valign="top">
 
-3. Provisions pour sinistres à payer à la clôture de l'exercice inventorié
+2. Capitaux de rentes constitués dans l'exercice inventorié 
 
 </td>
       <td valign="top">
@@ -1580,7 +1552,7 @@ TOTAL
     <tr>
       <td valign="top">
 
-4. Participations aux excédents incorporées dans l'exercice dans les prestations payées ou provisionnées
+3. Provisions pour sinistres à payer à la clôture de l'exercice inventorié 
 
 </td>
       <td valign="top">
@@ -1608,7 +1580,7 @@ TOTAL
     <tr>
       <td valign="top">
 
-5. Total
+4. Participations aux excédents incorporées dans l'exercice dans les prestations payées ou provisionnées 
 
 </td>
       <td valign="top">
@@ -1636,7 +1608,7 @@ TOTAL
     <tr>
       <td valign="top">
 
-6. Provisions pour sinistres à payer à l'ouverture de l'exercice inventorié
+5. Total 
 
 </td>
       <td valign="top">
@@ -1655,8 +1627,6 @@ TOTAL
 
 </td>
       <td valign="top">
-
-XXXXX
 
 </td>
       <td valign="top">
@@ -1666,12 +1636,7 @@ XXXXX
     <tr>
       <td valign="top">
 
-7. Paiements de sinistres et de capitaux de rentes constituées cumulés des exercices antérieurs à l'exercice inventorié
-
-</td>
-      <td valign="top">
-
-XXXXX
+6. Provisions pour sinistres à payer à l'ouverture de l'exercice inventorié 
 
 </td>
       <td valign="top">
@@ -1688,12 +1653,47 @@ XXXXX
 </td>
       <td valign="top">
 
-XXXXX
+</td>
+      <td valign="top">
+
+XXXXX 
 
 </td>
       <td valign="top">
 
-XXXXX
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+7. Paiements de sinistres et de capitaux de rentes constituées cumulés des exercices antérieurs à l'exercice inventorié 
+
+</td>
+      <td valign="top">
+
+XXXXX 
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+XXXXX 
+
+</td>
+      <td valign="top">
+
+XXXXX 
 
 </td>
     </tr>
@@ -1702,58 +1702,58 @@ XXXXX
 
 TABLEAU C 
 
-Recours
+Recours 
 
 <table>
   <tbody>
     <tr>
       <td width="293">
 
-ANNÉE DE SURVENANCE
+ANNÉE DE SURVENANCE 
 
 </td>
       <td width="49">
 
-(N - 5)
+(N-5) 
 
-et ant.
-
-</td>
-      <td>
-
-(N - 4)
+et ant. 
 
 </td>
       <td>
 
-(N - 3)
+(N-4) 
 
 </td>
       <td>
 
-(N - 2)
+(N-3) 
 
 </td>
       <td>
 
-(N - 1)
+(N-2) 
 
 </td>
       <td>
 
-EX. INV.
+(N-1) 
 
 </td>
       <td>
 
-TOTAL
+EX. INV. 
+
+</td>
+      <td>
+
+TOTAL 
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="293">
 
-1. Recours encaissés dans l'exercice inventorié
+1. Recours encaissés dans l'exercice inventorié 
 
 </td>
       <td valign="top" width="49">
@@ -1781,7 +1781,35 @@ TOTAL
     <tr>
       <td valign="top" width="293">
 
-2. Prévision de recours restant à encaisser à la clôture de l'exercice inventorié
+2. Prévision de recours restant à encaisser à la clôture de l'exercice inventorié 
+
+</td>
+      <td width="49" valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="293">
+
+3. Total 
 
 </td>
       <td width="49" valign="top">
@@ -1809,7 +1837,7 @@ TOTAL
     <tr>
       <td width="293" valign="top">
 
-3. Total
+4. Prévision de recours restant à encaisser à l'ouverture de l'exercice inventorié 
 
 </td>
       <td width="49" valign="top">
@@ -1829,6 +1857,8 @@ TOTAL
 </td>
       <td valign="top">
 
+XXXX 
+
 </td>
       <td valign="top">
 
@@ -1837,42 +1867,12 @@ TOTAL
     <tr>
       <td valign="top" width="293">
 
-4. Prévision de recours restant à encaisser à l'ouverture de l'exercice inventorié
+5. Recours encaissés cumulés des exercices antérieurs à l'exercice inventorié 
 
 </td>
       <td width="49" valign="top">
 
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-XXXX
-
-</td>
-      <td valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="293">
-
-5. Recours encaissés cumulés des exercices antérieurs à l'exercice inventorié
-
-</td>
-      <td valign="top" width="49">
-
-XXXXX
+XXXXX 
 
 </td>
       <td valign="top">
@@ -1889,12 +1889,12 @@ XXXXX
 </td>
       <td valign="top">
 
-XXXXX
+XXXXX 
 
 </td>
       <td valign="top">
 
-XXXXX
+XXXXX 
 
 </td>
     </tr>
@@ -1903,86 +1903,58 @@ XXXXX
 
 TABLEAU D 
 
-Frais de gestion des sinistres et des recours
+Frais de gestion des sinistres et des recours 
 
 <table>
   <tbody>
     <tr>
       <td>
 
-ANNÉE DE SURVENANCE
+ANNÉE DE SURVENANCE 
 
 </td>
       <td valign="top">
 
-(N - 5)
+(N-5) 
 
-et ant.
-
-</td>
-      <td valign="top">
-
-(N - 4)
+et ant. 
 
 </td>
       <td valign="top">
 
-(N - 3)
+(N-4) 
 
 </td>
       <td valign="top">
 
-(N - 2)
+(N-3) 
 
 </td>
       <td valign="top">
 
-(N - 1)
+(N-2) 
 
 </td>
       <td valign="top">
 
-EX. INV.
+(N-1) 
 
 </td>
       <td valign="top">
 
-TOTAL
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-1. Frais de gestion payés dans l'exercice inventorié
+EX. INV. 
 
 </td>
       <td valign="top">
 
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
+TOTAL 
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-2. Provision pour frais de gestion à payer à la clôture de l'exercice inventorié
+1. Frais de gestion payés dans l'exercice inventorié 
 
 </td>
       <td valign="top">
@@ -2010,7 +1982,7 @@ TOTAL
     <tr>
       <td valign="top">
 
-Total (1 + 2)
+2. Provision pour frais de gestion à payer à la clôture de l'exercice inventorié 
 
 </td>
       <td valign="top">
@@ -2038,7 +2010,7 @@ Total (1 + 2)
     <tr>
       <td valign="top">
 
-4. Provisions pour frais de gestion à payer à l'ouverture de l'exercice inventorié
+Total (1 + 2) 
 
 </td>
       <td valign="top">
@@ -2057,8 +2029,6 @@ Total (1 + 2)
 
 </td>
       <td valign="top">
-
-XXXXX
 
 </td>
       <td valign="top">
@@ -2068,12 +2038,7 @@ XXXXX
     <tr>
       <td valign="top">
 
-5. Frais de gestion payés cumulés des exercices antérieurs à l'exercice inventorié
-
-</td>
-      <td valign="top">
-
-XXXXX
+4. Provisions pour frais de gestion à payer à l'ouverture de l'exercice inventorié 
 
 </td>
       <td valign="top">
@@ -2090,12 +2055,47 @@ XXXXX
 </td>
       <td valign="top">
 
-XXXXX
+</td>
+      <td valign="top">
+
+XXXXX 
 
 </td>
       <td valign="top">
 
-XXXXX
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+5. Frais de gestion payés cumulés des exercices antérieurs à l'exercice inventorié 
+
+</td>
+      <td valign="top">
+
+XXXXX 
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+XXXXX 
+
+</td>
+      <td valign="top">
+
+XXXXX 
 
 </td>
     </tr>
@@ -2110,73 +2110,129 @@ ETAT C 12
 SINISTRES ET RESULTATS PAR ANNEE DE SOUSCRIPTION. 
 
 Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au b
-et/ou au c de l'article L. 931-1 établissent, selon le modèle fixé ci-après, un état de leurs cotisations, sinistres et
+et / ou au c de l'article L. 931-1 établissent, selon le modèle fixé ci-après, un état de leurs cotisations, sinistres et
 résultats, par année de souscription des contrats, pour chacune des deux totalisations d'opérations ci-après. Les
 institutions et les unions agréés pour pratiquer simultanément les opérations visées au a et au b de l'article L. 931-1 et
 celles agréées pour pratiquer les opérations visées au a, le cas échéant pour leurs garanties complémentaires, établissent ce
 même état C 12. 
 
-Opérations pluriannuelles à cotisation unique ou non révisable des catégories 20 à 31 : 
+Opérations pluriannuelles à cotisation unique ou non révisable des catégories 20 à 31 :
 
-- total des opérations directes souscrites en France des catégories 20 à 31 ; 
+- total des opérations directes souscrites en France des catégories 20 à 31 ;
 
 - total des autres opérations des catégories 20 à 31, y compris opérations assimilées en application du dernier alinéa de
 l'article A. 931-11-17. 
 
 TABLEAU A 
 
-Sinistres, paiements et provisions, par année de souscription
+Sinistres, paiements et provisions, par année de souscription 
 
 <table>
   <tbody>
     <tr>
       <td width="297">
 
-ANNÉE DE SOUSCRIPTION
+ANNÉE DE SOUSCRIPTION 
 
 </td>
       <td width="48">
 
-(N - 5)
+(N-5) 
 
-et ant.
-
-</td>
-      <td>
-
-(N - 4)
+et ant. 
 
 </td>
       <td>
 
-(N - 3)
+(N-4) 
 
 </td>
       <td>
 
-(N - 2)
+(N-3) 
 
 </td>
       <td>
 
-(N - 1)
+(N-2) 
 
 </td>
       <td>
 
-EX. INV.
+(N-1) 
 
 </td>
       <td>
 
-TOTAL
+EX. INV. 
+
+</td>
+      <td>
+
+TOTAL 
+
+</td>
+    </tr>
+    <tr>
+      <td width="297" valign="top">
+
+1. Paiements de sinistres dans l'exercice inventorié 
+
+</td>
+      <td valign="top" width="48">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td width="297" valign="top">
+
+2. Frais de gestion payés dans l'exercice inventorié 
+
+</td>
+      <td width="48" valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
 
 </td>
     </tr>
     <tr>
       <td valign="top" width="297">
 
-1. Paiements de sinistres dans l'exercice inventorié
+3. Recours encaissés dans l'exercice inventorié 
 
 </td>
       <td valign="top" width="48">
@@ -2204,10 +2260,10 @@ TOTAL
     <tr>
       <td valign="top" width="297">
 
-2. Frais de gestion payés dans l'exercice inventorié
+4. Provisions pour sinistres à payer à la clôture de l'exercice inventorié 
 
 </td>
-      <td valign="top" width="48">
+      <td width="48" valign="top">
 
 </td>
       <td valign="top">
@@ -2232,7 +2288,7 @@ TOTAL
     <tr>
       <td valign="top" width="297">
 
-3. Recours encaissés dans l'exercice inventorié
+5. Provisions pour frais de gestion à payer à la clôture de l'exercice inventorié 
 
 </td>
       <td width="48" valign="top">
@@ -2260,10 +2316,38 @@ TOTAL
     <tr>
       <td width="297" valign="top">
 
-4. Provisions pour sinistres à payer à la clôture de l'exercice inventorié
+6. Prévision de recours restant à encaisser à la clôture de l'exercice inventorié 
 
 </td>
-      <td width="48" valign="top">
+      <td valign="top" width="48">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="297">
+
+7. Autres provisions techniques à la clôture de l'exercice inventorié (1) 
+
+</td>
+      <td valign="top" width="48">
 
 </td>
       <td valign="top">
@@ -2288,35 +2372,7 @@ TOTAL
     <tr>
       <td width="297" valign="top">
 
-5. Provisions pour frais de gestion à payer à la clôture de l'exercice inventorié
-
-</td>
-      <td width="48" valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="297">
-
-6. Prévision de recours restant à encaisser à la clôture de l'exercice inventorié
+8. Sous-total (lignes 1 + 2-3 + 4 + 5-6 + 7) 
 
 </td>
       <td valign="top" width="48">
@@ -2335,152 +2391,6 @@ TOTAL
 
 </td>
       <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="297">
-
-7. Autres provisions techniques à la clôture de l'exercice inventorié (1)
-
-</td>
-      <td valign="top" width="48">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="297">
-
-8. Sous-total (lignes 1 + 2 - 3 + 4 + 5 - 6 + 7)
-
-</td>
-      <td valign="top" width="48">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="297">
-
-9. Provisions pour sinistres à payer à l'ouverture de l'exercice inventorié
-
-</td>
-      <td width="48" valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-XXXXX
-
-</td>
-      <td valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="297">
-
-10. Provisions pour frais de gestion à payer à l'ouverture de l'exercice inventorié
-
-</td>
-      <td valign="top" width="48">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-XXXXX
-
-</td>
-      <td valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="297">
-
-11. Prévision de recours restant à encaisser à l'ouverture de l'exercice inventorié
-
-</td>
-      <td width="48" valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-XXXXX
 
 </td>
       <td valign="top">
@@ -2490,7 +2400,127 @@ XXXXX
     <tr>
       <td width="297" valign="top">
 
-12. Autres provisions techniques à l'ouverture de l'exercice inventorié (1)
+9. Provisions pour sinistres à payer à l'ouverture de l'exercice inventorié 
+
+</td>
+      <td valign="top" width="48">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+XXXXX 
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="297">
+
+10. Provisions pour frais de gestion à payer à l'ouverture de l'exercice inventorié 
+
+</td>
+      <td valign="top" width="48">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+XXXXX 
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="297">
+
+11. Prévision de recours restant à encaisser à l'ouverture de l'exercice inventorié 
+
+</td>
+      <td valign="top" width="48">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+XXXXX 
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td width="297" valign="top">
+
+12. Autres provisions techniques à l'ouverture de l'exercice inventorié (1) 
+
+</td>
+      <td valign="top" width="48">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+XXXXX 
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td width="297" valign="top">
+
+13. Augmentation des cotisations acquises (2) 
 
 </td>
       <td width="48" valign="top">
@@ -2510,7 +2540,7 @@ XXXXX
 </td>
       <td valign="top">
 
-XXXXX
+XXXXX 
 
 </td>
       <td valign="top">
@@ -2520,40 +2550,10 @@ XXXXX
     <tr>
       <td valign="top" width="297">
 
-13. Augmentation des cotisations acquises (2)
+14. Participations aux excédents incorporées dans l'exercice aux prestations payées ou provisionnées 
 
 </td>
-      <td width="48" valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-XXXXX
-
-</td>
-      <td valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="297">
-
-14. Participations aux excédents incorporées dans l'exercice aux prestations payées ou provisionnées
-
-</td>
-      <td width="48" valign="top">
+      <td valign="top" width="48">
 
 </td>
       <td valign="top">
@@ -2576,9 +2576,9 @@ XXXXX
 </td>
     </tr>
     <tr>
-      <td valign="top" width="297">
+      <td width="297" valign="top">
 
-15. Sous-total (lignes 9 + 10 - 11 + 12 + 13 + 14)
+15. Sous-total (lignes 9 + 10-11 + 12 + 13 + 14) 
 
 </td>
       <td width="48" valign="top">
@@ -2607,9 +2607,9 @@ XXXXX
       <td valign="top" colspan="8">
 
 (1) Provisions pour cotisations non acquises nettes de frais d'acquisition reportés, provisions pour risques en cours,
-provisions pour risques croissants.
+provisions pour risques croissants. 
 
-(2) Nettes de frais d'acquisition.
+(2) Nettes de frais d'acquisition. 
 
 </td>
     </tr>
@@ -2618,80 +2618,53 @@ provisions pour risques croissants.
 
 TABLEAU B 
 
-Rapport s/c par année de souscription 
+Rapport s / c par année de souscription 
 
 <table>
   <tbody>
     <tr>
       <td>
 
-ANNÉE DE SOUSCRIPTION
+ANNÉE DE SOUSCRIPTION 
 
 </td>
       <td>
 
-(N - 5)
+(N-5) 
 
 </td>
       <td>
 
-(N - 4)
+(N-4) 
 
 </td>
       <td>
 
-(N - 3)
+(N-3) 
 
 </td>
       <td>
 
-(N - 2)
+(N-2) 
 
 </td>
       <td>
 
-(N - 1)
+(N-1) 
 
 </td>
       <td>
 
-EX.
+EX. 
 
-INV.
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-1. Cumul des paiements, nets de recours, au cours des exercices antérieurs (1)
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-XXXXX
+INV. 
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-2. Paiements, nets de recours, au cours de l'exercice inventorié (1)
+1. Cumul des paiements, nets de recours, au cours des exercices antérieurs (1) 
 
 </td>
       <td valign="top">
@@ -2710,13 +2683,15 @@ XXXXX
 
 </td>
       <td valign="top">
+
+XXXXX 
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-3. Provisions pour prestations à la fin de l'exercice inventorié (1) (2)
+2. Paiements, nets de recours, au cours de l'exercice inventorié (1) 
 
 </td>
       <td valign="top">
@@ -2741,7 +2716,7 @@ XXXXX
     <tr>
       <td valign="top">
 
-4. Charge nette de recours
+3. Provisions pour prestations à la fin de l'exercice inventorié (1) (2) 
 
 </td>
       <td valign="top">
@@ -2766,7 +2741,7 @@ XXXXX
     <tr>
       <td valign="top">
 
-5. Cumul des participations aux excédents incorporées aux prestations payées ou provisionnées
+4. Charge nette de recours 
 
 </td>
       <td valign="top">
@@ -2791,7 +2766,7 @@ XXXXX
     <tr>
       <td valign="top">
 
-6. Cotisations acquises à l'année (3)
+5. Cumul des participations aux excédents incorporées aux prestations payées ou provisionnées 
 
 </td>
       <td valign="top">
@@ -2816,7 +2791,7 @@ XXXXX
     <tr>
       <td valign="top">
 
-7. Coût net/cotisations (en %) (4)
+6. Cotisations acquises à l'année (3) 
 
 </td>
       <td valign="top">
@@ -2839,17 +2814,42 @@ XXXXX
 </td>
     </tr>
     <tr>
-      <td colspan="7" valign="top">
+      <td valign="top">
 
-(1) Frais de gestion inclus.
+7. Coût net / cotisations (en %) (4) 
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" colspan="7">
+
+(1) Frais de gestion inclus. 
 
 (2) Provisions pour cotisations non acquises nettes de frais d'acquisition reportés, provisions pour risques en cours,
-provisions pour risques croissants et provisions pour sinistres à payer, nettes de prévisions de recours.
+provisions pour risques croissants et provisions pour sinistres à payer, nettes de prévisions de recours. 
 
 (3) Cumul des cotisations, nettes d'annulations, émises au titre de l'année de souscription considérée, augmenté de
-l'estimation des cotisations à émettre, nette des cotisations à annuler.
+l'estimation des cotisations à émettre, nette des cotisations à annuler. 
 
-(4) (Ligne 4 - ligne 5)/ligne 6.
+(4) (Ligne 4-ligne 5) / ligne 6. 
 
 </td>
     </tr>
@@ -2868,86 +2868,58 @@ leurs garanties complémentaires, établissent ce même état C 13.
 
 TABLEAU A 
 
-Sinistres au titre d'opérations relevant des catégories 20 à 31 (1) (opérations directes en France)
+Sinistres au titre d'opérations relevant des catégories 20 à 31 (1) (opérations directes en France) 
 
 <table>
   <tbody>
     <tr>
       <td>
 
-ANNÉE DE SURVENANCE
+ANNÉE DE SURVENANCE 
 
 </td>
       <td>
 
-(N - 5)
+(N-5) 
 
-et ant.
-
-</td>
-      <td>
-
-(N - 4)
+et ant. 
 
 </td>
       <td>
 
-(N - 3)
+(N-4) 
 
 </td>
       <td>
 
-(N - 2)
+(N-3) 
 
 </td>
       <td>
 
-(N - 1)
+(N-2) 
 
 </td>
       <td>
 
-EX. INV.
+(N-1) 
 
 </td>
       <td>
 
-TOTAL
+EX. INV. 
+
+</td>
+      <td>
+
+TOTAL 
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-1. Paiements dans l'exercice inventorié
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-2. Provisions pour sinistres à payer à la clôture de l'exercice inventorié
+1. Paiements dans l'exercice inventorié 
 
 </td>
       <td valign="top">
@@ -2975,7 +2947,7 @@ TOTAL
     <tr>
       <td valign="top">
 
-3. Total
+2. Provisions pour sinistres à payer à la clôture de l'exercice inventorié 
 
 </td>
       <td valign="top">
@@ -3003,7 +2975,7 @@ TOTAL
     <tr>
       <td valign="top">
 
-4. Provisions pour sinistres à payer à l'ouverture de l'exercice inventorié
+3. Total 
 
 </td>
       <td valign="top">
@@ -3023,7 +2995,35 @@ TOTAL
 </td>
       <td valign="top">
 
-XXXXX
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+4. Provisions pour sinistres à payer à l'ouverture de l'exercice inventorié 
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+XXXXX 
 
 </td>
       <td valign="top">
@@ -3036,88 +3036,60 @@ XXXXX
 TABLEAU B 
 
 Sinistres au titre d'opérations pluriannuelles à cotisation unique ou non révisable des catégories 20 à 31 (opérations
-directes en France)
+directes en France) 
 
 <table>
   <tbody>
     <tr>
       <td>
 
-ANNÉE DE SURVENANCE
+ANNÉE DE SURVENANCE 
 
 </td>
       <td>
 
-(N - 5)
+(N-5) 
 
-et ant.
-
-</td>
-      <td>
-
-(N - 4)
+et ant. 
 
 </td>
       <td>
 
-(N - 3)
+(N-4) 
 
 </td>
       <td>
 
-(N - 2)
+(N-3) 
 
 </td>
       <td>
 
-(N - 1)
+(N-2) 
 
 </td>
       <td>
 
-EX.
-
-INV.
+(N-1) 
 
 </td>
       <td>
 
-TOTAL
+EX. 
+
+INV. 
+
+</td>
+      <td>
+
+TOTAL 
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-1. Paiements dans l'exercice inventorié
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-2. Provisions techniques à la clôture de l'exercice inventorié.
+1. Paiements dans l'exercice inventorié 
 
 </td>
       <td valign="top">
@@ -3145,7 +3117,7 @@ TOTAL
     <tr>
       <td valign="top">
 
-3. Total
+2. Provisions techniques à la clôture de l'exercice inventorié. 
 
 </td>
       <td valign="top">
@@ -3173,37 +3145,7 @@ TOTAL
     <tr>
       <td valign="top">
 
-4. Provisions techniques à l'ouverture de l'exercice inventorié.
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-XXXXX
-
-</td>
-      <td valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-5. Augmentation des primes acquises et autres ressources (3)
+3. Total 
 
 </td>
       <td valign="top">
@@ -3231,7 +3173,65 @@ XXXXX
     <tr>
       <td valign="top">
 
-6. Total
+4. Provisions techniques à l'ouverture de l'exercice inventorié. 
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+XXXXX 
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+5. Augmentation des primes acquises et autres ressources (3) 
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+6. Total 
 
 </td>
       <td valign="top">
@@ -3261,86 +3261,58 @@ XXXXX
 
 TABLEAU C 
 
-Sinistres au titre d'opérations des catégories 20 à 31 (2) (LPS, acceptations et opérations à l'étranger)
+Sinistres au titre d'opérations des catégories 20 à 31 (2) (LPS, acceptations et opérations à l'étranger) 
 
 <table>
   <tbody>
     <tr>
       <td>
 
-ANNÉE DE SURVENANCE
+ANNÉE DE SURVENANCE 
 
 </td>
       <td>
 
-(N - 5)
+(N-5) 
 
-et ant.
-
-</td>
-      <td>
-
-(N - 4)
+et ant. 
 
 </td>
       <td>
 
-(N - 3)
+(N-4) 
 
 </td>
       <td>
 
-(N - 2)
+(N-3) 
 
 </td>
       <td>
 
-(N - 1)
+(N-2) 
 
 </td>
       <td>
 
-EX. INV.
+(N-1) 
 
 </td>
       <td>
 
-TOTAL
+EX. INV. 
+
+</td>
+      <td>
+
+TOTAL 
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-1. Paiements dans l'exercice inventorié
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-2. Provisions pour sinistres à payer à la clôture de l'exercice inventorié
+1. Paiements dans l'exercice inventorié 
 
 </td>
       <td valign="top">
@@ -3368,7 +3340,7 @@ TOTAL
     <tr>
       <td valign="top">
 
-3. Total
+2. Provisions pour sinistres à payer à la clôture de l'exercice inventorié 
 
 </td>
       <td valign="top">
@@ -3396,7 +3368,7 @@ TOTAL
     <tr>
       <td valign="top">
 
-4. Provisions pour sinistres à payer à l'ouverture de l'exercice inventorié.
+3. Total 
 
 </td>
       <td valign="top">
@@ -3416,7 +3388,35 @@ TOTAL
 </td>
       <td valign="top">
 
-XXXXX
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+4. Provisions pour sinistres à payer à l'ouverture de l'exercice inventorié. 
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+XXXXX 
 
 </td>
       <td valign="top">
@@ -3429,86 +3429,58 @@ XXXXX
 TABLEAU D 
 
 Sinistres au titre des opérations pluriannuelles à cotisation unique ou non révisable des catégories 20 à 31 (LPS,
-acceptations et opérations à l'étranger)
+acceptations et opérations à l'étranger) 
 
 <table>
   <tbody>
     <tr>
       <td>
 
-ANNÉE DE SURVENANCE
+ANNÉE DE SURVENANCE 
 
 </td>
       <td>
 
-(N - 5)
+(N-5) 
 
-et ant.
-
-</td>
-      <td>
-
-(N - 4)
+et ant. 
 
 </td>
       <td>
 
-(N - 3)
+(N-4) 
 
 </td>
       <td>
 
-(N - 2)
+(N-3) 
 
 </td>
       <td>
 
-(N - 1)
+(N-2) 
 
 </td>
       <td>
 
-EX. INV.
+(N-1) 
 
 </td>
       <td>
 
-TOTAL
+EX. INV. 
+
+</td>
+      <td>
+
+TOTAL 
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-1. Paiements dans l'exercice inventorié
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-2. Provisions techniques à la clôture de l'exercice inventorié
+1. Paiements dans l'exercice inventorié 
 
 </td>
       <td valign="top">
@@ -3536,7 +3508,7 @@ TOTAL
     <tr>
       <td valign="top">
 
-3. Total
+2. Provisions techniques à la clôture de l'exercice inventorié 
 
 </td>
       <td valign="top">
@@ -3564,37 +3536,7 @@ TOTAL
     <tr>
       <td valign="top">
 
-4. Provisions techniques à l'ouverture de l'exercice inventorié.
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-XXXXX
-
-</td>
-      <td valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top">
-
-5. Augmentation des primes acquises et autres ressources (3)
+3. Total 
 
 </td>
       <td valign="top">
@@ -3622,7 +3564,65 @@ XXXXX
     <tr>
       <td valign="top">
 
-6. Total
+4. Provisions techniques à l'ouverture de l'exercice inventorié. 
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+XXXXX 
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+5. Augmentation des primes acquises et autres ressources (3) 
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top">
+
+6. Total 
 
 </td>
       <td valign="top">
@@ -3650,20 +3650,21 @@ XXXXX
   </tbody>
 </table>
 
-(1) Hors opérations pluriannuelles à cotisation unique ou non révisable des catégories 20 à 31.
+(1) Hors opérations pluriannuelles à cotisation unique ou non révisable des catégories 20 à 31. 
 
 (2) Hors opérations pluriannuelles à cotisation unique ou non révisable et opérations assimilées en application du dernier
-alinéa de l'article A. 931-11-17.
+alinéa de l'article A. 931-11-17. 
 
-(3) Les "autres ressources" sont la contribution des cessionnaires et rétrocessionnaires dans les participants aux excédents
-incorporées dans l'exercice aux prestations payées ou provisionnées.
+(3) Les " autres ressources " sont la contribution des cessionnaires et rétrocessionnaires dans les participants aux
+excédents incorporées dans l'exercice aux prestations payées ou provisionnées.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2005-1564 du 15 décembre 2005 - art. 14 (V) JORF 16 décembre 2005
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la sécurité sociale. - art. L951-1 (M)
+	  - Décret n°2010-217 du 3 mars 2010 - art. 5

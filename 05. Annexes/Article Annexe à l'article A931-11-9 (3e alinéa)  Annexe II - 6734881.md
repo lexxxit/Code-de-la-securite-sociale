@@ -100,11 +100,11 @@ c) Les opérations mentionnées aux a et b ci-dessus sont valorisées dans les c
 compte acquises par la clientèle depuis le précédent inventaire ; les plus et moins-values constatées à cette occasion sont
 portées aux comptes 7642 et 6642. 
 
-4. 3. Régime dérogatoire. Lorsqu'une institution ou une union en fait la demande, l'Autorité de contrôle instituée par
-l'article L. 951-1 peut la dispenser de l'utilisation de sous-compte d'attente si elle estime que ladite institution ou union
-dispose des moyens techniques et des procédures internes garantissant une stricte congruence à tout moment, sans excédent ni
-déficit, du portefeuille d'actifs inscrits en compte 24 avec les engagements en unités de compte, ainsi que la correcte
-passation des écritures comptables dans les conditions définies ci-après.
+4. 3. Régime dérogatoire. Lorsqu'une institution ou une union en fait la demande,              l'Autorité de contrôle
+prudentiel peut la dispenser de l'utilisation de sous-compte d'attente si elle estime que ladite institution ou union dispose
+des moyens techniques et des procédures internes garantissant une stricte congruence à tout moment, sans excédent ni déficit,
+du portefeuille d'actifs inscrits en compte 24 avec les engagements en unités de compte, ainsi que la correcte passation des
+écritures comptables dans les conditions définies ci-après.
 
 L'institution ou l'union ayant obtenu une telle dispense n'est pas soumise aux dispositions du 4. 1 et du 4. 2 ci-dessus. 
 
@@ -127,8 +127,8 @@ les plus ou moins-values constatées à cette occasion sont passées respectivem
 Les titres et parts virés au compte 24 entrent à ce compte à leur valeur de réalisation du jour ; les plus et moins-values
 constatées à cette occasion sont passées respectivement aux comptes 7642 et 6642. 
 
-Lorsque l'Autorité de contrôle instituée par l'article L. 951-1 constate que les procédures internes ou les moyens mis en
-oeuvre ne répondent plus ou s'avèrent en pratique insuffisants pour répondre aux exigences prévues ci-dessus, elle notifie à
+Lorsque              l'Autorité de contrôle prudentiel constate que les procédures internes ou les moyens mis en oeuvre ne
+répondent plus ou s'avèrent en pratique insuffisants pour répondre aux exigences prévues ci-dessus, elle notifie à
 l'institution ou l'union le retrait de la dispense et l'obligation de rétablir, dans le délai qu'elle fixe, l'utilisation des
 sous-comptes d'attente. 
 
@@ -367,6 +367,11 @@ les règles du plan comptable général. Ces comptes sont soldés périodiquemen
 
 ****
 
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -375,8 +380,8 @@ les règles du plan comptable général. Ces comptes sont soldés périodiquemen
 	  - Code de commerce - art. L233-16
 	  - Code de commerce - art. L233-18
 	  - Code de commerce - art. L233-19
-	  - Code des assurances - art. L310-1-1 (V)
+	  - Code des assurances - art. L310-1-1
 
 	**Modifié par**:
 
-	  - Arrêté du 28 décembre 2009 - art.
+	  - Décret n°2010-217 du 3 mars 2010 - art. 5

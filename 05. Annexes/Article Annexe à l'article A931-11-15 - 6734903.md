@@ -2,36 +2,36 @@
 
 COMPTE RENDU DETAILLE ANNUEL : RENSEIGNEMENTS GENERAUX. 
 
-Les renseignements généraux du compte rendu détaillé annuel à produire à l'Autorité de contrôle instituée par l'article L.
-951-1 par les institutions de prévoyance et les unions d'institutions de prévoyance sont les suivants :
+Les renseignements généraux du compte rendu détaillé annuel à produire à              l'Autorité de contrôle prudentiel par
+les institutions de prévoyance et les unions d'institutions de prévoyance sont les suivants : 
 
 a) La dénomination sociale de l'institution ou de l'union, son adresse, la date de son agrément, les modifications apportées
-aux statuts en cours d'exercice et, si de telles modifications sont intervenues, un exemplaire à jour des statuts ;
+aux statuts en cours d'exercice et, si de telles modifications sont intervenues, un exemplaire à jour des statuts ; 
 
-b) Les nom, date et lieu de naissance, nationalité, domicile et profession des membres du conseil d'administration ;
+b) Les nom, date et lieu de naissance, nationalité, domicile et profession des membres du conseil d'administration ; 
 
 c) Les nom, date et lieu de naissance, nationalité, domicile, grade et fonction des personnels de direction en fonction à la
-date d'établissement du compte rendu détaillé annuel ;
+date d'établissement du compte rendu détaillé annuel ; 
 
-d) Les nom, adresse et date de désignation des commissaires aux comptes titulaires et suppléants ;
+d) Les nom, adresse et date de désignation des commissaires aux comptes titulaires et suppléants ; 
 
 e) La liste des branches pratiquées en France et, pour chaque branche, la date de l'agrément administratif dans les termes de
 l'article L. 932-4 et l'année de début d'activité. Les institutions et les unions en activité le 11 août 1994 précisent, de
-plus, la date de la première approbation de chacun des règlements en vigueur dans l'institution ou l'union à cette date ;
+plus, la date de la première approbation de chacun des règlements en vigueur dans l'institution ou l'union à cette date ; 
 
 f) La liste des pays où l'institution ou l'union exerce son activité, d'une part, en régime d'établissement, d'autre part, en
 libre prestation de services et, pour chaque pays et chaque régime, des branches qu'elle y pratique, avec, pour chaque
 branche, la date de l'acte administratif ayant autorisé les opérations, lorsque l'exercice de l'activité d'assurance est
-soumis à une telle formalité, ainsi que l'année de début d'activité ;
+soumis à une telle formalité, ainsi que l'année de début d'activité ; 
 
 g) Un tableau indiquant, par pays d'établissement, l'effectif moyen annualisé du personnel salarié en distinguant les
 personnels affectés à la proposition des règlements ou des contrats des autres personnels, et, au sein de chacun de ces deux
-ensembles, les catégories suivantes : personnels de direction, cadres, non-cadres ;
+ensembles, les catégories suivantes : personnels de direction, cadres, non-cadres ; 
 
 h) La liste des règlements ou des contrats types d'assurance directe nouvellement proposés au cours de l'exercice. Chaque
 règlement ou contrat type est identifié par sa dénomination et l'indication de la catégorie ou sous-catégorie, définie à
 l'état C 4 figurant à l'annexe à l'article A. 931-11-17, à laquelle il appartient. Les différentes versions d'un règlement ou
-d'un contrat type proposés sous une même dénomination sont à considérer comme des règlement ou contrats distincts ;
+d'un contrat type proposés sous une même dénomination sont à considérer comme des règlement ou contrats distincts ; 
 
 i) La liste des tables mentionnées au b de l'article A. 931-10-10 et établies durant l'année.
 
@@ -49,36 +49,37 @@ et L. 932-18 ;
 - de la note d'information visée à l'article L. 932-15 et dont le modèle est fixé à l'article A. 932-3-4 ;
 
 - du document d'information annuelle relatif au rachat et à la réduction des contrats d'assurance vie (article L. 132-22 du
-code des assurances auquel renvoie l'article L. 932-23 du code de la sécurité sociale),
+code des assurances auquel renvoie l'article L. 932-23 du code de la sécurité sociale), 
 
 et une fiche technique explicitant les garanties accordées, le tarif appliqué (avec justification de son caractère
-suffisant), les modalités de fixation à toute époque de la valeur de rachat et de la valeur de réduction - si le bulletin
-d'adhésion, le règlement ou le contrat en comporte -, la méthode de calcul de la charge annuelle de participation aux
+suffisant), les modalités de fixation à toute époque de la valeur de rachat et de la valeur de réduction-si le bulletin
+d'adhésion, le règlement ou le contrat en comporte-, la méthode de calcul de la charge annuelle de participation aux
 excédents ainsi que le mode de répartition de celle-ci entre les participants, ayants droit et bénéficiaires (quotité et
 délai), et le calcul des provisions mathématiques.
+
+**Nota:**
+
+Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
+de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté 2006-12-21 art. 4 JORF 11 janvier 2007
+	  - Décret n°2010-217 du 3 mars 2010 - art. 5
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. A931-10-10 (M)
-	  - Code de la sécurité sociale. - art. A931-11-17 (V)
-	  - Code de la sécurité sociale. - art. A932-3-4 (T)
-	  - Code de la sécurité sociale. - art. L932-15 (M)
-	  - Code de la sécurité sociale. - art. L932-18 (M)
-	  - Code de la sécurité sociale. - art. L932-19 (M)
-	  - Code de la sécurité sociale. - art. L932-23 (M)
-	  - Code de la sécurité sociale. - art. L932-3 (M)
-	  - Code de la sécurité sociale. - art. L932-4 (M)
-	  - Code de la sécurité sociale. - art. L932-6 (M)
-	  - Code de la sécurité sociale. - art. L951-1 (M)
-	  - Code de la sécurité sociale. - art. R951-1-1 (M)
-	  - Code des assurances - art. L132-22 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la sécurité sociale. - art. L951-1 (M)
+	  - Code de la sécurité sociale. - art. A931-10-10
+	  - Code de la sécurité sociale. - art. A931-11-17
+	  - Code de la sécurité sociale. - art. A932-3-4
+	  - Code de la sécurité sociale. - art. L932-15
+	  - Code de la sécurité sociale. - art. L932-18
+	  - Code de la sécurité sociale. - art. L932-19
+	  - Code de la sécurité sociale. - art. L932-23
+	  - Code de la sécurité sociale. - art. L932-3
+	  - Code de la sécurité sociale. - art. L932-4
+	  - Code de la sécurité sociale. - art. L932-6
+	  - Code de la sécurité sociale. - art. L951-1
+	  - Code de la sécurité sociale. - art. R951-1-1
+	  - Code des assurances - art. L132-22
