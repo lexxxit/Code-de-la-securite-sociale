@@ -30,7 +30,7 @@ un ou plusieurs Etats membres de l'Union européenne font partie. En outre, sont
 lesquelles le montant brut agrégé excède 300 millions d'euros ou 10 % des fonds propres du conglomérat financier. Une
 contrepartie est soit un organisme isolé, soit plusieurs organismes appartenant au même groupe au sens du 1° de l'article R.
 931-10-34. Le tableau fait apparaître le montant agrégé des risques de contrepartie pour le secteur de l'assurance d'une
-part, pour le secteur bancaire et des entreprises d'investissement d'autre part.A cette fin, il est considéré que la
+part, pour le secteur bancaire et des entreprises d'investissement d'autre part. A cette fin, il est considéré que la
 compagnie financière holding mixte appartient au secteur financier le plus important. 
 
 <table>
@@ -81,20 +81,20 @@ RISQUES NETS
 </td>
     </tr>
     <tr>
-      <td width="106" valign="top">
+      <td valign="top" width="106">
 
 Contrepartie X 
 
 </td>
       <td width="76" valign="top">
-      </td><td width="106" valign="top">
-      </td><td width="129" valign="top">
-      </td><td width="106" valign="top">
       </td><td valign="top" width="106">
+      </td><td valign="top" width="129">
+      </td><td width="106" valign="top">
+      </td><td width="106" valign="top">
       </td><td valign="top" width="106">
     </td></tr>
     <tr>
-      <td valign="top" width="106">
+      <td width="106" valign="top">
 
 Total du secteur des assurances 
 
@@ -104,7 +104,7 @@ Total du secteur des assurances
       </td><td valign="top" width="129">
       </td><td valign="top" width="106">
       </td><td width="106" valign="top">
-      </td><td valign="top" width="106">
+      </td><td width="106" valign="top">
     </td></tr>
     <tr>
       <td width="106" valign="top">
@@ -112,12 +112,12 @@ Total du secteur des assurances
 Total du secteur bancaire et des services d'investissement 
 
 </td>
-      <td width="76" valign="top">
+      <td valign="top" width="76">
       </td><td valign="top" width="106">
-      </td><td valign="top" width="129">
-      </td><td valign="top" width="106">
+      </td><td width="129" valign="top">
       </td><td width="106" valign="top">
-      </td><td valign="top" width="106">
+      </td><td width="106" valign="top">
+      </td><td width="106" valign="top">
     </td></tr>
     <tr>
       <td valign="top" width="106">
@@ -126,9 +126,9 @@ TOTAL
 
 </td>
       <td valign="top" width="76">
-      </td><td valign="top" width="106">
-      </td><td width="129" valign="top">
       </td><td width="106" valign="top">
+      </td><td width="129" valign="top">
+      </td><td valign="top" width="106">
       </td><td valign="top" width="106">
       </td><td valign="top" width="106">
     </td></tr>
@@ -138,9 +138,9 @@ TOTAL
 Contrepartie Y 
 
 </td>
-      <td width="76" valign="top">
-      </td><td valign="top" width="106">
-      </td><td width="129" valign="top">
+      <td valign="top" width="76">
+      </td><td width="106" valign="top">
+      </td><td valign="top" width="129">
       </td><td width="106" valign="top">
       </td><td valign="top" width="106">
       </td><td valign="top" width="106">
@@ -174,7 +174,7 @@ Secteur des assurances
 
 </td>
       <td valign="top" width="175">
-      </td><td width="173" valign="top">
+      </td><td valign="top" width="173">
     </td></tr>
     <tr>
       <td width="257" valign="top">
@@ -182,8 +182,8 @@ Secteur des assurances
 Secteur bancaire et des services d'investissement 
 
 </td>
-      <td width="175" valign="top">
-      </td><td valign="top" width="173">
+      <td valign="top" width="175">
+      </td><td width="173" valign="top">
     </td></tr>
     <tr>
       <td valign="top" width="257">
@@ -191,8 +191,8 @@ Secteur bancaire et des services d'investissement
 Total 
 
 </td>
-      <td width="175" valign="top">
-      </td><td width="173" valign="top">
+      <td valign="top" width="175">
+      </td><td valign="top" width="173">
     </td></tr>
   </tbody>
 </table>
@@ -238,24 +238,21 @@ Doit également être déclaré tout ensemble de transactions intragroupes d'un 
 transactions excède le même seuil. Pour chaque type de transaction intragroupe soumise à cette obligation de déclaration est
 indiqué le montant total des transactions. 
 
-II.- l'Autorité de contrôle prudentiel définit, après consultation des autres autorités compétentes concernées et du
-conglomérat financier, les seuils de déclaration appropriés. 
+II.-l'Autorité de contrôle prudentiel et de résolution définit, après consultation des autres autorités compétentes
+concernées et du conglomérat financier, les seuils de déclaration appropriés. 
 
 Après consultation des autres autorités compétentes concernées définies au 10° de l'article L. 933-2 et du conglomérat
 financier, elle détermine les autres catégories de risques à inclure dans l'état G 21, compte tenu de la structure du
 conglomérat financier et de sa gestion des risques.
 
-**Nota:**
-
-Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
-de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code de la sécurité sociale annexe, A931-11-20, R933-2, A933-11, R931-10-34, L933-2
 
 	**Modifié par**:
 
-	  - Décret n°2010-217 du 3 mars 2010 - art. 5
+	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. A933-11 (V)
+	  - Code de la sécurité sociale. - art. R931-10-34 (V)
+	  - Code de la sécurité sociale. - art. R933-2 (V)

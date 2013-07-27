@@ -18,7 +18,7 @@ d'un préjudice corporel personnel
 <table>
   <tbody>
     <tr>
-      <td valign="top" width="473">
+      <td width="473" valign="top">
 
 1. Provisions techniques à l'ouverture de l'exercice (1) 
 
@@ -26,7 +26,7 @@ d'un préjudice corporel personnel
       <td valign="top" width="132">
     </td></tr>
     <tr>
-      <td width="473" valign="top">
+      <td valign="top" width="473">
 
 2. Capitaux entrés au cours de l'exercice 
 
@@ -34,7 +34,7 @@ d'un préjudice corporel personnel
       <td valign="top" width="132">
     </td></tr>
     <tr>
-      <td width="473" valign="top">
+      <td valign="top" width="473">
 
 3. Autres ressources (2) 
 
@@ -55,7 +55,7 @@ d'un préjudice corporel personnel
 5. Prestations payées 
 
 </td>
-      <td width="132" valign="top">
+      <td valign="top" width="132">
     </td></tr>
     <tr>
       <td width="473" valign="top">
@@ -66,15 +66,15 @@ d'un préjudice corporel personnel
       <td valign="top" width="132">
     </td></tr>
     <tr>
-      <td width="473" valign="top">
+      <td valign="top" width="473">
 
 7. Provisions techniques à la clôture de l'exercice (1) 
 
 </td>
-      <td valign="top" width="132">
+      <td width="132" valign="top">
     </td></tr>
     <tr>
-      <td width="473" valign="top">
+      <td valign="top" width="473">
 
 8. Charges de gestion (4) 
 
@@ -87,7 +87,7 @@ d'un préjudice corporel personnel
 Solde (= 1 + 2 + 3 + 4-5-6-7-8) 
 
 </td>
-      <td valign="top" width="132">
+      <td width="132" valign="top">
     </td></tr>
     <tr>
       <td colspan="2" valign="top">
@@ -290,7 +290,7 @@ Solde = 1 + 2 + 3 + 4-5-6-7-8
       </td><td valign="top">
     </td></tr>
     <tr>
-      <td valign="top" colspan="8">
+      <td colspan="8" valign="top">
 
 (1) Uniquement provisions mathématiques (Non-vie) en cas d'invalidité. 
 
@@ -515,7 +515,7 @@ TOTAL (2)
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="8">
+      <td colspan="8" valign="top">
 
 (1) En cas d'arrêts de travail successifs, l'année de survenance est déterminée comme prévu au bulletin d'adhésion, au
 règlement ou au contrat. 
@@ -527,8 +527,8 @@ règlement ou au contrat.
   </tbody>
 </table>
 
-Lorsque la faiblesse du montant des prestations périodiques servies le justifie,              l'Autorité de contrôle
-prudentiel peut dispenser l'institution ou l'union de remplir le tableau C. 
+Lorsque la faiblesse du montant des prestations périodiques servies le justifie, l'Autorité de contrôle prudentiel et de
+résolution peut dispenser l'institution ou l'union de remplir le tableau C. 
 
 ETAT C 10 
 
@@ -654,7 +654,7 @@ XXXXX
 </td>
     </tr>
     <tr>
-      <td valign="top" width="298">
+      <td width="298" valign="top">
 
 2. Cotisations appelées, nettes d'annulations, au cours de l'exercice inventorié 
 
@@ -682,7 +682,7 @@ XXXXX
 </td>
     </tr>
     <tr>
-      <td width="298" valign="top">
+      <td valign="top" width="298">
 
 3. Cotisations appelées, nettes d'annulations, restant à effectuer à la fin de l'exercice inventorié 
 
@@ -710,7 +710,7 @@ XXXXX
 </td>
     </tr>
     <tr>
-      <td width="298" valign="top">
+      <td valign="top" width="298">
 
 4. Fraction des cotisations non courue à la fin de l'année de rattachement antérieure (1) 
 
@@ -742,7 +742,7 @@ XXXXX
 </td>
     </tr>
     <tr>
-      <td width="298" valign="top">
+      <td valign="top" width="298">
 
 5. Fraction des cotisations non courue à la fin de l'année de rattachement 
 
@@ -834,7 +834,7 @@ XXXXX
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="8">
+      <td colspan="8" valign="top">
 
 (1) Montant égal au montant inscrit en ligne 5 de la colonne précédente. 
 
@@ -860,7 +860,7 @@ Nombre à l'ouverture de l'exercice
       <td valign="top">
     </td></tr>
     <tr>
-      <td width="491" valign="top">
+      <td valign="top" width="491">
 
 Nombre à la clôture de l'exercice 
 
@@ -885,7 +885,7 @@ Nombre de risques à l'ouverture de l'exercice
       <td valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="491">
+      <td width="491" valign="top">
 
 Nombre de risques à la clôture de l'exercice 
 
@@ -1751,7 +1751,7 @@ TOTAL
 </td>
     </tr>
     <tr>
-      <td valign="top" width="293">
+      <td width="293" valign="top">
 
 1. Recours encaissés dans l'exercice inventorié 
 
@@ -1779,7 +1779,7 @@ TOTAL
 </td>
     </tr>
     <tr>
-      <td valign="top" width="293">
+      <td width="293" valign="top">
 
 2. Prévision de recours restant à encaisser à la clôture de l'exercice inventorié 
 
@@ -1840,7 +1840,7 @@ TOTAL
 4. Prévision de recours restant à encaisser à l'ouverture de l'exercice inventorié 
 
 </td>
-      <td width="49" valign="top">
+      <td valign="top" width="49">
 
 </td>
       <td valign="top">
@@ -1865,12 +1865,12 @@ XXXX
 </td>
     </tr>
     <tr>
-      <td valign="top" width="293">
+      <td width="293" valign="top">
 
 5. Recours encaissés cumulés des exercices antérieurs à l'exercice inventorié 
 
 </td>
-      <td width="49" valign="top">
+      <td valign="top" width="49">
 
 XXXXX 
 
@@ -2174,7 +2174,7 @@ TOTAL
 </td>
     </tr>
     <tr>
-      <td width="297" valign="top">
+      <td valign="top" width="297">
 
 1. Paiements de sinistres dans l'exercice inventorié 
 
@@ -2207,7 +2207,7 @@ TOTAL
 2. Frais de gestion payés dans l'exercice inventorié 
 
 </td>
-      <td width="48" valign="top">
+      <td valign="top" width="48">
 
 </td>
       <td valign="top">
@@ -2230,12 +2230,12 @@ TOTAL
 </td>
     </tr>
     <tr>
-      <td valign="top" width="297">
+      <td width="297" valign="top">
 
 3. Recours encaissés dans l'exercice inventorié 
 
 </td>
-      <td valign="top" width="48">
+      <td width="48" valign="top">
 
 </td>
       <td valign="top">
@@ -2263,7 +2263,7 @@ TOTAL
 4. Provisions pour sinistres à payer à la clôture de l'exercice inventorié 
 
 </td>
-      <td width="48" valign="top">
+      <td valign="top" width="48">
 
 </td>
       <td valign="top">
@@ -2286,7 +2286,7 @@ TOTAL
 </td>
     </tr>
     <tr>
-      <td valign="top" width="297">
+      <td width="297" valign="top">
 
 5. Provisions pour frais de gestion à payer à la clôture de l'exercice inventorié 
 
@@ -2314,12 +2314,40 @@ TOTAL
 </td>
     </tr>
     <tr>
-      <td width="297" valign="top">
+      <td valign="top" width="297">
 
 6. Prévision de recours restant à encaisser à la clôture de l'exercice inventorié 
 
 </td>
-      <td valign="top" width="48">
+      <td width="48" valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+      <td valign="top">
+
+</td>
+    </tr>
+    <tr>
+      <td width="297" valign="top">
+
+7. Autres provisions techniques à la clôture de l'exercice inventorié (1) 
+
+</td>
+      <td width="48" valign="top">
 
 </td>
       <td valign="top">
@@ -2344,38 +2372,10 @@ TOTAL
     <tr>
       <td valign="top" width="297">
 
-7. Autres provisions techniques à la clôture de l'exercice inventorié (1) 
-
-</td>
-      <td valign="top" width="48">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-      <td valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td width="297" valign="top">
-
 8. Sous-total (lignes 1 + 2-3 + 4 + 5-6 + 7) 
 
 </td>
-      <td valign="top" width="48">
+      <td width="48" valign="top">
 
 </td>
       <td valign="top">
@@ -2398,7 +2398,7 @@ TOTAL
 </td>
     </tr>
     <tr>
-      <td width="297" valign="top">
+      <td valign="top" width="297">
 
 9. Provisions pour sinistres à payer à l'ouverture de l'exercice inventorié 
 
@@ -2428,7 +2428,7 @@ XXXXX
 </td>
     </tr>
     <tr>
-      <td valign="top" width="297">
+      <td width="297" valign="top">
 
 10. Provisions pour frais de gestion à payer à l'ouverture de l'exercice inventorié 
 
@@ -2463,7 +2463,7 @@ XXXXX
 11. Prévision de recours restant à encaisser à l'ouverture de l'exercice inventorié 
 
 </td>
-      <td valign="top" width="48">
+      <td width="48" valign="top">
 
 </td>
       <td valign="top">
@@ -2488,12 +2488,12 @@ XXXXX
 </td>
     </tr>
     <tr>
-      <td width="297" valign="top">
+      <td valign="top" width="297">
 
 12. Autres provisions techniques à l'ouverture de l'exercice inventorié (1) 
 
 </td>
-      <td valign="top" width="48">
+      <td width="48" valign="top">
 
 </td>
       <td valign="top">
@@ -2523,7 +2523,7 @@ XXXXX
 13. Augmentation des cotisations acquises (2) 
 
 </td>
-      <td width="48" valign="top">
+      <td valign="top" width="48">
 
 </td>
       <td valign="top">
@@ -2548,7 +2548,7 @@ XXXXX
 </td>
     </tr>
     <tr>
-      <td valign="top" width="297">
+      <td width="297" valign="top">
 
 14. Participations aux excédents incorporées dans l'exercice aux prestations payées ou provisionnées 
 
@@ -2839,7 +2839,7 @@ XXXXX
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="7">
+      <td colspan="7" valign="top">
 
 (1) Frais de gestion inclus. 
 
@@ -3667,4 +3667,4 @@ de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son arti
 
 	**Modifié par**:
 
-	  - Décret n°2010-217 du 3 mars 2010 - art. 5
+	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)

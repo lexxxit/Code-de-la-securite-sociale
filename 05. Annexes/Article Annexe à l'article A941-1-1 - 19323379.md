@@ -5,8 +5,8 @@ Renseignements généraux
 Les renseignements généraux sont les suivants : 
 
 a) La raison sociale de l'institution, son adresse, la date de dépôt des statuts auprès du ministre chargé de la sécurité
-sociale ainsi que de l'Autorité de contrôle prudentiel et un exemplaire à jour des statuts lorsque ceux-ci ont été modifiés,
-accompagné le cas échéant des modifications intervenues ; 
+sociale ainsi que de l'Autorité de contrôle prudentiel et de résolution et un exemplaire à jour des statuts lorsque ceux-ci
+ont été modifiés, accompagné le cas échéant des modifications intervenues ; 
 
 b) Les nom, date et lieu de naissance, nationalité, domicile et profession de chaque membre du conseil d'administration ; 
 
@@ -43,11 +43,6 @@ b) Le montant des appels de fonds émis auprès des organismes assureurs, ventil
 
 c) Le montant des versements effectués par l'institution au profit des bénéficiaires, ventilés par organisme assureur.
 
-**Nota:**
-
-Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
-de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
-
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -57,4 +52,4 @@ de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son arti
 
 	**Modifié par**:
 
-	  - Décret n°2010-217 du 3 mars 2010 - art. 5
+	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)

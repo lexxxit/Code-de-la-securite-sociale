@@ -2,8 +2,8 @@
 
 COMPTE RENDU DETAILLE ANNUEL : RENSEIGNEMENTS GENERAUX. 
 
-Les renseignements généraux du compte rendu détaillé annuel à produire à              l'Autorité de contrôle prudentiel par
-les institutions de prévoyance et les unions d'institutions de prévoyance sont les suivants : 
+Les renseignements généraux du compte rendu détaillé annuel à produire à l'Autorité de contrôle prudentiel et de résolution
+par les institutions de prévoyance et les unions d'institutions de prévoyance sont les suivants : 
 
 a) La dénomination sociale de l'institution ou de l'union, son adresse, la date de son agrément, les modifications apportées
 aux statuts en cours d'exercice et, si de telles modifications sont intervenues, un exemplaire à jour des statuts ; 
@@ -57,29 +57,13 @@ d'adhésion, le règlement ou le contrat en comporte-, la méthode de calcul de 
 excédents ainsi que le mode de répartition de celle-ci entre les participants, ayants droit et bénéficiaires (quotité et
 délai), et le calcul des provisions mathématiques.
 
-**Nota:**
-
-Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège
-de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.
-
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-217 du 3 mars 2010 - art. 5
+	  - Loi n°2013-672 du 26 juillet 2013 - art. 24 (V)
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. A931-10-10
-	  - Code de la sécurité sociale. - art. A931-11-17
-	  - Code de la sécurité sociale. - art. A932-3-4
-	  - Code de la sécurité sociale. - art. L932-15
-	  - Code de la sécurité sociale. - art. L932-18
-	  - Code de la sécurité sociale. - art. L932-19
-	  - Code de la sécurité sociale. - art. L932-23
-	  - Code de la sécurité sociale. - art. L932-3
-	  - Code de la sécurité sociale. - art. L932-4
-	  - Code de la sécurité sociale. - art. L932-6
-	  - Code de la sécurité sociale. - art. L951-1
-	  - Code de la sécurité sociale. - art. R951-1-1
-	  - Code des assurances - art. L132-22
+	  - Code de la sécurité sociale. - art. L932-23 (M)
+	  - Code des assurances - art. L132-22 (V)
