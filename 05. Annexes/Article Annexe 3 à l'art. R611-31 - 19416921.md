@@ -1,312 +1,252 @@
 # Article Annexe 3 à l'art. R611-31
 
-Répartition des sièges entre secteurs électoraux de la caisse provinciale des professions libérales
+ANNEXE 3
+
+À L'ARTICLE R. 611-31
+
+Répartition des sièges entre secteurs électoraux
+
+de la caisse des professions libérales de France métropolitaine
 
 <table>
   <tbody>
     <tr>
-      <td width="222">
+      <td width="454">
 
-Régions
-
-</td>
-      <td width="78">
-
-Actifs
+INTERRÉGIONS ET RÉGIONS
 
 </td>
-      <td width="79">
+      <td width="113">
 
-Retraités
+ACTIFS
 
 </td>
-      <td width="79">
+      <td width="113">
 
-Total
+RETRAITÉS
+
+</td>
+      <td width="113">
+
+TOTAL
 
 </td>
     </tr>
     <tr>
-      <td width="222">
+      <td width="454">
 
-Auvergne, Limousin
+Alsace, Lorraine, Franche-Comté
 
 </td>
-      <td width="78">
+      <td width="113">
 
 1
 
 </td>
-      <td width="79">
+      <td width="113">
 
 1
 
 </td>
-      <td width="79">
+      <td width="113">
 
 2
 
 </td>
     </tr>
     <tr>
-      <td width="222">
-
-Centre
-
-</td>
-      <td width="78">
-
-1
-
-</td>
-      <td width="79">
-
-1
-
-</td>
-      <td width="79">
-
-2
-
-</td>
-    </tr>
-    <tr>
-      <td width="222">
-
-Alsace, Lorraine
-
-</td>
-      <td width="78">
-
-2
-
-</td>
-      <td width="79">
-
-1
-
-</td>
-      <td width="79">
-
-3
-
-</td>
-    </tr>
-    <tr>
-      <td width="222">
-
-Languedoc-Roussillon
-
-</td>
-      <td width="78">
-
-2
-
-</td>
-      <td width="79">
-
-1
-
-</td>
-      <td width="79">
-
-3
-
-</td>
-    </tr>
-    <tr>
-      <td width="222">
-
-Midi-Pyrénées
-
-</td>
-      <td width="78">
-
-2
-
-</td>
-      <td width="79">
-
-1
-
-</td>
-      <td width="79">
-
-3
-
-</td>
-    </tr>
-    <tr>
-      <td width="222">
-
-Bourgogne, Franche-Comté, Champagne-Ardenne
-
-</td>
-      <td width="78">
-
-2
-
-</td>
-      <td width="79">
-
-1
-
-</td>
-      <td width="79">
-
-3
-
-</td>
-    </tr>
-    <tr>
-      <td width="222">
-
-Aquitaine
-
-</td>
-      <td width="78">
-
-2
-
-</td>
-      <td width="79">
-
-1
-
-</td>
-      <td width="79">
-
-3
-
-</td>
-    </tr>
-    <tr>
-      <td width="222">
-
-Nord - Pas-de-Calais, Picardie
-
-</td>
-      <td width="78">
-
-2
-
-</td>
-      <td width="79">
-
-1
-
-</td>
-      <td width="79">
-
-3
-
-</td>
-    </tr>
-    <tr>
-      <td width="222">
-
-Poitou-Charentes, Pays de la Loire
-
-</td>
-      <td width="78">
-
-2
-
-</td>
-      <td width="79">
-
-1
-
-</td>
-      <td width="79">
-
-3
-
-</td>
-    </tr>
-    <tr>
-      <td width="222">
-
-Bretagne, Basse-Normandie, Haute-Normandie
-
-</td>
-      <td width="78">
-
-2
-
-</td>
-      <td width="79">
-
-1
-
-</td>
-      <td width="79">
-
-3
-
-</td>
-    </tr>
-    <tr>
-      <td width="222">
-
-Provence-Alpes-Côte d'Azur, Corse
-
-</td>
-      <td width="78">
-
-3
-
-</td>
-      <td width="79">
-
-1
-
-</td>
-      <td width="79">
-
-4
-
-</td>
-    </tr>
-    <tr>
-      <td width="222">
+      <td width="454">
 
 Rhône-Alpes
 
 </td>
-      <td width="78">
+      <td width="113">
 
 3
 
 </td>
-      <td width="79">
+      <td width="113">
 
 1
 
 </td>
-      <td width="79">
+      <td width="113">
 
 4
 
 </td>
     </tr>
     <tr>
-      <td width="222">
+      <td width="454">
+
+Aquitaine, Poitou-Charentes, Pays de la Loire
+
+</td>
+      <td width="113">
+
+3
+
+</td>
+      <td width="113">
+
+1
+
+</td>
+      <td width="113">
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td width="454">
+
+Bourgogne, Centre, Limousin
+
+</td>
+      <td width="113">
+
+1
+
+</td>
+      <td width="113">
+
+1
+
+</td>
+      <td width="113">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td width="454">
+
+Basse-Normandie, Bretagne, Haute-Normandie
+
+</td>
+      <td width="113">
+
+2
+
+</td>
+      <td width="113">
+
+1
+
+</td>
+      <td width="113">
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td width="454">
+
+Corse, PACA
+
+</td>
+      <td width="113">
+
+3
+
+</td>
+      <td width="113">
+
+1
+
+</td>
+      <td width="113">
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td width="454">
+
+Champagne-Ardenne, Nord - Pas-de-Calais, Picardie
+
+</td>
+      <td width="113">
+
+1
+
+</td>
+      <td width="113">
+
+1
+
+</td>
+      <td width="113">
+
+2
+
+</td>
+    </tr>
+    <tr>
+      <td width="454">
+
+Ile-de-France
+
+</td>
+      <td width="113">
+
+8
+
+</td>
+      <td width="113">
+
+3
+
+</td>
+      <td width="113">
+
+11
+
+</td>
+    </tr>
+    <tr>
+      <td width="454">
+
+Auvergne, Languedoc-Roussillon, Midi-Pyrénées
+
+</td>
+      <td width="113">
+
+3
+
+</td>
+      <td width="113">
+
+1
+
+</td>
+      <td width="113">
+
+4
+
+</td>
+    </tr>
+    <tr>
+      <td width="454">
 
 Total
 
 </td>
-      <td width="78">
+      <td width="113">
 
-24
-
-</td>
-      <td width="79">
-
-12
+25
 
 </td>
-      <td width="79">
+      <td width="113">
+
+11
+
+</td>
+      <td width="113">
 
 36
 
@@ -317,10 +257,10 @@ Total
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Décret n°2006-83 du 27 janvier 2006 -  Annexes (V)
+	  - TRANSFERE: Décret n°2016-171 du 18 février 2016 - art.
 
-	**Modifié par**:
+	**Nouveaux textes**:
 
-	  - Décret n°2013-277 du 2 avril 2013 - art.
+	  - Code de la sécurité sociale. - art. Annexe 2 à l'art. R611-31 (VD)
