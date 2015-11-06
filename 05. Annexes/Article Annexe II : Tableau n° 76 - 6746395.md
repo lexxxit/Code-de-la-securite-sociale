@@ -1,7 +1,7 @@
 # Article Annexe II : Tableau n° 76
 
 **Maladies liées à des agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à
-domicile**.
+domicile, ou en établissement d'hébergement pour personnes âgées dépendantes**.
 
 <table>
   <tbody>
@@ -29,7 +29,7 @@ A. - Infections dues aux staphylocoques : Manifestations cliniques de staphyloco
 - panaris, avec mise en évidence du germe et typage du staphylocoque.
 
 </td>
-      <td width="76" valign="top">
+      <td valign="top" width="76">
 
 10 jours
 
@@ -42,13 +42,13 @@ mettant au contact d'un réservoir de staphylocoques.
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td valign="top" width="246">
 
 B. - Infections dues aux pseudomonas aeruginosa : - septicémie ; - localisations viscérales, cutanéo-muqueuses et oculaires,
 avec mise en évidence du germe et typage du pseudomonas aeruginosa.
 
 </td>
-      <td valign="top" width="76">
+      <td width="76" valign="top">
 
 15 jours
 
@@ -61,12 +61,12 @@ mettant au contact d'un réservoir de pseudomonas aeruginosa.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="246">
+      <td width="246" valign="top">
 
 C. - Infections dues aux entérobactéries : Septicémie confirmée par hémoculture.
 
 </td>
-      <td valign="top" width="76">
+      <td width="76" valign="top">
 
 15 jours
 
@@ -107,7 +107,7 @@ E. - Infections dues aux streptocoques bêta-hémolytiques : Manifestations clin
       <td width="76" valign="top">
 
 </td>
-      <td rowspan="6" valign="top" width="283">
+      <td valign="top" width="283" rowspan="6">
 
 Tous travaux effectués par le personnel de soins et assimilé, de laboratoire, de service, d'entretien ou de services sociaux
 mettant au contact d'un réservoir de streptocoques bêta-hémolytiques.
@@ -115,21 +115,9 @@ mettant au contact d'un réservoir de streptocoques bêta-hémolytiques.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="246">
-
-- otite compliquée ;
-
-</td>
-      <td width="76" valign="top">
-
-15 jours
-
-</td>
-    </tr>
-    <tr>
       <td width="246" valign="top">
 
-- érysipèle ;
+- otite compliquée ;
 
 </td>
       <td valign="top" width="76">
@@ -139,12 +127,24 @@ mettant au contact d'un réservoir de streptocoques bêta-hémolytiques.
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td valign="top" width="246">
+
+- érysipèle ;
+
+</td>
+      <td width="76" valign="top">
+
+15 jours
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="246">
 
 - broncho-pneumonie ;
 
 </td>
-      <td width="76" valign="top">
+      <td valign="top" width="76">
 
 15 jours
 
@@ -156,7 +156,7 @@ mettant au contact d'un réservoir de streptocoques bêta-hémolytiques.
 - endocardite ;
 
 </td>
-      <td valign="top" width="76">
+      <td width="76" valign="top">
 
 60 jours
 
@@ -175,7 +175,7 @@ mettant au contact d'un réservoir de streptocoques bêta-hémolytiques.
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td valign="top" width="246">
 
 F. - Infections dues aux méningocoques : - méningite ; - conjonctivite, confirmées par la mise en évidence de Neisseria
 meningitidis.
@@ -194,18 +194,18 @@ mettant au contact d'un réservoir de méningocoques.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="246">
+      <td width="246" valign="top">
 
 G. - Fièvres typhoïde et paratyphoïde A et B confirmées par une hémoculture mettant en évidence la salmonelle en cause et par
 le sérodiagnostic de Widal.
 
 </td>
-      <td valign="top" width="76">
+      <td width="76" valign="top">
 
 21 jours
 
 </td>
-      <td width="283" valign="top">
+      <td valign="top" width="283">
 
 Tous travaux effectués par le personnel de soins et assimilé, de laboratoire, de service, d'entretien ou de services sociaux
 mettant au contact d'un réservoir de salmonelles.
@@ -213,12 +213,12 @@ mettant au contact d'un réservoir de salmonelles.
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td valign="top" width="246">
 
 H. - Dysenterie bacillaire confirmée par la mise en évidence de shigelles dans la coproculture et par la séroconversion.
 
 </td>
-      <td width="76" valign="top">
+      <td valign="top" width="76">
 
 15 jours
 
@@ -255,12 +255,12 @@ J. - Fièvres hémorragiques (Lasse, Ebola, Marburg, Congo-Crimée) confirmées 
 présence d'anticorps spécifiques à taux significatif.
 
 </td>
-      <td valign="top" width="76">
+      <td width="76" valign="top">
 
 21 jours
 
 </td>
-      <td valign="top" width="283">
+      <td width="283" valign="top">
 
 Tous travaux effectués par le personnel de soins et assimilé, les autres personnels du service d'hospitalisation et le
 personnel de laboratoire de virologie mettant au contact des virus.
@@ -279,7 +279,7 @@ confirmées par isolement bactériologique du germe.
 10 jours
 
 </td>
-      <td width="283" valign="top">
+      <td valign="top" width="283">
 
 Tous travaux effectués par le personnel de soins et assimilé, de laboratoire, d'entretien, de service ou de services sociaux
 mettant au contact de malades infectés.
@@ -292,7 +292,7 @@ mettant au contact de malades infectés.
 L. - Syphilis. Tréponématose primaire cutanée confirmée par la mise en évidence du tréponème et par la sérologie.
 
 </td>
-      <td width="76" valign="top">
+      <td valign="top" width="76">
 
 10 semaines
 
@@ -319,7 +319,7 @@ varicelle.
 21 jours
 
 </td>
-      <td width="283" valign="top">
+      <td valign="top" width="283">
 
 Tous travaux effectués par le personnel de soins et assimilé, personnel de service, d'entretien ou de services sociaux,
 mettant en contact avec des malades présentant une varicelle ou un zona.
@@ -338,7 +338,7 @@ En dehors d'un contexte épidémique, l'affection devra être confirmée par l'i
 7 jours
 
 </td>
-      <td width="283" valign="top">
+      <td valign="top" width="283">
 
 Tous travaux effectués par le personnel de soins et assimilé, de laboratoire, d'entretien, de service ou de services sociaux
 mettant en contact direct avec des porteurs de cette scabiose.
@@ -352,12 +352,8 @@ mettant en contact direct avec des porteurs de cette scabiose.
 
 	**Codifié par**:
 
-	  - Décret n°85-1353 1985-12-17
+	  - Décret n°85-1353 du 17 décembre 1985
 
 	**Modifié par**:
 
-	  - Décret n°99-95 du 15 février 1999 - art. 1 () JORF 16 février 1999
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la sécurité sociale. - art. R461-3 (V)
+	  - Décret n°2015-1419 du 4 novembre 2015 - art. 1
