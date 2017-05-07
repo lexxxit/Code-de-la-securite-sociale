@@ -1,43 +1,37 @@
 # Article Annexe II : Tableau n° 79
 
-**LESIONS CHRONIQUES DU MENISQUE**
+Lésions chroniques du ménisque à caractère dégénératif
 
 <table>
   <tbody>
     <tr>
-      <td width="246">
+      <th>
 
-DÉSIGNATION DES MALADIES
+DÉSIGNATION DES MALADIES</th>
+      <th>
 
-</td>
-      <td width="76">
+DÉLAI
 
-DÉLAI de prise en charge
+de prise en charge</th>
+      <th>
 
-</td>
-      <td width="284">
+LISTE LIMITATIVE DES TRAVAUX
 
-LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies
-
-</td>
+susceptibles de provoquer ces maladies</th>
     </tr>
     <tr>
-      <td valign="top" width="246">
+      <td align="justify">
 
-Lésions chroniques du ménisque à caractère dégénératif, confirmées par examens complémentaires ou au cours de l'intervention
-curative, ainsi que leurs complications : fissuration ou rupture du ménisque.
+Lésions chroniques à caractère dégénératif du ménisque isolées ou associées à des lésions du cartilage articulaire,
+confirmées par IRM (*) ou au cours d'une intervention chirurgicale.
 
-</td>
-      <td valign="top" width="76">
+(*) L'arthroscanner le cas échéant.</td>
+      <td align="center">
 
-2 ans
+2 ans</td>
+      <td align="justify">
 
-</td>
-      <td width="284" valign="top">
-
-Travaux comportant des efforts ou des ports de charges exécutés habituellement en position agenouillée ou accroupie.
-
-</td>
+Travaux comportant des efforts ou des ports de charges exécutés habituellement en position agenouillée ou accroupie.</td>
     </tr>
   </tbody>
 </table>
@@ -46,12 +40,8 @@ Travaux comportant des efforts ou des ports de charges exécutés habituellement
 
 	**Codifié par**:
 
-	  - Décret n°85-1353 1985-12-17
+	  - Décret n°85-1353 du 17 décembre 1985
 
 	**Modifié par**:
 
-	  - Décret n°91-877 du 3 septembre 1991 - art. 8 () JORF 7 septembre 1991
-
-	**Liens**:
-
-	  - TXT_SOURCE: Code de la sécurité sociale. - art. R461-3 (V)
+	  - Décret n°2017-812 du 5 mai 2017 - art. 1

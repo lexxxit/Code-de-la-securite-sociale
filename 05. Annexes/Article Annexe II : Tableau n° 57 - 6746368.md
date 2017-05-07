@@ -26,43 +26,43 @@ susceptibles de provoquer ces maladies
 </td>
     </tr>
     <tr>
-      <td width="246">
+      <td>
 
 - A -
 
 </td>
-      <td width="76">
+      <td>
 
 </td>
-      <td width="283">
+      <td>
 
 </td>
     </tr>
     <tr>
-      <td width="246">
+      <td>
 
 Epaule
 
 </td>
-      <td width="76">
+      <td>
 
 </td>
-      <td width="283">
+      <td>
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="246">
+      <td>
 
 Tendinopathie aiguë non rompue non calcifiante avec ou sans enthésopathie de la coiffe des rotateurs.
 
 </td>
-      <td width="76" valign="top">
+      <td>
 
 30 jours
 
 </td>
-      <td width="283" valign="top">
+      <td>
 
 Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction (**) avec un angle supérieur ou égal à
 60° pendant au moins 3 h 30 par jour en cumulé.
@@ -70,20 +70,20 @@ Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en ab
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td>
 
 Tendinopathie chronique non rompue non calcifiante avec ou sans enthésopathie de la coiffe des rotateurs objectivée par IRM
 (*).
 
 </td>
-      <td valign="top" width="76">
+      <td>
 
 6 mois (sous réserve d'une durée d'exposition de 6 mois)
 
 </td>
-      <td width="283" valign="top">
+      <td>
 
-Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction (**) : 
+Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction (**) :
 
 - avec un angle supérieur ou égal à 60° pendant au moins deux heures par jour en cumulé
 
@@ -95,68 +95,66 @@ ou
     </tr>
     <tr>
       <td>Rupture partielle ou transfixiante de la coiffe des rotateurs objectivée par IRM (*).</td>
-      <td>1 an (sous réserve d'une durée d'exposition d'un an)
-
-</td>
+      <td>1 an (sous réserve d'une durée d'exposition d'un an)</td>
       <td>
 
-Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction (**) : 
+Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction (**) :
 
 - avec un angle supérieur ou égal à 60° pendant au moins deux heures par jour en cumulé
 
 ou
 
-- avec un angle supérieur ou égal à 90° pendant au moins une heure par jour en cumulé. 
+- avec un angle supérieur ou égal à 90° pendant au moins une heure par jour en cumulé.
 
 </td>
     </tr>
     <tr>
       <td colspan="3">
 
-(*) Ou un arthroscanner en cas de contre-indication à l'IRM. 
+(*) Ou un arthroscanner en cas de contre-indication à l'IRM.
 
 (**) Les mouvements en abduction correspondent aux mouvements entraînant un décollement des bras par rapport au corps.
 
 </td>
     </tr>
     <tr>
-      <td width="246">
+      <td>
 
 - B -
 
 </td>
-      <td width="76">
+      <td>
 
 </td>
-      <td width="283">
+      <td>
 
 </td>
     </tr>
     <tr>
-      <td width="246">
+      <td>
 
 Coude
 
 </td>
-      <td width="76">
+      <td>
 
 </td>
-      <td width="283">
+      <td>
 
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td>
 
 Tendinopathie d'insertion des muscles épicondyliens associée ou non à un syndrome du tunnel radial.
 
 </td>
-      <td width="76" valign="top">
+      <td>
 
 14 jours
 
 </td>
-      <td valign="top" width="283">
+      <td>
 
 Travaux comportant habituellement des mouvements répétés de préhension ou d'extension de la main sur l'avant-bras ou des
 mouvements de pronosupination.
@@ -164,17 +162,17 @@ mouvements de pronosupination.
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td>
 
-Tendinopathie d'insertion des muscles épitrochléens 
+Tendinopathie d'insertion des muscles épitrochléens
 
 </td>
-      <td width="76" valign="top">
+      <td>
 
 14 jours
 
 </td>
-      <td valign="top" width="283">
+      <td>
 
 Travaux comportant habituellement des mouvements répétés d'adduction ou de flexion et pronation de la main et du poignet ou
 des mouvements de pronosupination.
@@ -182,7 +180,7 @@ des mouvements de pronosupination.
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td>
 
 Hygroma : épanchement des bourses séreuses ou atteintes inflammatoires des tissus sous-cutanés des zones d'appui du coude.
 
@@ -191,76 +189,76 @@ Hygroma : épanchement des bourses séreuses ou atteintes inflammatoires des tis
 - forme chronique.
 
 </td>
-      <td valign="top" width="76">
+      <td>
 
 7 jours
 
 90 jours
 
 </td>
-      <td width="283" valign="top">
+      <td>
 
 Travaux comportant habituellement un appui prolongé sur la face postérieure du coude.
 
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td>
 
 Syndrome canalaire du nerf ulnaire dans la gouttière épithrochléo-oléocranienne confirmé par électroneuromyographie (EMG)
 
 </td>
-      <td valign="top" width="76">
+      <td>
 
 90 jours (sous réserve d'une durée d'exposition de 90 jours)
 
 </td>
-      <td width="283" valign="top">
+      <td>
 
 Travaux comportant habituellement des mouvements répétitifs et/ou des postures maintenues en flexion forcée.
 
-Travaux comportant habituellement un appui prolongé sur la face postérieure du coude. 
+Travaux comportant habituellement un appui prolongé sur la face postérieure du coude.
 
 </td>
     </tr>
     <tr>
-      <td width="246">
+      <td>
 
 - C -
 
 </td>
-      <td width="76">
+      <td>
 
 </td>
-      <td width="283">
+      <td>
 
 </td>
     </tr>
     <tr>
-      <td width="246">
+      <td>
 
 Poignet - Main et doigt
 
 </td>
-      <td width="76">
+      <td>
 
 </td>
-      <td width="283">
+      <td>
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="246">
+      <td>
 
 Tendinite.
 
 </td>
-      <td width="76" valign="top">
+      <td>
 
 7 jours
 
 </td>
-      <td valign="top" rowspan="2" width="283">
+      <td rowspan="2">
 
 Travaux comportant de façon habituelle des mouvements répétés ou prolongés des tendons fléchisseurs ou extenseurs de la main
 et des doigts.
@@ -268,29 +266,29 @@ et des doigts.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="246">
+      <td>
 
 Ténosynovite.
 
 </td>
-      <td width="76" valign="top">
+      <td>
 
 7 jours
 
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td>
 
 Syndrome du canal carpien.
 
 </td>
-      <td valign="top" width="76">
+      <td>
 
 30 jours
 
 </td>
-      <td rowspan="2" valign="top" width="283">
+      <td rowspan="2">
 
 Travaux comportant de façon habituelle, soit des mouvements répétés ou prolongés d'extension du poignet ou de préhension de
 la main, soit un appui carpien, soit une pression prolongée ou répétée sur le talon de la main.
@@ -298,179 +296,180 @@ la main, soit un appui carpien, soit une pression prolongée ou répétée sur l
 </td>
     </tr>
     <tr>
-      <td valign="top" width="246">
+      <td>
 
 Syndrome de la loge de Guyon.
 
 </td>
-      <td width="76" valign="top">
+      <td>
 
 30 jours
 
 </td>
     </tr>
     <tr>
-      <td width="246">
+      <td>
 
 - D -
 
 </td>
-      <td width="76">
+      <td>
 
 </td>
-      <td width="283">
+      <td>
 
 </td>
     </tr>
     <tr>
-      <td width="246">
+      <td>
 
 Genou
 
 </td>
-      <td width="76">
+      <td>
 
 </td>
-      <td width="283">
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="246">
-
-Syndrome de compression du nerf sciatique poplité externe.
-
-</td>
-      <td valign="top" width="76">
-
-7 jours
-
-</td>
-      <td width="283" valign="top">
-
-Travaux comportant de manière habituelle une position accroupie prolongée.
+      <td>
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="246">
+      <td>
 
-Hygromas :
-
-</td>
-      <td width="76" valign="top">
-      </td><td width="283" valign="top">
-    </td></tr>
-    <tr>
-      <td valign="top" width="246">
-
-- hygroma aigu des bourses séreuses ou atteinte inflammatoire des tissus sous-cutanés des zones d'appui du genou ;
+Compression du nerf sciatique poplité externe (SPE) (nerf fibulaire commun) au col du péroné (fibula) objectivée par ENMG.
 
 </td>
-      <td valign="top" width="76">
-
-7 jours
-
-</td>
-      <td valign="top" width="283">
-
-Travaux comportant de manière habituelle un appui prolongé sur le genou.
-
-</td>
-    </tr>
-    <tr>
-      <td width="246" valign="top">
-
-- hygroma chronique des bourses séreuses.
-
-</td>
-      <td width="76" valign="top">
+      <td>
 
 90 jours
 
 </td>
-      <td valign="top" width="283">
+      <td>
+
+Travaux comportant de manière habituelle une position prolongée en flexion forcée du genou, assis sur les talons ou accroupi.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Hygroma aigu du genou.
+
+</td>
+      <td>7 jours</td>
+      <td rowspan="2">
 
 Travaux comportant de manière habituelle un appui prolongé sur le genou.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="246">
+      <td>
 
-Tendinite sous-quadricipitale ou rotulienne.
-
-</td>
-      <td valign="top" width="76">
-
-7 jours
+Hygroma chronique du genou.
 
 </td>
-      <td valign="top" width="283">
+      <td>
 
-Travaux comportant de manière habituelle des mouvements répétés d'extension ou de flexion prolongées du genou.
+90 jours
 
 </td>
     </tr>
     <tr>
-      <td width="246" valign="top">
+      <td>
 
-Tendinite de la patte d'oie.
+Tendinopathie sous quadricipitale objectivée par échographie
 
-</td>
-      <td width="76" valign="top">
-
-7 jours
+Tendinopathie quadricipitale objectivée par échographie.
 
 </td>
-      <td valign="top" width="283">
+      <td>
 
-Travaux comportant de manière habituelle des mouvements répétés d'extension ou de flexion prolongées du genou.
+14 jours
+
+</td>
+      <td>
+
+Travaux comportant de manière habituelle des efforts en charge avec contractions répétées du quadriceps lors de la montée ou
+descente d'escalier, d'escabeau ou d'échelle.
 
 </td>
     </tr>
     <tr>
-      <td width="246">
+      <td>
+
+Tendinopathie de la patte d'oie objectivée par échographie.
+
+</td>
+      <td>
+
+14 jours
+
+</td>
+      <td>
+
+Travaux comportant de manière habituelle des mouvements répétés et rapides du genou en flexion contre résistance.
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Syndrome de la bandelette ilio-tibiale objectivée par échographie.
+
+</td>
+      <td>
+
+14 jours
+
+</td>
+      <td>
+
+Travaux comportant de manière habituelle des mouvements rapides du genou en flexion et extension lors des déplacements du
+corps.
+
+</td>
+    </tr>
+    <tr>
+      <td>
 
 - E -
 
 </td>
-      <td width="76">
+      <td>
 
 </td>
-      <td width="283">
+      <td>
 
 </td>
     </tr>
     <tr>
-      <td width="246">
+      <td>
 
 Cheville et pied
 
 </td>
-      <td width="76">
+      <td>
 
 </td>
-      <td width="283">
+      <td>
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="246">
+      <td>
 
-Tendinite achiléenne.
+Tendinopathie d'Achille objectivée par échographie (*).
 
-</td>
-      <td valign="top" width="76">
-
-7 jours
+(*) L'IRM le cas échéant.
 
 </td>
-      <td valign="top" width="283">
+      <td>
 
-Travaux comportant de manière habituelle des efforts pratiqués en station prolongée sur la pointe des pieds.
+14 jours
 
 </td>
+      <td>Travaux comportant de manière habituelle des efforts pratiqués en station prolongée sur la pointe des pieds.</td>
     </tr>
   </tbody>
 </table>
@@ -483,4 +482,4 @@ Travaux comportant de manière habituelle des efforts pratiqués en station prol
 
 	**Modifié par**:
 
-	  - Décret n°2012-937 du 1er août 2012 - art. 1
+	  - Décret n°2017-812 du 5 mai 2017 - art. 1
